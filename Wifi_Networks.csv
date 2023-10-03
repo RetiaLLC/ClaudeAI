@@ -1,0 +1,5953 @@
+X,Y,Name,description
+-74.02848053,40.7090683,(no SSID),"Network ID: 00:1F:9E:F7:3C:FF
+Encryption: WEP
+Time: 2023-07-25T16:13:27.000-07:00
+Signal: -92.0
+Accuracy: 5.52734
+Type: WIFI"
+-74.01066589,40.76070023,E07726,"Network ID: 00:20:DA:E0:77:2E
+Encryption: WPA2
+Time: 2023-07-25T16:35:19.000-07:00
+Signal: -84.0
+Accuracy: 26.5153
+Type: WIFI"
+-74.00925446,40.76239395,Netwave-1,"Network ID: 00:22:3B:0D:22:CB
+Encryption: WPA2
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -88.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.00166321,40.76295853,AER1600-aad,"Network ID: 00:30:44:20:4A:AE
+Encryption: WPA2
+Time: 2023-07-25T16:43:40.000-07:00
+Signal: -76.0
+Accuracy: 12.181
+Type: WIFI"
+-74.04304504,40.68534851,E3000-2d3,"Network ID: 00:30:44:50:72:D6
+Encryption: WPA2
+Time: 2023-07-25T16:06:12.000-07:00
+Signal: -91.0
+Accuracy: 3.6206
+Type: WIFI"
+-74.04132843,40.68637848,E3000-2d3-5g,"Network ID: 00:30:44:50:72:D7
+Encryption: WPA2
+Time: 2023-07-25T16:06:57.000-07:00
+Signal: -87.0
+Accuracy: 5.56213
+Type: WIFI"
+-74.0015564,40.76298141,E3000-d35,"Network ID: 00:30:44:51:1D:38
+Encryption: WPA2
+Time: 2023-07-25T16:47:34.000-07:00
+Signal: -89.0
+Accuracy: 10.5043
+Type: WIFI"
+-74.00939941,40.76223373,E3000-da3-5g,"Network ID: 00:30:44:51:1D:A7
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -84.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.00188446,40.7633667,E3000-d04,"Network ID: 00:30:44:54:6D:07
+Encryption: WPA2
+Time: 2023-07-25T16:41:29.000-07:00
+Signal: -81.0
+Accuracy: 23.7922
+Type: WIFI"
+-74.00218201,40.76355362,E3000-d04-5g,"Network ID: 00:30:44:54:6D:08
+Encryption: WPA2
+Time: 2023-07-25T16:41:06.000-07:00
+Signal: -83.0
+Accuracy: 12.6504
+Type: WIFI"
+-74.00925446,40.76239395,E3000-d13-5g,"Network ID: 00:30:44:54:6D:17
+Encryption: WPA2
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -88.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.04554749,40.68551254,E3000-d27,"Network ID: 00:30:44:54:6D:2A
+Encryption: WPA2
+Time: 2023-07-25T16:05:09.000-07:00
+Signal: -93.0
+Accuracy: 6.40886
+Type: WIFI"
+-74.04460144,40.68640137,E3000-d27-5g,"Network ID: 00:30:44:54:6D:2B
+Encryption: WPA2
+Time: 2023-07-25T16:04:21.000-07:00
+Signal: -79.0
+Accuracy: 6.58814
+Type: WIFI"
+-74.00912476,40.76254654,E3000-752,"Network ID: 00:30:44:54:E7:55
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -75.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.00907135,40.76260757,E3000-752-5g,"Network ID: 00:30:44:54:E7:56
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -85.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00154877,40.7630043,E3000-8a6,"Network ID: 00:30:44:54:E8:A9
+Encryption: WPA2
+Time: 2023-07-25T16:47:54.000-07:00
+Signal: -90.0
+Accuracy: 12.0286
+Type: WIFI"
+-74.00907135,40.76260757,E3000-8a6-5g,"Network ID: 00:30:44:54:E8:AA
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -88.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00157928,40.76301956,1409,"Network ID: 00:31:92:DB:AE:D9
+Encryption: WPA2
+Time: 2023-07-25T16:48:22.000-07:00
+Signal: -88.0
+Accuracy: 10.6134
+Type: WIFI"
+-74.00917816,40.7624855,1409_5G,"Network ID: 00:31:92:DB:AE:DB
+Encryption: WPA2
+Time: 2023-07-25T16:36:48.000-07:00
+Signal: -88.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.00991821,40.76154709,AlphaBeta,"Network ID: 00:35:FB:8E:BA:50
+Encryption: WPA2
+Time: 2023-07-25T16:36:16.000-07:00
+Signal: -75.0
+Accuracy: 5.16616
+Type: WIFI"
+-74.00898743,40.76269913,A64BAC,"Network ID: 00:3E:5D:A6:4B:B4
+Encryption: WPA2
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -80.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.00793457,40.76383972,9ADD9E,"Network ID: 00:57:94:9A:DD:A6
+Encryption: WPA2
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -83.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.04139709,40.68632126,Seanwind,"Network ID: 00:AB:48:53:0B:A6
+Encryption: WPA2
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -86.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.04139709,40.68632126,(no SSID),"Network ID: 00:AB:48:53:0B:A8
+Encryption: Unknown
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -86.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.02619934,40.7156105,oneGuest,"Network ID: 00:BE:75:6F:6C:CB
+Encryption: Unknown
+Time: 2023-07-25T16:15:00.000-07:00
+Signal: -89.0
+Accuracy: 3.6206
+Type: WIFI"
+-74.02610779,40.71605682,oneConnect-Private,"Network ID: 00:BE:75:6F:6C:CC
+Encryption: WPA2
+Time: 2023-07-25T16:15:06.000-07:00
+Signal: -91.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.02619934,40.7156105,oneConnect-Public,"Network ID: 00:BE:75:6F:6C:CD
+Encryption: Unknown
+Time: 2023-07-25T16:15:00.000-07:00
+Signal: -90.0
+Accuracy: 5.04722
+Type: WIFI"
+-74.02619934,40.7156105,oneConnect-Guest,"Network ID: 00:BE:75:6F:6C:CE
+Encryption: Unknown
+Time: 2023-07-25T16:15:00.000-07:00
+Signal: -90.0
+Accuracy: 5.04722
+Type: WIFI"
+-74.02627563,40.71517181,oneGuest,"Network ID: 00:BE:75:6F:70:6B
+Encryption: Unknown
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -85.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.02702332,40.71277618,oneConnect-Private,"Network ID: 00:BE:75:6F:70:6C
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -92.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.02648926,40.71423721,oneConnect-Public,"Network ID: 00:BE:75:6F:70:6D
+Encryption: Unknown
+Time: 2023-07-25T16:14:41.000-07:00
+Signal: -91.0
+Accuracy: 4.91546
+Type: WIFI"
+-74.02627563,40.71517181,oneConnect-Guest,"Network ID: 00:BE:75:6F:70:6E
+Encryption: Unknown
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -85.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.00839233,40.76336288,(no SSID),"Network ID: 00:FC:BA:53:68:0D
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -90.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00839233,40.76336288,(no SSID),"Network ID: 00:FC:BA:64:A1:44
+Encryption: Unknown
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -89.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.0406723,40.68694687,(no SSID),"Network ID: 02:12:63:49:13:7C
+Encryption: WPA2
+Time: 2023-07-25T16:07:22.000-07:00
+Signal: -89.0
+Accuracy: 4.40187
+Type: WIFI"
+-74.03898621,40.68847656,(no SSID),"Network ID: 02:12:63:49:13:7D
+Encryption: WPA2
+Time: 2023-07-25T16:08:12.000-07:00
+Signal: -93.0
+Accuracy: 5.78473
+Type: WIFI"
+-74.00158691,40.76298523,PurpleAir,"Network ID: 02:18:4A:93:39:80
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -90.0
+Accuracy: 10.5043
+Type: WIFI"
+-74.00153351,40.76300812,Pier83-Office,"Network ID: 02:18:4A:93:39:86
+Encryption: WPA2
+Time: 2023-07-25T16:46:59.000-07:00
+Signal: -90.0
+Accuracy: 10.5043
+Type: WIFI"
+-74.00156403,40.76299286,(no SSID),"Network ID: 02:18:4A:93:39:8F
+Encryption: WEP
+Time: 2023-07-25T16:47:19.000-07:00
+Signal: -84.0
+Accuracy: 25.9157
+Type: WIFI"
+-74.00158691,40.76298523,NYCL_Public,"Network ID: 02:18:4A:93:3A:90
+Encryption: Unknown
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -94.0
+Accuracy: 27.3306
+Type: WIFI"
+-74.00158691,40.76298523,NYCL WiFi,"Network ID: 02:18:4A:93:3A:91
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -93.0
+Accuracy: 27.3306
+Type: WIFI"
+-74.00158691,40.76298523,PurpleAir,"Network ID: 02:18:4A:93:3A:93
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -92.0
+Accuracy: 27.3306
+Type: WIFI"
+-74.00158691,40.76298523,PurpleAir,"Network ID: 02:18:5A:93:39:80
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -91.0
+Accuracy: 13.0627
+Type: WIFI"
+-74.00158691,40.76298523,(no SSID),"Network ID: 02:18:5A:93:39:81
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -90.0
+Accuracy: 27.3306
+Type: WIFI"
+-74.00158691,40.76298523,Circle line-Public,"Network ID: 02:18:5A:93:39:82
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -91.0
+Accuracy: 27.3306
+Type: WIFI"
+-74.00158691,40.76298523,Pier83-Office,"Network ID: 02:18:5A:93:39:86
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -91.0
+Accuracy: 13.0627
+Type: WIFI"
+-74.00158691,40.76298523,(no SSID),"Network ID: 02:18:5A:93:39:8F
+Encryption: WEP
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -93.0
+Accuracy: 15.4874
+Type: WIFI"
+-74.0015564,40.76298141,NYCL_Public,"Network ID: 02:18:5A:93:3A:90
+Encryption: Unknown
+Time: 2023-07-25T16:47:34.000-07:00
+Signal: -92.0
+Accuracy: 14.6082
+Type: WIFI"
+-74.0015564,40.76298141,NYCL WiFi,"Network ID: 02:18:5A:93:3A:91
+Encryption: WPA2
+Time: 2023-07-25T16:47:34.000-07:00
+Signal: -91.0
+Accuracy: 14.6082
+Type: WIFI"
+-74.0015564,40.76298141,PurpleAir,"Network ID: 02:18:5A:93:3A:93
+Encryption: WPA2
+Time: 2023-07-25T16:47:34.000-07:00
+Signal: -92.0
+Accuracy: 14.6082
+Type: WIFI"
+-74.00157928,40.7630043,(no SSID),"Network ID: 02:18:5A:93:3A:9F
+Encryption: WEP
+Time: 2023-07-25T16:48:31.000-07:00
+Signal: -90.0
+Accuracy: 13.0627
+Type: WIFI"
+-74.02602386,40.71642303,Spectrum Mobile,"Network ID: 02:19:5D:3A:8D:4C
+Encryption: WPA2
+Time: 2023-07-25T16:15:11.000-07:00
+Signal: -90.0
+Accuracy: 4.68533
+Type: WIFI"
+-74.00991821,40.76154709,(no SSID),"Network ID: 02:35:FB:8E:BA:50
+Encryption: Unknown
+Time: 2023-07-25T16:36:16.000-07:00
+Signal: -77.0
+Accuracy: 5.16616
+Type: WIFI"
+-74.02616119,40.71582031,Dotdash Meredith guest,"Network ID: 02:7B:D8:EA:38:4C
+Encryption: WPA2
+Time: 2023-07-25T16:15:03.000-07:00
+Signal: -83.0
+Accuracy: 5.2682
+Type: WIFI"
+-74.00202942,40.76343536,(no SSID),"Network ID: 02:8D:CB:70:0D:14
+Encryption: WPA2
+Time: 2023-07-25T16:41:19.000-07:00
+Signal: -83.0
+Accuracy: 13.0337
+Type: WIFI"
+-74.00261688,40.76376724,(no SSID),"Network ID: 02:8D:DB:70:0D:14
+Encryption: WPA2
+Time: 2023-07-25T16:40:39.000-07:00
+Signal: -80.0
+Accuracy: 11.2631
+Type: WIFI"
+-74.02863312,40.70798111,(no SSID),"Network ID: 02:9F:C2:3E:4F:FD
+Encryption: WPA2
+Time: 2023-07-25T16:13:12.000-07:00
+Signal: -87.0
+Accuracy: 5.03154
+Type: WIFI"
+-74.02767181,40.71140671,(no SSID),"Network ID: 02:9F:C2:3E:BA:DB
+Encryption: WPA2
+Time: 2023-07-25T16:14:00.000-07:00
+Signal: -90.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.02553558,40.71813202,gt2.4,"Network ID: 04:42:1A:4F:40:F0
+Encryption: WPA2
+Time: 2023-07-25T16:15:35.000-07:00
+Signal: -82.0
+Accuracy: 5.33958
+Type: WIFI"
+-74.02845001,40.70921707,(no SSID),"Network ID: 04:42:1A:91:55:58
+Encryption: WPA2
+Time: 2023-07-25T16:13:29.000-07:00
+Signal: -92.0
+Accuracy: 5.03154
+Type: WIFI"
+-74.02598572,40.71656036,bundanoon24,"Network ID: 04:92:26:82:50:58
+Encryption: WPA2
+Time: 2023-07-25T16:15:13.000-07:00
+Signal: -84.0
+Accuracy: 4.82606
+Type: WIFI"
+-74.02784729,40.71106339,yobo,"Network ID: 04:A2:22:F9:44:80
+Encryption: WPA2
+Time: 2023-07-25T16:13:55.000-07:00
+Signal: -81.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.02693939,40.71298981,yobo,"Network ID: 04:A2:22:F9:44:81
+Encryption: WPA2
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -89.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02693939,40.71298981,yobo,"Network ID: 04:A2:22:F9:44:82
+Encryption: WPA2
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -89.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02627563,40.71517181,(no SSID),"Network ID: 06:31:92:14:E6:7A
+Encryption: WPA2
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -81.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.02863312,40.70798111,(no SSID),"Network ID: 06:9F:C2:3E:4F:FD
+Encryption: WPA2
+Time: 2023-07-25T16:13:12.000-07:00
+Signal: -87.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.00912476,40.76254654,NIGHTHAWK,"Network ID: 08:02:8E:E8:9C:EC
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -80.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.02363586,40.72385025,(no SSID),"Network ID: 0A:11:EE:48:60:33
+Encryption: WPA2
+Time: 2023-07-25T16:16:55.000-07:00
+Signal: -87.0
+Accuracy: 22.1974
+Type: WIFI"
+-74.02622986,40.7154007,(no SSID),"Network ID: 0A:56:EE:C8:08:BF
+Encryption: WPA2
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -91.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.02619934,40.7156105,Dotdashmeredith,"Network ID: 0A:7B:D8:EA:38:4C
+Encryption: WPA2
+Time: 2023-07-25T16:15:00.000-07:00
+Signal: -87.0
+Accuracy: 4.68533
+Type: WIFI"
+-74.02837372,40.70960999,GI_Private,"Network ID: 0A:8D:CB:D9:26:AA
+Encryption: WPA2
+Time: 2023-07-25T16:13:34.000-07:00
+Signal: -88.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.00158691,40.76298523,ShowTime,"Network ID: 0C:8D:DB:D9:28:2A
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -88.0
+Accuracy: 27.3306
+Type: WIFI"
+-74.00975037,40.76181793,MAV,"Network ID: 0C:F4:D5:2D:FD:5C
+Encryption: WPA2
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -89.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.00975037,40.76181793,JLL_Mgmt,"Network ID: 0C:F4:D5:6D:FD:5C
+Encryption: WPA2
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -86.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.00975037,40.76181793,540W26_Guest,"Network ID: 0C:F4:D5:AD:FD:5C
+Encryption: WPA2
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -88.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.02602386,40.71642303,Spectrum Mobile,"Network ID: 0E:05:95:83:54:57
+Encryption: WPA2
+Time: 2023-07-25T16:15:11.000-07:00
+Signal: -87.0
+Accuracy: 4.68533
+Type: WIFI"
+-74.00157928,40.76301956,ShowTime,"Network ID: 0E:8D:CB:D9:28:2A
+Encryption: WPA2
+Time: 2023-07-25T16:48:19.000-07:00
+Signal: -87.0
+Accuracy: 10.1334
+Type: WIFI"
+-74.02752686,40.71167755,1stBorn-5,"Network ID: 10:0C:6B:FA:06:09
+Encryption: WPA2
+Time: 2023-07-25T16:14:04.000-07:00
+Signal: -87.0
+Accuracy: 3.79472
+Type: WIFI"
+-74.00991821,40.76154709,(no SSID),"Network ID: 12:35:FB:8E:BA:50
+Encryption: Unknown
+Time: 2023-07-25T16:36:16.000-07:00
+Signal: -78.0
+Accuracy: 5.16616
+Type: WIFI"
+-74.02767181,40.71140671,(no SSID),"Network ID: 12:3F:1B:59:0B:8E
+Encryption: WPA2
+Time: 2023-07-25T16:14:00.000-07:00
+Signal: -91.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.02760315,40.71153641,ARLO_VMB_1560026206,"Network ID: 14:59:C0:A7:DE:C8
+Encryption: WPA2
+Time: 2023-07-25T16:14:02.000-07:00
+Signal: -80.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.02693939,40.71298981,joecbos,"Network ID: 14:7D:05:68:69:9E
+Encryption: WPA2
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -89.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.04071045,40.68690872,yamandou's Network 5GHz,"Network ID: 14:DD:A9:85:9B:F4
+Encryption: WPA2
+Time: 2023-07-25T16:07:20.000-07:00
+Signal: -91.0
+Accuracy: 4.66135
+Type: WIFI"
+-74.02661896,40.71380997,(no SSID),"Network ID: 16:11:32:96:49:3F
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -88.0
+Accuracy: 5.30288
+Type: WIFI"
+-74.02812958,40.7103653,IslandNet Admin,"Network ID: 16:8D:CB:D9:26:AA
+Encryption: WPA2
+Time: 2023-07-25T16:13:45.000-07:00
+Signal: -85.0
+Accuracy: 3.78449
+Type: WIFI"
+-74.02507782,40.71935654,(no SSID),"Network ID: 16:93:7C:C6:63:E3
+Encryption: WPA2
+Time: 2023-07-25T16:15:52.000-07:00
+Signal: -90.0
+Accuracy: 5.99817
+Type: WIFI"
+-74.0258255,40.71722412,#DwntwnAllianceFreeWiFi,"Network ID: 18:4B:0D:21:A9:9C
+Encryption: Unknown
+Time: 2023-07-25T16:15:23.000-07:00
+Signal: -91.0
+Accuracy: 7.05544
+Type: WIFI"
+-74.02661896,40.71380997,#DwntwnAllianceFreeWiFi,"Network ID: 18:4B:0D:26:C4:3C
+Encryption: Unknown
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -84.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.02655792,40.71401215,#DwntwnAllianceFreeWiFi,"Network ID: 18:4B:0D:26:D1:5C
+Encryption: Unknown
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -83.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.0258255,40.71722412,#Battery Park City Free WiFi,"Network ID: 18:4B:0D:61:A9:9C
+Encryption: Unknown
+Time: 2023-07-25T16:15:23.000-07:00
+Signal: -89.0
+Accuracy: 7.05544
+Type: WIFI"
+-74.02661896,40.71380997,#Battery Park City Free WiFi,"Network ID: 18:4B:0D:66:C4:3C
+Encryption: Unknown
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -85.0
+Accuracy: 5.09479
+Type: WIFI"
+-74.02655792,40.71401215,#Battery Park City Free WiFi,"Network ID: 18:4B:0D:66:D1:5C
+Encryption: Unknown
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -83.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.0258255,40.71722412,(no SSID),"Network ID: 18:4B:0D:A1:A9:9C
+Encryption: WPA2
+Time: 2023-07-25T16:15:23.000-07:00
+Signal: -91.0
+Accuracy: 7.05544
+Type: WIFI"
+-74.02655792,40.71401215,(no SSID),"Network ID: 18:4B:0D:A6:C4:37
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -85.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.02661896,40.71380997,(no SSID),"Network ID: 18:4B:0D:A6:C4:3C
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -85.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.02661896,40.71380997,(no SSID),"Network ID: 18:4B:0D:A6:D1:5C
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -85.0
+Accuracy: 3.85326
+Type: WIFI"
+-74.0258255,40.71722412,Orion,"Network ID: 18:4B:0D:E1:A9:9C
+Encryption: WPA2
+Time: 2023-07-25T16:15:23.000-07:00
+Signal: -91.0
+Accuracy: 7.05544
+Type: WIFI"
+-74.02661896,40.71380997,Orion,"Network ID: 18:4B:0D:E6:C4:3C
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -84.0
+Accuracy: 5.09479
+Type: WIFI"
+-74.02661896,40.71380997,Orion,"Network ID: 18:4B:0D:E6:D1:5C
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -85.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.02586365,40.71709442,GammaNJ,"Network ID: 18:E8:29:9B:72:2F
+Encryption: WPA2
+Time: 2023-07-25T16:15:21.000-07:00
+Signal: -93.0
+Accuracy: 6.40248
+Type: WIFI"
+-74.02752686,40.71167755,1stBorn-G,"Network ID: 1A:0C:6B:FA:06:09
+Encryption: WPA2
+Time: 2023-07-25T16:14:04.000-07:00
+Signal: -89.0
+Accuracy: 3.79472
+Type: WIFI"
+-74.00925446,40.76239395,(no SSID),"Network ID: 1A:8D:CB:70:04:1B
+Encryption: WPA2
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -85.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.0016861,40.76290131,(no SSID),"Network ID: 1A:8D:CB:70:09:9B
+Encryption: WPA2
+Time: 2023-07-25T16:44:39.000-07:00
+Signal: -90.0
+Accuracy: 40.4914
+Type: WIFI"
+-74.00898743,40.76269913,(no SSID),"Network ID: 1A:8D:CB:70:0D:2F
+Encryption: WPA2
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -87.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.01005554,40.76133347,Harbor Amenities,"Network ID: 1A:E8:29:58:D0:B9
+Encryption: Unknown
+Time: 2023-07-25T16:36:07.000-07:00
+Signal: -92.0
+Accuracy: 5.84236
+Type: WIFI"
+-74.00907135,40.76260757,(no SSID),"Network ID: 1C:B9:C4:74:25:CC
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -90.0
+Accuracy: 4.01636
+Type: WIFI"
+-74.04367065,40.68509674,GOLD,"Network ID: 1C:DE:A7:DF:0C:6D
+Encryption: WPA2
+Time: 2023-07-25T16:05:58.000-07:00
+Signal: -89.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.04373932,40.68506622,SILVER,"Network ID: 1C:DE:A7:DF:0C:6E
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -90.0
+Accuracy: 5.68999
+Type: WIFI"
+-74.04389954,40.68501282,PLATINUM,"Network ID: 1C:DE:A7:DF:0C:6F
+Encryption: WPA2
+Time: 2023-07-25T16:05:52.000-07:00
+Signal: -93.0
+Accuracy: 6.01594
+Type: WIFI"
+-74.00925446,40.76239395,(no SSID),"Network ID: 1E:8D:CB:70:04:1B
+Encryption: WPA2
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -84.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.04442596,40.68495178,(no SSID),"Network ID: 1E:8D:CB:70:08:F7
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -79.0
+Accuracy: 3.94433
+Type: WIFI"
+-74.04486084,40.68503571,(no SSID),"Network ID: 1E:8D:CB:70:0A:E9
+Encryption: WPA2
+Time: 2023-07-25T16:05:31.000-07:00
+Signal: -89.0
+Accuracy: 3.85326
+Type: WIFI"
+-74.04442596,40.68495178,(no SSID),"Network ID: 1E:8D:CB:70:0B:28
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -71.0
+Accuracy: 3.79472
+Type: WIFI"
+-74.0451355,40.68633652,(no SSID),"Network ID: 1E:8D:CB:70:0C:90
+Encryption: WPA2
+Time: 2023-07-25T16:04:35.000-07:00
+Signal: -89.0
+Accuracy: 4.76058
+Type: WIFI"
+-74.00255585,40.76373672,(no SSID),"Network ID: 1E:8D:CB:70:0C:94
+Encryption: WPA2
+Time: 2023-07-25T16:40:43.000-07:00
+Signal: -84.0
+Accuracy: 10.8875
+Type: WIFI"
+-74.00255585,40.76373672,(no SSID),"Network ID: 1E:8D:CB:70:0C:E4
+Encryption: WPA2
+Time: 2023-07-25T16:40:43.000-07:00
+Signal: -78.0
+Accuracy: 10.6091
+Type: WIFI"
+-74.04460144,40.68497086,(no SSID),"Network ID: 1E:8D:CB:70:0C:F4
+Encryption: WPA2
+Time: 2023-07-25T16:05:37.000-07:00
+Signal: -60.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.00274658,40.76382065,(no SSID),"Network ID: 1E:8D:CB:70:0D:03
+Encryption: WPA2
+Time: 2023-07-25T16:40:33.000-07:00
+Signal: -84.0
+Accuracy: 10.6091
+Type: WIFI"
+-74.00898743,40.76269913,(no SSID),"Network ID: 1E:8D:CB:70:0D:2F
+Encryption: WPA2
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -87.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.04541779,40.68619537,(no SSID),"Network ID: 1E:8D:DB:70:08:E3
+Encryption: WPA2
+Time: 2023-07-25T16:04:44.000-07:00
+Signal: -81.0
+Accuracy: 5.00297
+Type: WIFI"
+-74.04381561,40.68503952,(no SSID),"Network ID: 1E:8D:DB:70:08:F7
+Encryption: WPA2
+Time: 2023-07-25T16:05:54.000-07:00
+Signal: -79.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.04345703,40.68518448,(no SSID),"Network ID: 1E:8D:DB:70:0A:E9
+Encryption: WPA2
+Time: 2023-07-25T16:06:03.000-07:00
+Signal: -85.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.04442596,40.68495178,(no SSID),"Network ID: 1E:8D:DB:70:0B:28
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -62.0
+Accuracy: 3.78449
+Type: WIFI"
+-74.04480743,40.68639374,(no SSID),"Network ID: 1E:8D:DB:70:0C:90
+Encryption: WPA2
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -79.0
+Accuracy: 5.90951
+Type: WIFI"
+-74.00261688,40.76376724,(no SSID),"Network ID: 1E:8D:DB:70:0C:94
+Encryption: WPA2
+Time: 2023-07-25T16:40:39.000-07:00
+Signal: -69.0
+Accuracy: 10.2425
+Type: WIFI"
+-74.00234985,40.76364517,(no SSID),"Network ID: 1E:8D:DB:70:0C:E4
+Encryption: WPA2
+Time: 2023-07-25T16:40:54.000-07:00
+Signal: -68.0
+Accuracy: 12.3301
+Type: WIFI"
+-74.04373932,40.68506622,(no SSID),"Network ID: 1E:8D:DB:70:0C:F4
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -57.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.00158691,40.7630043,(no SSID),"Network ID: 1E:8D:DB:70:0D:03
+Encryption: WPA2
+Time: 2023-07-25T16:46:55.000-07:00
+Signal: -87.0
+Accuracy: 10.4125
+Type: WIFI"
+-74.02645111,40.71437454,Spectrum Mobile,"Network ID: 1E:93:BC:FD:FC:53
+Encryption: WPA2
+Time: 2023-07-25T16:14:43.000-07:00
+Signal: -81.0
+Accuracy: 5.26052
+Type: WIFI"
+-74.02710724,40.71255875,Spectrum Mobile,"Network ID: 1E:9A:7D:1D:84:FB
+Encryption: WPA2
+Time: 2023-07-25T16:14:17.000-07:00
+Signal: -90.0
+Accuracy: 3.62262
+Type: WIFI"
+-74.04139709,40.68632126,xfinitywifi,"Network ID: 1E:9D:72:77:89:63
+Encryption: Unknown
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -91.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.01013184,40.76118851,HONEST.NET WIFI,"Network ID: 1E:E8:29:5B:8B:0D
+Encryption: Unknown
+Time: 2023-07-25T16:36:01.000-07:00
+Signal: -91.0
+Accuracy: 7.11836
+Type: WIFI"
+-74.00930023,40.76234055,Riverbank West Resident,"Network ID: 20:58:69:45:66:0C
+Encryption: WPA2
+Time: 2023-07-25T16:36:43.000-07:00
+Signal: -83.0
+Accuracy: 4.01719
+Type: WIFI"
+-74.00930023,40.76234055,Riverbank 5G,"Network ID: 20:58:69:85:66:0C
+Encryption: WPA2
+Time: 2023-07-25T16:36:43.000-07:00
+Signal: -85.0
+Accuracy: 4.01719
+Type: WIFI"
+-74.04003143,40.68761063,SpectrumSetup-90,"Network ID: 20:9A:7D:0E:AE:96
+Encryption: WPA2
+Time: 2023-07-25T16:07:50.000-07:00
+Signal: -89.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.02710724,40.71255875,SpectrumSetup-F8,"Network ID: 20:9A:7D:1D:84:FF
+Encryption: WPA2
+Time: 2023-07-25T16:14:17.000-07:00
+Signal: -91.0
+Accuracy: 3.62262
+Type: WIFI"
+-74.00987244,40.76160431,(no SSID),"Network ID: 22:35:FB:8E:BA:50
+Encryption: Unknown
+Time: 2023-07-25T16:36:18.000-07:00
+Signal: -77.0
+Accuracy: 5.03974
+Type: WIFI"
+-74.02760315,40.71153641,Manhatta-guest,"Network ID: 22:3F:1B:59:0B:8E
+Encryption: Unknown
+Time: 2023-07-25T16:14:02.000-07:00
+Signal: -88.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.00987244,40.76160431,(no SSID),"Network ID: 22:7E:80:52:74:F2
+Encryption: WPA2
+Time: 2023-07-25T16:36:18.000-07:00
+Signal: -92.0
+Accuracy: 5.03974
+Type: WIFI"
+-74.00961304,40.76199722,HONEST.NET WIFI 5G,"Network ID: 22:E8:29:5B:8B:0D
+Encryption: Unknown
+Time: 2023-07-25T16:36:31.000-07:00
+Signal: -88.0
+Accuracy: 4.72112
+Type: WIFI"
+-74.00157928,40.76301956,(no SSID),"Network ID: 22:EF:BD:36:EA:DB
+Encryption: WPA2
+Time: 2023-07-25T16:48:22.000-07:00
+Signal: -90.0
+Accuracy: 10.6134
+Type: WIFI"
+-74.02655792,40.71401215,LeDistrict_Internal,"Network ID: 24:5A:4C:7A:A2:6C
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -85.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.00979614,40.76175308,Riverbank 5G,"Network ID: 24:79:2A:01:9A:3C
+Encryption: WPA2
+Time: 2023-07-25T16:36:23.000-07:00
+Signal: -90.0
+Accuracy: 4.80678
+Type: WIFI"
+-74.02648926,40.71423721,(no SSID),"Network ID: 24:79:2A:34:CF:CD
+Encryption: WPA2
+Time: 2023-07-25T16:14:41.000-07:00
+Signal: -89.0
+Accuracy: 4.91546
+Type: WIFI"
+-74.02837372,40.70960999,Air Katzner,"Network ID: 24:79:2A:74:B9:2C
+Encryption: WPA2
+Time: 2023-07-25T16:13:34.000-07:00
+Signal: -92.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.04533386,40.68625259,(no SSID),"Network ID: 24:79:2A:74:CF:CD
+Encryption: WPA2
+Time: 2023-07-25T16:04:41.000-07:00
+Signal: -91.0
+Accuracy: 4.59844
+Type: WIFI"
+-74.02840424,40.70944595,Air Katzner 5.0,"Network ID: 24:79:2A:B4:B9:2C
+Encryption: WPA2
+Time: 2023-07-25T16:13:32.000-07:00
+Signal: -91.0
+Accuracy: 4.05123
+Type: WIFI"
+-74.02563477,40.71780396,Conrad_Meeting,"Network ID: 24:79:2A:B4:CF:CD
+Encryption: Unknown
+Time: 2023-07-25T16:15:31.000-07:00
+Signal: -92.0
+Accuracy: 6.37082
+Type: WIFI"
+-74.02648926,40.71423721,(no SSID),"Network ID: 24:79:2A:F4:CF:CC
+Encryption: WPA2
+Time: 2023-07-25T16:14:41.000-07:00
+Signal: -89.0
+Accuracy: 4.91546
+Type: WIFI"
+-74.02379608,40.72304916,ARRIS-B5A5-5G,"Network ID: 24:94:CB:96:AD:20
+Encryption: WPA2
+Time: 2023-07-25T16:16:44.000-07:00
+Signal: -84.0
+Accuracy: 10.5077
+Type: WIFI"
+-74.02655792,40.71401215,LeDistrict_Guests,"Network ID: 26:5A:4C:1A:A2:6C
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -86.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.02655792,40.71401215,2789576,"Network ID: 26:5A:4C:2A:A2:6C
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -86.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.02622986,40.7154007,2789576,"Network ID: 26:5A:4C:2A:C6:48
+Encryption: WPA2
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -92.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.02619934,40.7156105,(no SSID),"Network ID: 26:5A:4C:3A:A2:6C
+Encryption: WPA2
+Time: 2023-07-25T16:15:00.000-07:00
+Signal: -82.0
+Accuracy: 5.09479
+Type: WIFI"
+-74.02622986,40.7154007,(no SSID),"Network ID: 26:5A:4C:3A:C6:48
+Encryption: WPA2
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -91.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.02822876,40.71010208,Governors Island,"Network ID: 26:8D:CB:D9:26:AA
+Encryption: Unknown
+Time: 2023-07-25T16:13:41.000-07:00
+Signal: -90.0
+Accuracy: 3.78449
+Type: WIFI"
+-74.00961304,40.76199722,(no SSID),"Network ID: 26:E8:29:5B:8B:0D
+Encryption: WPA2
+Time: 2023-07-25T16:36:31.000-07:00
+Signal: -88.0
+Accuracy: 4.72112
+Type: WIFI"
+-74.04521179,40.68630981,TGITowerOmni-5G-Bkup,"Network ID: 28:76:10:15:AC:70
+Encryption: WPA2
+Time: 2023-07-25T16:04:37.000-07:00
+Signal: -91.0
+Accuracy: 4.21373
+Type: WIFI"
+-74.00939941,40.76223373,STARRY-NYMAN0009-NYMAN0029-5IGN,"Network ID: 28:76:10:19:7C:BC
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -91.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.02630615,40.71502686,IgniteNet0-1-5G-Backup,"Network ID: 28:76:10:19:95:D1
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -90.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.02687836,40.71313858,IgniteNet0-1-5G-Backup,"Network ID: 28:76:10:19:96:15
+Encryption: WPA2
+Time: 2023-07-25T16:14:25.000-07:00
+Signal: -92.0
+Accuracy: 3.86551
+Type: WIFI"
+-74.04099274,40.6866684,321WarrenStTo105GreeneSt,"Network ID: 28:76:10:1C:51:29
+Encryption: WPA2
+Time: 2023-07-25T16:07:09.000-07:00
+Signal: -94.0
+Accuracy: 4.27727
+Type: WIFI"
+-74.04480743,40.68639374,87SmithStTo100CongressSt,"Network ID: 28:76:10:1E:E9:78
+Encryption: WPA2
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -89.0
+Accuracy: 4.22757
+Type: WIFI"
+-74.02702332,40.71277618,2RiverTerraceTo105GreeneSt,"Network ID: 28:76:10:1F:3E:5B
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -91.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.00935364,40.76228333,(no SSID),"Network ID: 28:76:10:20:AB:F6
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -91.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.02702332,40.71277618,90WashingtonTo350Albany,"Network ID: 28:76:10:21:89:D4
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -80.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.00970459,40.76187897,Hangawi_5G_EXT,"Network ID: 28:87:BA:56:0A:41
+Encryption: WPA2
+Time: 2023-07-25T16:36:27.000-07:00
+Signal: -85.0
+Accuracy: 4.70491
+Type: WIFI"
+-74.02840424,40.70944595,14A's Wonderful WiFi_2g,"Network ID: 28:87:BA:CE:C2:33
+Encryption: WPA2
+Time: 2023-07-25T16:13:32.000-07:00
+Signal: -83.0
+Accuracy: 4.05123
+Type: WIFI"
+-74.02845001,40.70921707,77Greenwich-Amenity,"Network ID: 28:87:BA:D2:66:0B
+Encryption: WPA2
+Time: 2023-07-25T16:13:29.000-07:00
+Signal: -85.0
+Accuracy: 3.86551
+Type: WIFI"
+-74.02570343,40.71759415,77Greenwich-Amenity,"Network ID: 28:87:BA:D2:6F:5B
+Encryption: WPA2
+Time: 2023-07-25T16:15:28.000-07:00
+Signal: -87.0
+Accuracy: 6.70256
+Type: WIFI"
+-74.02586365,40.71709442,ShanZ,"Network ID: 28:EE:52:6D:70:1F
+Encryption: WPA2
+Time: 2023-07-25T16:15:21.000-07:00
+Signal: -87.0
+Accuracy: 6.40248
+Type: WIFI"
+-74.02760315,40.71153641,(no SSID),"Network ID: 2A:3F:1B:59:0B:8E
+Encryption: WPA2
+Time: 2023-07-25T16:14:02.000-07:00
+Signal: -89.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.02682495,40.71326828,Spectrum Mobile,"Network ID: 2A:4E:FC:6F:BA:E7
+Encryption: WPA2
+Time: 2023-07-25T16:14:27.000-07:00
+Signal: -90.0
+Accuracy: 4.05021
+Type: WIFI"
+-74.00925446,40.76239395,Circle Line Manhattan Wi-Fi,"Network ID: 2A:8D:CB:70:04:1B
+Encryption: Unknown
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -84.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.04492188,40.68638229,Circle Line Brooklyn Wi-Fi,"Network ID: 2A:8D:CB:70:08:E3
+Encryption: Unknown
+Time: 2023-07-25T16:04:29.000-07:00
+Signal: -83.0
+Accuracy: 5.19769
+Type: WIFI"
+-74.04471588,40.68640137,Circle Line Brooklyn Wi-Fi,"Network ID: 2A:8D:CB:70:08:F5
+Encryption: Unknown
+Time: 2023-07-25T16:04:24.000-07:00
+Signal: -86.0
+Accuracy: 6.54699
+Type: WIFI"
+-74.04460144,40.68497086,Circle Line Liberty Wi-Fi,"Network ID: 2A:8D:CB:70:08:F7
+Encryption: Unknown
+Time: 2023-07-25T16:05:37.000-07:00
+Signal: -74.0
+Accuracy: 3.85326
+Type: WIFI"
+-74.00925446,40.76239395,Circle Line Manhattan Wi-Fi,"Network ID: 2A:8D:CB:70:09:9B
+Encryption: Unknown
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -85.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.04486084,40.68503571,Circle Line Liberty Wi-Fi,"Network ID: 2A:8D:CB:70:0A:E9
+Encryption: Unknown
+Time: 2023-07-25T16:05:31.000-07:00
+Signal: -88.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.04460144,40.68497086,Circle Line Liberty Wi-Fi,"Network ID: 2A:8D:CB:70:0B:28
+Encryption: Unknown
+Time: 2023-07-25T16:05:37.000-07:00
+Signal: -67.0
+Accuracy: 3.82751
+Type: WIFI"
+-74.04442596,40.68639755,Circle Line Brooklyn Wi-Fi,"Network ID: 2A:8D:CB:70:0C:90
+Encryption: Unknown
+Time: 2023-07-25T16:04:17.000-07:00
+Signal: -89.0
+Accuracy: 7.20641
+Type: WIFI"
+-74.0025177,40.76371002,Circle Line Queens Wi-Fi,"Network ID: 2A:8D:CB:70:0C:94
+Encryption: Unknown
+Time: 2023-07-25T16:40:45.000-07:00
+Signal: -82.0
+Accuracy: 10.4274
+Type: WIFI"
+-74.00247192,40.76368713,Circle Line Queens Wi-Fi,"Network ID: 2A:8D:CB:70:0C:E4
+Encryption: Unknown
+Time: 2023-07-25T16:40:47.000-07:00
+Signal: -75.0
+Accuracy: 10.2425
+Type: WIFI"
+-74.04460144,40.68497086,Circle Line Liberty Wi-Fi,"Network ID: 2A:8D:CB:70:0C:F4
+Encryption: Unknown
+Time: 2023-07-25T16:05:37.000-07:00
+Signal: -60.0
+Accuracy: 3.82751
+Type: WIFI"
+-74.00283051,40.7638588,Circle Line Queens Wi-Fi,"Network ID: 2A:8D:CB:70:0D:03
+Encryption: Unknown
+Time: 2023-07-25T16:40:29.000-07:00
+Signal: -86.0
+Accuracy: 10.4274
+Type: WIFI"
+-74.00202942,40.76343536,Circle Line Staten Island Wi-Fi,"Network ID: 2A:8D:CB:70:0D:14
+Encryption: Unknown
+Time: 2023-07-25T16:41:19.000-07:00
+Signal: -84.0
+Accuracy: 13.0337
+Type: WIFI"
+-74.00917816,40.7624855,Circle Line Manhattan Wi-Fi,"Network ID: 2A:8D:CB:70:0D:2F
+Encryption: Unknown
+Time: 2023-07-25T16:36:48.000-07:00
+Signal: -88.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.0015564,40.76298141,Circle Line Manhattan Wi-Fi,"Network ID: 2A:8D:DB:70:04:1B
+Encryption: Unknown
+Time: 2023-07-25T16:47:34.000-07:00
+Signal: -86.0
+Accuracy: 14.6082
+Type: WIFI"
+-74.04471588,40.68640137,Circle Line Brooklyn Wi-Fi,"Network ID: 2A:8D:DB:70:08:F5
+Encryption: Unknown
+Time: 2023-07-25T16:04:24.000-07:00
+Signal: -75.0
+Accuracy: 4.22757
+Type: WIFI"
+-74.04442596,40.68495178,Circle Line Liberty Wi-Fi,"Network ID: 2A:8D:DB:70:08:F7
+Encryption: Unknown
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -72.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.00898743,40.76269913,Circle Line Manhattan Wi-Fi,"Network ID: 2A:8D:DB:70:09:9B
+Encryption: Unknown
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -74.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.04418182,40.6849556,Circle Line Liberty Wi-Fi,"Network ID: 2A:8D:DB:70:0A:E9
+Encryption: Unknown
+Time: 2023-07-25T16:05:46.000-07:00
+Signal: -83.0
+Accuracy: 3.98894
+Type: WIFI"
+-74.04433441,40.68495178,Circle Line Liberty Wi-Fi,"Network ID: 2A:8D:DB:70:0B:28
+Encryption: Unknown
+Time: 2023-07-25T16:05:43.000-07:00
+Signal: -69.0
+Accuracy: 3.88619
+Type: WIFI"
+-74.04528046,40.68628311,Circle Line Brooklyn Wi-Fi,"Network ID: 2A:8D:DB:70:0C:90
+Encryption: Unknown
+Time: 2023-07-25T16:04:39.000-07:00
+Signal: -82.0
+Accuracy: 4.56767
+Type: WIFI"
+-74.00247192,40.76368713,Circle Line Queens Wi-Fi,"Network ID: 2A:8D:DB:70:0C:94
+Encryption: Unknown
+Time: 2023-07-25T16:40:47.000-07:00
+Signal: -68.0
+Accuracy: 10.2425
+Type: WIFI"
+-74.00234985,40.76364517,Circle Line Queens Wi-Fi,"Network ID: 2A:8D:DB:70:0C:E4
+Encryption: Unknown
+Time: 2023-07-25T16:40:54.000-07:00
+Signal: -68.0
+Accuracy: 10.6091
+Type: WIFI"
+-74.04442596,40.68495178,Circle Line Liberty Wi-Fi,"Network ID: 2A:8D:DB:70:0C:F4
+Encryption: Unknown
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -53.0
+Accuracy: 3.87506
+Type: WIFI"
+-74.0029068,40.76389694,Circle Line Queens Wi-Fi,"Network ID: 2A:8D:DB:70:0D:03
+Encryption: Unknown
+Time: 2023-07-25T16:40:26.000-07:00
+Signal: -77.0
+Accuracy: 10.5166
+Type: WIFI"
+-74.0016861,40.76331711,Circle Line Staten Island Wi-Fi,"Network ID: 2A:8D:DB:70:0D:14
+Encryption: Unknown
+Time: 2023-07-25T16:41:56.000-07:00
+Signal: -74.0
+Accuracy: 11.2631
+Type: WIFI"
+-74.00158691,40.76298523,PServices,"Network ID: 2C:C8:1B:33:39:77
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -93.0
+Accuracy: 16.2907
+Type: WIFI"
+-74.00930023,40.76234055,Classic Car Club,"Network ID: 2C:E6:CC:1A:86:2C
+Encryption: WPA2
+Time: 2023-07-25T16:36:43.000-07:00
+Signal: -88.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.01147461,40.759758,Classic Car Club,"Network ID: 2C:E6:CC:1A:D5:98
+Encryption: WPA2
+Time: 2023-07-25T16:30:26.000-07:00
+Signal: -91.0
+Accuracy: 20.3698
+Type: WIFI"
+-74.00939941,40.76223373,Classic Car Club,"Network ID: 2C:E6:CC:1A:D5:9C
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -89.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.01107788,40.76015854,Classic Car Club,"Network ID: 2C:E6:CC:1E:30:E8
+Encryption: WPA2
+Time: 2023-07-25T16:32:24.000-07:00
+Signal: -93.0
+Accuracy: 11.6489
+Type: WIFI"
+-74.00892639,40.76276398,(no SSID),"Network ID: 2C:E6:CC:5A:86:2C
+Encryption: WPA2
+Time: 2023-07-25T16:36:57.000-07:00
+Signal: -89.0
+Accuracy: 4.01601
+Type: WIFI"
+-74.01120758,40.76013184,(no SSID),"Network ID: 2C:E6:CC:5A:D5:98
+Encryption: WPA2
+Time: 2023-07-25T16:31:16.000-07:00
+Signal: -92.0
+Accuracy: 11.9924
+Type: WIFI"
+-74.00935364,40.76228333,(no SSID),"Network ID: 2C:E6:CC:5A:D5:9C
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -88.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.00930023,40.76234055,Classic Car Club Guests,"Network ID: 2C:E6:CC:9A:86:2C
+Encryption: WPA2
+Time: 2023-07-25T16:36:43.000-07:00
+Signal: -87.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.01147461,40.759758,Classic Car Club Guests,"Network ID: 2C:E6:CC:9A:D5:98
+Encryption: WPA2
+Time: 2023-07-25T16:30:26.000-07:00
+Signal: -90.0
+Accuracy: 20.3698
+Type: WIFI"
+-74.00939941,40.76223373,Classic Car Club Guests,"Network ID: 2C:E6:CC:9A:D5:9C
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -88.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00892639,40.76276398,(no SSID),"Network ID: 2C:E6:CC:DA:86:2C
+Encryption: WPA2
+Time: 2023-07-25T16:36:57.000-07:00
+Signal: -89.0
+Accuracy: 4.01601
+Type: WIFI"
+-74.00975037,40.76181793,(no SSID),"Network ID: 2C:E6:CC:DA:D5:9C
+Encryption: WPA2
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -93.0
+Accuracy: 4.01719
+Type: WIFI"
+-74.02802277,40.7106514,SpectrumSetup-60,"Network ID: 2C:EA:DC:11:BB:5F
+Encryption: WPA2
+Time: 2023-07-25T16:13:49.000-07:00
+Signal: -92.0
+Accuracy: 4.16906
+Type: WIFI"
+-74.02760315,40.71153641,Manhatta-wireless,"Network ID: 2E:3F:1B:59:0B:8E
+Encryption: WPA2
+Time: 2023-07-25T16:14:02.000-07:00
+Signal: -88.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.02661896,40.71380997,HONEST.NET WIFI 5G,"Network ID: 2E:76:10:1C:6E:5B
+Encryption: Unknown
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -89.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.02616119,40.71582031,test123,"Network ID: 2E:7B:D8:EA:38:4C
+Encryption: WPA2
+Time: 2023-07-25T16:15:03.000-07:00
+Signal: -82.0
+Accuracy: 5.2682
+Type: WIFI"
+-74.02687836,40.71313858,77Greenwich-Management,"Network ID: 2E:87:BA:D2:66:0B
+Encryption: WPA2
+Time: 2023-07-25T16:14:25.000-07:00
+Signal: -90.0
+Accuracy: 3.86551
+Type: WIFI"
+-74.02702332,40.71277618,77Greenwich-Management,"Network ID: 2E:87:BA:D2:6F:5A
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -81.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.02655792,40.71401215,77Greenwich-Management,"Network ID: 2E:87:BA:D2:6F:5B
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -87.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.02602386,40.71642303,Spectrum Mobile,"Network ID: 2E:AB:F8:37:F6:04
+Encryption: WPA2
+Time: 2023-07-25T16:15:11.000-07:00
+Signal: -83.0
+Accuracy: 4.68533
+Type: WIFI"
+-74.04486084,40.68503571,GlobalWiFi_0RFCQT,"Network ID: 30:89:D3:38:A5:ED
+Encryption: WPA2
+Time: 2023-07-25T16:05:31.000-07:00
+Signal: -84.0
+Accuracy: 3.93372
+Type: WIFI"
+-74.02645111,40.71437454,SpectrumSetup-50,"Network ID: 30:93:BC:FD:FC:57
+Encryption: WPA2
+Time: 2023-07-25T16:14:43.000-07:00
+Signal: -84.0
+Accuracy: 5.26052
+Type: WIFI"
+-74.00793457,40.76383972,optimumwifi,"Network ID: 32:24:78:BD:1B:D0
+Encryption: Unknown
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -88.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.02590942,40.71687317,Collabera_Guest,"Network ID: 32:56:FE:C7:92:21
+Encryption: WPA2
+Time: 2023-07-25T16:15:18.000-07:00
+Signal: -85.0
+Accuracy: 6.24672
+Type: WIFI"
+-74.02693939,40.71298981,(no SSID),"Network ID: 32:7B:D8:EA:38:4C
+Encryption: WPA2
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -89.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02845001,40.70921707,(no SSID),"Network ID: 32:87:BA:D2:66:0B
+Encryption: WPA2
+Time: 2023-07-25T16:13:29.000-07:00
+Signal: -85.0
+Accuracy: 4.05021
+Type: WIFI"
+-74.01066589,40.76070023,(no SSID),"Network ID: 32:8D:CB:68:BF:57
+Encryption: WPA2
+Time: 2023-07-25T16:35:19.000-07:00
+Signal: -90.0
+Accuracy: 26.5153
+Type: WIFI"
+-74.00991821,40.76154709,(no SSID),"Network ID: 32:8D:CB:68:CB:56
+Encryption: WPA2
+Time: 2023-07-25T16:36:16.000-07:00
+Signal: -90.0
+Accuracy: 5.16616
+Type: WIFI"
+-74.02630615,40.71502686,(no SSID),"Network ID: 32:8D:CB:6E:DB:F9
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -89.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.00925446,40.76239395,(no SSID),"Network ID: 32:8D:CB:70:04:1B
+Encryption: WPA2
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -84.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.04533386,40.68625259,(no SSID),"Network ID: 32:8D:CB:70:08:E3
+Encryption: WPA2
+Time: 2023-07-25T16:04:41.000-07:00
+Signal: -86.0
+Accuracy: 4.59844
+Type: WIFI"
+-74.04478455,40.68501282,(no SSID),"Network ID: 32:8D:CB:70:08:F7
+Encryption: WPA2
+Time: 2023-07-25T16:05:33.000-07:00
+Signal: -76.0
+Accuracy: 3.94433
+Type: WIFI"
+-74.00925446,40.76239395,(no SSID),"Network ID: 32:8D:CB:70:09:9B
+Encryption: WPA2
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -85.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.04389954,40.68501282,(no SSID),"Network ID: 32:8D:CB:70:0A:E9
+Encryption: WPA2
+Time: 2023-07-25T16:05:52.000-07:00
+Signal: -89.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.04442596,40.68495178,(no SSID),"Network ID: 32:8D:CB:70:0B:28
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -71.0
+Accuracy: 3.79472
+Type: WIFI"
+-74.00234985,40.76364517,(no SSID),"Network ID: 32:8D:CB:70:0C:94
+Encryption: WPA2
+Time: 2023-07-25T16:40:54.000-07:00
+Signal: -82.0
+Accuracy: 10.4274
+Type: WIFI"
+-74.00255585,40.76373672,(no SSID),"Network ID: 32:8D:CB:70:0C:E4
+Encryption: WPA2
+Time: 2023-07-25T16:40:43.000-07:00
+Signal: -78.0
+Accuracy: 10.5166
+Type: WIFI"
+-74.04460144,40.68497086,(no SSID),"Network ID: 32:8D:CB:70:0C:F4
+Encryption: WPA2
+Time: 2023-07-25T16:05:37.000-07:00
+Signal: -60.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.00274658,40.76382065,(no SSID),"Network ID: 32:8D:CB:70:0D:03
+Encryption: WPA2
+Time: 2023-07-25T16:40:33.000-07:00
+Signal: -84.0
+Accuracy: 10.6091
+Type: WIFI"
+-74.00202942,40.76343536,(no SSID),"Network ID: 32:8D:CB:70:0D:14
+Encryption: WPA2
+Time: 2023-07-25T16:41:19.000-07:00
+Signal: -83.0
+Accuracy: 12.181
+Type: WIFI"
+-74.00917816,40.7624855,(no SSID),"Network ID: 32:8D:CB:70:0D:2F
+Encryption: WPA2
+Time: 2023-07-25T16:36:48.000-07:00
+Signal: -87.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.00898743,40.76269913,(no SSID),"Network ID: 32:8D:CB:D9:28:2A
+Encryption: WPA2
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -87.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.04480743,40.68639374,(no SSID),"Network ID: 32:8D:DB:70:08:E3
+Encryption: WPA2
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -79.0
+Accuracy: 5.90951
+Type: WIFI"
+-74.04407501,40.68497086,(no SSID),"Network ID: 32:8D:DB:70:08:F7
+Encryption: WPA2
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -70.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.04418182,40.6849556,(no SSID),"Network ID: 32:8D:DB:70:0A:E9
+Encryption: WPA2
+Time: 2023-07-25T16:05:46.000-07:00
+Signal: -85.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.04433441,40.68495178,(no SSID),"Network ID: 32:8D:DB:70:0B:28
+Encryption: WPA2
+Time: 2023-07-25T16:05:43.000-07:00
+Signal: -69.0
+Accuracy: 3.79472
+Type: WIFI"
+-74.04528046,40.68628311,(no SSID),"Network ID: 32:8D:DB:70:0C:90
+Encryption: WPA2
+Time: 2023-07-25T16:04:39.000-07:00
+Signal: -82.0
+Accuracy: 4.56767
+Type: WIFI"
+-74.00247192,40.76368713,(no SSID),"Network ID: 32:8D:DB:70:0C:94
+Encryption: WPA2
+Time: 2023-07-25T16:40:47.000-07:00
+Signal: -69.0
+Accuracy: 10.2425
+Type: WIFI"
+-74.00234985,40.76364517,(no SSID),"Network ID: 32:8D:DB:70:0C:E4
+Encryption: WPA2
+Time: 2023-07-25T16:40:54.000-07:00
+Signal: -67.0
+Accuracy: 10.6091
+Type: WIFI"
+-74.04373932,40.68506622,(no SSID),"Network ID: 32:8D:DB:70:0C:F4
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -57.0
+Accuracy: 3.79472
+Type: WIFI"
+-74.0029068,40.76389694,(no SSID),"Network ID: 32:8D:DB:70:0D:03
+Encryption: WPA2
+Time: 2023-07-25T16:40:26.000-07:00
+Signal: -77.0
+Accuracy: 10.5166
+Type: WIFI"
+-74.00164032,40.76322937,(no SSID),"Network ID: 32:8D:DB:70:0D:14
+Encryption: WPA2
+Time: 2023-07-25T16:42:21.000-07:00
+Signal: -81.0
+Accuracy: 17.5218
+Type: WIFI"
+-74.00154877,40.7630043,(no SSID),"Network ID: 32:8D:DB:D9:28:2A
+Encryption: WPA2
+Time: 2023-07-25T16:47:54.000-07:00
+Signal: -85.0
+Accuracy: 12.0286
+Type: WIFI"
+-74.01066589,40.76070023,Capstone WiFi Calling,"Network ID: 34:20:E3:0E:88:49
+Encryption: Unknown
+Time: 2023-07-25T16:35:19.000-07:00
+Signal: -93.0
+Accuracy: 26.5153
+Type: WIFI"
+-74.02590942,40.71687317,Collabera_Wifi,"Network ID: 34:56:FE:C7:92:21
+Encryption: WPA2
+Time: 2023-07-25T16:15:18.000-07:00
+Signal: -85.0
+Accuracy: 6.24672
+Type: WIFI"
+-74.02607727,40.71620178,12D,"Network ID: 34:98:B5:F4:E9:DD
+Encryption: WPA3
+Time: 2023-07-25T16:15:08.000-07:00
+Signal: -89.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.00970459,40.76187897,Tate Public Wifi,"Network ID: 34:FA:9F:22:A2:2C
+Encryption: WPA2
+Time: 2023-07-25T16:36:27.000-07:00
+Signal: -87.0
+Accuracy: 4.70491
+Type: WIFI"
+-74.00970459,40.76187897,Tate Equip,"Network ID: 34:FA:9F:62:A2:2C
+Encryption: WPA2
+Time: 2023-07-25T16:36:27.000-07:00
+Signal: -87.0
+Accuracy: 4.70491
+Type: WIFI"
+-74.03986359,40.68774414,100-87,"Network ID: 38:8B:59:C2:B6:D5
+Encryption: WPA2
+Time: 2023-07-25T16:07:55.000-07:00
+Signal: -92.0
+Accuracy: 5.74579
+Type: WIFI"
+-74.00949097,40.76214981,(no SSID),"Network ID: 38:94:ED:5B:38:57
+Encryption: WPA2
+Time: 2023-07-25T16:36:36.000-07:00
+Signal: -90.0
+Accuracy: 4.82291
+Type: WIFI"
+-74.0404892,40.68712997,KBC-OR57,"Network ID: 3C:0F:C1:02:A9:87
+Encryption: WPA2
+Time: 2023-07-25T16:07:31.000-07:00
+Signal: -87.0
+Accuracy: 3.87506
+Type: WIFI"
+-74.01144409,40.75977325,WES4,"Network ID: 3C:0F:C1:04:87:F6
+Encryption: WPA2
+Time: 2023-07-25T16:30:28.000-07:00
+Signal: -92.0
+Accuracy: 4.16399
+Type: WIFI"
+-74.00912476,40.76254654,Macy?s World,"Network ID: 3C:BD:C5:30:DC:1B
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -84.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.00935364,40.76228333,Macy?s World,"Network ID: 3C:BD:C5:30:DC:1C
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -84.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.01005554,40.76133347,FiOS-HOIMI,"Network ID: 3C:BD:C5:41:21:E3
+Encryption: WPA2
+Time: 2023-07-25T16:36:07.000-07:00
+Signal: -89.0
+Accuracy: 5.84236
+Type: WIFI"
+-74.02796936,40.71078873,Lions Den,"Network ID: 3C:BD:C5:6D:3E:2E
+Encryption: WPA2
+Time: 2023-07-25T16:13:51.000-07:00
+Signal: -85.0
+Accuracy: 4.47636
+Type: WIFI"
+-74.00939941,40.76223373,Daddy's Home,"Network ID: 3C:BD:C5:74:00:D3
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -81.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.00949097,40.76214981,Verizon_LSQB9R,"Network ID: 3C:BD:C5:85:CF:8D
+Encryption: WPA2
+Time: 2023-07-25T16:36:36.000-07:00
+Signal: -80.0
+Accuracy: 4.82291
+Type: WIFI"
+-74.02655792,40.71401215,Verizon_3PN4QK,"Network ID: 3C:BD:C5:8E:B8:1F
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -88.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.02648926,40.71423721,Verizon_3PN4QK,"Network ID: 3C:BD:C5:8E:B8:20
+Encryption: WPA2
+Time: 2023-07-25T16:14:41.000-07:00
+Signal: -88.0
+Accuracy: 4.91546
+Type: WIFI"
+-74.04063416,40.68698883,NicksNet-guest,"Network ID: 3E:28:6D:AA:6A:F8
+Encryption: WPA2
+Time: 2023-07-25T16:07:24.000-07:00
+Signal: -91.0
+Accuracy: 3.92982
+Type: WIFI"
+-74.02760315,40.71153641,(no SSID),"Network ID: 3E:3F:1B:59:0B:8E
+Encryption: WPA2
+Time: 2023-07-25T16:14:02.000-07:00
+Signal: -88.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.01013184,40.76118851,(no SSID),"Network ID: 3E:94:ED:5B:38:55
+Encryption: WPA2
+Time: 2023-07-25T16:36:01.000-07:00
+Signal: -84.0
+Accuracy: 5.73716
+Type: WIFI"
+-74.04040527,40.68722534,ORBI39,"Network ID: 3E:94:ED:B7:36:7B
+Encryption: WPA2
+Time: 2023-07-25T16:07:35.000-07:00
+Signal: -90.0
+Accuracy: 3.829
+Type: WIFI"
+-74.02693939,40.71298981,oneGuest,"Network ID: 40:01:7A:9B:15:2B
+Encryption: Unknown
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -85.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02702332,40.71277618,oneConnect-Private,"Network ID: 40:01:7A:9B:15:2C
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -91.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02693939,40.71298981,oneConnect-Public,"Network ID: 40:01:7A:9B:15:2D
+Encryption: Unknown
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -85.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02702332,40.71277618,oneConnect-Guest,"Network ID: 40:01:7A:9B:15:2E
+Encryption: Unknown
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -91.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.04139709,40.68632126,Memon WiFi,"Network ID: 40:75:C3:44:3C:21
+Encryption: WPA3
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -89.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.04547882,40.68541718,PLATINUM,"Network ID: 40:A6:E8:77:F6:60
+Encryption: WPA2
+Time: 2023-07-25T16:05:12.000-07:00
+Signal: -91.0
+Accuracy: 5.56213
+Type: WIFI"
+-74.04547882,40.68541718,SILVER,"Network ID: 40:A6:E8:77:F6:61
+Encryption: WPA2
+Time: 2023-07-25T16:05:12.000-07:00
+Signal: -90.0
+Accuracy: 5.56213
+Type: WIFI"
+-74.04547882,40.68541718,GOLD,"Network ID: 40:A6:E8:77:F6:62
+Encryption: WPA2
+Time: 2023-07-25T16:05:12.000-07:00
+Signal: -90.0
+Accuracy: 5.56213
+Type: WIFI"
+-74.04505157,40.685112,GOLD,"Network ID: 40:A6:E8:77:F6:6D
+Encryption: WPA2
+Time: 2023-07-25T16:05:26.000-07:00
+Signal: -91.0
+Accuracy: 3.92982
+Type: WIFI"
+-74.04373932,40.68506622,SILVER,"Network ID: 40:A6:E8:77:F6:6E
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -87.0
+Accuracy: 4.66135
+Type: WIFI"
+-74.04367065,40.68509674,PLATINUM,"Network ID: 40:A6:E8:77:F6:6F
+Encryption: WPA2
+Time: 2023-07-25T16:05:58.000-07:00
+Signal: -87.0
+Accuracy: 5.80308
+Type: WIFI"
+-74.02630615,40.71502686,I-House.net,"Network ID: 40:E1:E4:75:ED:82
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -86.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.00158691,40.76302338,Intrepid_Events,"Network ID: 40:E3:D6:1C:75:C4
+Encryption: WPA2
+Time: 2023-07-25T16:48:24.000-07:00
+Signal: -93.0
+Accuracy: 10.9788
+Type: WIFI"
+-74.00157928,40.76299667,Intrepid_Data,"Network ID: 40:E3:D6:1C:75:D0
+Encryption: WPA2
+Time: 2023-07-25T16:48:33.000-07:00
+Signal: -92.0
+Accuracy: 13.1308
+Type: WIFI"
+-74.00157928,40.76299667,Intrepid_Guest,"Network ID: 40:E3:D6:1C:75:D1
+Encryption: Unknown
+Time: 2023-07-25T16:48:33.000-07:00
+Signal: -92.0
+Accuracy: 13.1308
+Type: WIFI"
+-74.00157928,40.7630043,Intrepid_Emp,"Network ID: 40:E3:D6:1C:75:D3
+Encryption: WPA2
+Time: 2023-07-25T16:48:31.000-07:00
+Signal: -90.0
+Accuracy: 13.0627
+Type: WIFI"
+-74.04151154,40.68623352,(no SSID),"Network ID: 42:75:C3:45:3C:25
+Encryption: WPA2
+Time: 2023-07-25T16:06:52.000-07:00
+Signal: -90.0
+Accuracy: 6.21549
+Type: WIFI"
+-74.04151154,40.68623352,(no SSID),"Network ID: 42:75:C3:45:3C:26
+Encryption: WPA2
+Time: 2023-07-25T16:06:52.000-07:00
+Signal: -92.0
+Accuracy: 6.21549
+Type: WIFI"
+-74.04139709,40.68632126,xfinitywifi,"Network ID: 42:75:C3:4C:3C:23
+Encryption: Unknown
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -89.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.03565216,40.69246674,Galaxy Note10+c28f,"Network ID: 42:9F:DE:86:7B:5D
+Encryption: WPA2
+Time: 2023-07-25T16:09:19.000-07:00
+Signal: -91.0
+Accuracy: 3.99485
+Type: WIFI"
+-74.02655792,40.71401215,TBills,"Network ID: 44:1C:A8:B8:4E:E8
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -79.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.04345703,40.68518448,Mall Management,"Network ID: 44:1E:98:15:37:8C
+Encryption: WPA2
+Time: 2023-07-25T16:06:03.000-07:00
+Signal: -94.0
+Accuracy: 5.85775
+Type: WIFI"
+-74.04345703,40.68518448,Spectrum Mobile,"Network ID: 44:1E:98:15:37:8D
+Encryption: WPA2
+Time: 2023-07-25T16:06:03.000-07:00
+Signal: -94.0
+Accuracy: 5.85775
+Type: WIFI"
+-74.02863312,40.70798111,#DwntwnAllianceFreeWiFi,"Network ID: 44:1E:98:31:2D:5C
+Encryption: Unknown
+Time: 2023-07-25T16:13:12.000-07:00
+Signal: -86.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02863312,40.70798111,#Battery Park City Free WiFi,"Network ID: 44:1E:98:71:2D:5C
+Encryption: Unknown
+Time: 2023-07-25T16:13:12.000-07:00
+Signal: -86.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02760315,40.71153641,(no SSID),"Network ID: 44:1E:98:B1:2D:57
+Encryption: WPA2
+Time: 2023-07-25T16:14:02.000-07:00
+Signal: -87.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.02863312,40.70798111,(no SSID),"Network ID: 44:1E:98:B1:2D:5C
+Encryption: WPA2
+Time: 2023-07-25T16:13:12.000-07:00
+Signal: -86.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.02837372,40.70960999,Orion,"Network ID: 44:1E:98:EA:B4:FC
+Encryption: WPA2
+Time: 2023-07-25T16:13:34.000-07:00
+Signal: -91.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.02863312,40.70798111,Orion,"Network ID: 44:1E:98:F1:2D:5C
+Encryption: WPA2
+Time: 2023-07-25T16:13:12.000-07:00
+Signal: -86.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.01010895,40.7612381,Sailboat Lulu 2.4,"Network ID: 44:A5:6E:1B:1C:F0
+Encryption: WPA2
+Time: 2023-07-25T16:36:03.000-07:00
+Signal: -80.0
+Accuracy: 5.94594
+Type: WIFI"
+-74.00983429,40.76168442,Sailboat Lulu 5,"Network ID: 44:A5:6E:1C:55:70
+Encryption: WPA2
+Time: 2023-07-25T16:36:21.000-07:00
+Signal: -88.0
+Accuracy: 5.12394
+Type: WIFI"
+-74.04407501,40.68497086,GOLD,"Network ID: 44:AD:D9:C3:2A:6D
+Encryption: WPA2
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -86.0
+Accuracy: 5.86602
+Type: WIFI"
+-74.04407501,40.68497086,SILVER,"Network ID: 44:AD:D9:C3:2A:6E
+Encryption: WPA2
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -86.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.04407501,40.68497086,PLATINUM,"Network ID: 44:AD:D9:C3:2A:6F
+Encryption: WPA2
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -88.0
+Accuracy: 5.86602
+Type: WIFI"
+-74.04139709,40.68632126,GOLD,"Network ID: 44:AD:D9:C3:2B:22
+Encryption: WPA2
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -89.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.04139709,40.68632126,GOLD,"Network ID: 44:AD:D9:C3:2B:2D
+Encryption: WPA2
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -85.0
+Accuracy: 5.6488
+Type: WIFI"
+-74.04139709,40.68632126,SILVER,"Network ID: 44:AD:D9:C3:2B:2E
+Encryption: WPA2
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -88.0
+Accuracy: 5.6488
+Type: WIFI"
+-74.04304504,40.68534851,PLATINUM,"Network ID: 44:AD:D9:C3:2B:2F
+Encryption: WPA2
+Time: 2023-07-25T16:06:12.000-07:00
+Signal: -90.0
+Accuracy: 5.6488
+Type: WIFI"
+-74.04345703,40.68518448,GOLD,"Network ID: 44:AD:D9:C3:2C:0D
+Encryption: WPA2
+Time: 2023-07-25T16:06:03.000-07:00
+Signal: -88.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.04373932,40.68506622,SILVER,"Network ID: 44:AD:D9:C3:2C:0E
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -90.0
+Accuracy: 4.79198
+Type: WIFI"
+-74.04433441,40.68495178,PLATINUM,"Network ID: 44:AD:D9:C3:2C:0F
+Encryption: WPA2
+Time: 2023-07-25T16:05:43.000-07:00
+Signal: -91.0
+Accuracy: 6.21549
+Type: WIFI"
+-74.04040527,40.68722534,GOLD,"Network ID: 44:AD:D9:C3:2C:42
+Encryption: WPA2
+Time: 2023-07-25T16:07:35.000-07:00
+Signal: -87.0
+Accuracy: 3.829
+Type: WIFI"
+-74.04442596,40.68495178,GOLD,"Network ID: 44:AD:D9:C3:2C:4D
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -89.0
+Accuracy: 4.45604
+Type: WIFI"
+-74.04442596,40.68495178,SILVER,"Network ID: 44:AD:D9:C3:2C:4E
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -92.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.04433441,40.68495178,PLATINUM,"Network ID: 44:AD:D9:C3:2C:4F
+Encryption: WPA2
+Time: 2023-07-25T16:05:43.000-07:00
+Signal: -92.0
+Accuracy: 6.03542
+Type: WIFI"
+-74.04554749,40.68551254,PLATINUM,"Network ID: 44:AD:D9:C3:2C:C0
+Encryption: WPA2
+Time: 2023-07-25T16:05:09.000-07:00
+Signal: -87.0
+Accuracy: 4.3068
+Type: WIFI"
+-74.04554749,40.68551254,SILVER,"Network ID: 44:AD:D9:C3:2C:C1
+Encryption: WPA2
+Time: 2023-07-25T16:05:09.000-07:00
+Signal: -80.0
+Accuracy: 3.98229
+Type: WIFI"
+-74.04433441,40.68495178,GOLD,"Network ID: 44:AD:D9:C3:2C:C2
+Encryption: WPA2
+Time: 2023-07-25T16:05:43.000-07:00
+Signal: -91.0
+Accuracy: 3.98229
+Type: WIFI"
+-74.04547882,40.68541718,GOLD,"Network ID: 44:AD:D9:C3:2C:CD
+Encryption: WPA2
+Time: 2023-07-25T16:05:12.000-07:00
+Signal: -88.0
+Accuracy: 5.27245
+Type: WIFI"
+-74.04547882,40.68541718,SILVER,"Network ID: 44:AD:D9:C3:2C:CE
+Encryption: WPA2
+Time: 2023-07-25T16:05:12.000-07:00
+Signal: -90.0
+Accuracy: 5.27245
+Type: WIFI"
+-74.04328918,40.68525314,PLATINUM,"Network ID: 44:AD:D9:C3:2C:CF
+Encryption: WPA2
+Time: 2023-07-25T16:06:07.000-07:00
+Signal: -91.0
+Accuracy: 5.27245
+Type: WIFI"
+-74.04541779,40.68619537,PLATINUM,"Network ID: 44:AD:D9:C3:2F:C0
+Encryption: WPA2
+Time: 2023-07-25T16:04:44.000-07:00
+Signal: -85.0
+Accuracy: 3.83129
+Type: WIFI"
+-74.04314423,40.68530655,SILVER,"Network ID: 44:AD:D9:C3:2F:C1
+Encryption: WPA2
+Time: 2023-07-25T16:06:10.000-07:00
+Signal: -89.0
+Accuracy: 3.82751
+Type: WIFI"
+-74.04314423,40.68530655,GOLD,"Network ID: 44:AD:D9:C3:2F:C2
+Encryption: WPA2
+Time: 2023-07-25T16:06:10.000-07:00
+Signal: -91.0
+Accuracy: 4.27727
+Type: WIFI"
+-74.04469299,40.68498993,GOLD,"Network ID: 44:AD:D9:C3:2F:CD
+Encryption: WPA2
+Time: 2023-07-25T16:05:35.000-07:00
+Signal: -90.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.04498291,40.68507767,SILVER,"Network ID: 44:AD:D9:C3:2F:CE
+Encryption: WPA2
+Time: 2023-07-25T16:05:28.000-07:00
+Signal: -89.0
+Accuracy: 4.76058
+Type: WIFI"
+-74.04442596,40.68495178,PLATINUM,"Network ID: 44:AD:D9:C3:2F:CF
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -92.0
+Accuracy: 4.15545
+Type: WIFI"
+-74.04111481,40.68656921,PLATINUM,"Network ID: 44:AD:D9:C3:31:2F
+Encryption: WPA2
+Time: 2023-07-25T16:07:05.000-07:00
+Signal: -86.0
+Accuracy: 4.79198
+Type: WIFI"
+-74.00917816,40.7624855,7897,"Network ID: 44:D9:E7:4E:75:D8
+Encryption: WPA2
+Time: 2023-07-25T16:36:48.000-07:00
+Signal: -92.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.01010895,40.7612381,Estuary WiFi,"Network ID: 46:D9:E7:7B:9A:53
+Encryption: Unknown
+Time: 2023-07-25T16:36:03.000-07:00
+Signal: -83.0
+Accuracy: 5.94594
+Type: WIFI"
+-74.02645111,40.71437454,FiOS-5G,"Network ID: 48:5D:36:82:2C:8E
+Encryption: WPA2
+Time: 2023-07-25T16:14:43.000-07:00
+Signal: -91.0
+Accuracy: 5.26052
+Type: WIFI"
+-74.03579712,40.692276,nycmesh-6872-omni,"Network ID: 48:8F:5A:59:04:D1
+Encryption: WPA2
+Time: 2023-07-25T16:09:16.000-07:00
+Signal: -94.0
+Accuracy: 5.80807
+Type: WIFI"
+-74.04166412,40.68612289,nycmesh-5989-omni,"Network ID: 48:8F:5A:C1:C4:D2
+Encryption: WPA2
+Time: 2023-07-25T16:06:48.000-07:00
+Signal: -91.0
+Accuracy: 6.33524
+Type: WIFI"
+-74.04238129,40.68566132,nycmesh-175-omni,"Network ID: 48:8F:5A:F2:15:96
+Encryption: WPA2
+Time: 2023-07-25T16:06:27.000-07:00
+Signal: -92.0
+Accuracy: 6.51287
+Type: WIFI"
+-74.04562378,40.68594742,(no SSID),"Network ID: 48:C0:93:8C:E4:40
+Encryption: WPA2
+Time: 2023-07-25T16:04:55.000-07:00
+Signal: -81.0
+Accuracy: 7.18566
+Type: WIFI"
+-74.04562378,40.68594742,Free WiFi,"Network ID: 48:C0:93:8C:E4:41
+Encryption: Unknown
+Time: 2023-07-25T16:04:55.000-07:00
+Signal: -81.0
+Accuracy: 7.18566
+Type: WIFI"
+-74.04560089,40.68599319,(no SSID),"Network ID: 48:C0:93:8C:E4:50
+Encryption: WPA2
+Time: 2023-07-25T16:04:53.000-07:00
+Signal: -89.0
+Accuracy: 3.9933
+Type: WIFI"
+-74.04555511,40.68606567,Free WiFi,"Network ID: 48:C0:93:8C:E4:51
+Encryption: Unknown
+Time: 2023-07-25T16:04:50.000-07:00
+Signal: -92.0
+Accuracy: 3.9933
+Type: WIFI"
+-74.02840424,40.70944595,(no SSID),"Network ID: 4A:87:BA:CE:C2:33
+Encryption: WPA2
+Time: 2023-07-25T16:13:32.000-07:00
+Signal: -78.0
+Accuracy: 4.05123
+Type: WIFI"
+-74.04246521,40.68561554,nycmesh-wds,"Network ID: 4A:8F:5A:51:1B:39
+Encryption: WPA2
+Time: 2023-07-25T16:06:25.000-07:00
+Signal: -92.0
+Accuracy: 6.4793
+Type: WIFI"
+-74.03579712,40.692276,-NYC Mesh Community WiFi-,"Network ID: 4A:8F:5A:59:04:D1
+Encryption: Unknown
+Time: 2023-07-25T16:09:16.000-07:00
+Signal: -93.0
+Accuracy: 5.80807
+Type: WIFI"
+-74.04214478,40.68579483,-NYC Mesh Community WiFi-,"Network ID: 4A:8F:5A:96:C8:13
+Encryption: Unknown
+Time: 2023-07-25T16:06:33.000-07:00
+Signal: -91.0
+Accuracy: 6.57011
+Type: WIFI"
+-74.04166412,40.68612289,-NYC Mesh Community WiFi-,"Network ID: 4A:8F:5A:C1:C4:D2
+Encryption: Unknown
+Time: 2023-07-25T16:06:48.000-07:00
+Signal: -92.0
+Accuracy: 6.33524
+Type: WIFI"
+-74.04238129,40.68566132,nycmesh-wds,"Network ID: 4A:8F:5A:C1:C4:D3
+Encryption: WPA2
+Time: 2023-07-25T16:06:27.000-07:00
+Signal: -93.0
+Accuracy: 6.51287
+Type: WIFI"
+-74.03625488,40.69157028,nycmesh-wds,"Network ID: 4A:8F:5A:C3:33:6A
+Encryption: WPA2
+Time: 2023-07-25T16:09:05.000-07:00
+Signal: -93.0
+Accuracy: 6.01758
+Type: WIFI"
+-74.04203033,40.68585587,-NYC Mesh Community WiFi-,"Network ID: 4A:8F:5A:F2:15:96
+Encryption: Unknown
+Time: 2023-07-25T16:06:36.000-07:00
+Signal: -91.0
+Accuracy: 5.26052
+Type: WIFI"
+-74.04203033,40.68585587,nycmesh-wds,"Network ID: 4A:8F:5A:F2:15:97
+Encryption: WPA2
+Time: 2023-07-25T16:06:36.000-07:00
+Signal: -90.0
+Accuracy: 5.26052
+Type: WIFI"
+-74.02687836,40.71313858,ORBI39,"Network ID: 4A:A5:6E:5F:42:22
+Encryption: WPA2
+Time: 2023-07-25T16:14:25.000-07:00
+Signal: -88.0
+Accuracy: 3.86551
+Type: WIFI"
+-74.02710724,40.71255875,8B,"Network ID: 4C:01:43:C8:00:78
+Encryption: WPA2
+Time: 2023-07-25T16:14:17.000-07:00
+Signal: -93.0
+Accuracy: 3.62262
+Type: WIFI"
+-74.02702332,40.71277618,(no SSID),"Network ID: 4C:01:43:C8:00:79
+Encryption: Unknown
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -78.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.02648926,40.71423721,(no SSID),"Network ID: 4C:01:43:C8:00:7A
+Encryption: Unknown
+Time: 2023-07-25T16:14:41.000-07:00
+Signal: -85.0
+Accuracy: 4.91546
+Type: WIFI"
+-74.02607727,40.71620178,Get Off My LAN,"Network ID: 4C:19:5D:78:EF:2F
+Encryption: WPA2
+Time: 2023-07-25T16:15:08.000-07:00
+Signal: -88.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.02630615,40.71502686,Verizon_GX79FJ,"Network ID: 4C:22:F3:4E:46:FF
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -85.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.02850342,40.70893478,vroytman,"Network ID: 4C:22:F3:4E:FD:F9
+Encryption: WPA2
+Time: 2023-07-25T16:13:25.000-07:00
+Signal: -82.0
+Accuracy: 4.78334
+Type: WIFI"
+-74.02610779,40.71605682,SpectrumSetup-05,"Network ID: 4C:AB:F8:37:F6:04
+Encryption: WPA2
+Time: 2023-07-25T16:15:06.000-07:00
+Signal: -89.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.02645111,40.71437454,SpectrumSetup-73,"Network ID: 4C:AB:F8:4A:B5:72
+Encryption: WPA2
+Time: 2023-07-25T16:14:43.000-07:00
+Signal: -89.0
+Accuracy: 5.26052
+Type: WIFI"
+-74.02610779,40.71605682,TeamSA,"Network ID: 4C:C5:3E:9D:75:E0
+Encryption: WPA2
+Time: 2023-07-25T16:15:06.000-07:00
+Signal: -75.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.00925446,40.76239395,NeverGiveUp,"Network ID: 4C:EB:BD:F2:63:7F
+Encryption: WPA2
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -76.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.00912476,40.76254654,MyAltice f2637c_guest,"Network ID: 4E:EB:BD:F2:64:78
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -76.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.04442596,40.68495178,GOLD,"Network ID: 50:06:04:1A:1D:6D
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -90.0
+Accuracy: 3.7556
+Type: WIFI"
+-74.04460144,40.68497086,SILVER,"Network ID: 50:06:04:1A:1D:6E
+Encryption: WPA2
+Time: 2023-07-25T16:05:37.000-07:00
+Signal: -86.0
+Accuracy: 3.92982
+Type: WIFI"
+-74.04367065,40.68509674,PLATINUM,"Network ID: 50:06:04:1A:1D:6F
+Encryption: WPA2
+Time: 2023-07-25T16:05:58.000-07:00
+Signal: -85.0
+Accuracy: 4.21526
+Type: WIFI"
+-74.04139709,40.68632126,SILVER,"Network ID: 50:06:04:1B:8E:C1
+Encryption: WPA2
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -89.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.04139709,40.68632126,GOLD,"Network ID: 50:06:04:1B:8E:C2
+Encryption: WPA2
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -89.0
+Accuracy: 4.3068
+Type: WIFI"
+-74.04381561,40.68503952,GOLD,"Network ID: 50:06:04:1B:8E:CD
+Encryption: WPA2
+Time: 2023-07-25T16:05:54.000-07:00
+Signal: -87.0
+Accuracy: 5.945
+Type: WIFI"
+-74.04450989,40.68495941,SILVER,"Network ID: 50:06:04:1B:8E:CE
+Encryption: WPA2
+Time: 2023-07-25T16:05:39.000-07:00
+Signal: -88.0
+Accuracy: 5.55641
+Type: WIFI"
+-74.04373932,40.68506622,PLATINUM,"Network ID: 50:06:04:1B:8E:CF
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -89.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.04075623,40.68687057,SILVER,"Network ID: 50:06:04:1B:F3:01
+Encryption: WPA2
+Time: 2023-07-25T16:07:18.000-07:00
+Signal: -83.0
+Accuracy: 4.3068
+Type: WIFI"
+-74.04075623,40.68687057,GOLD,"Network ID: 50:06:04:1B:F3:02
+Encryption: WPA2
+Time: 2023-07-25T16:07:18.000-07:00
+Signal: -83.0
+Accuracy: 4.3068
+Type: WIFI"
+-74.04407501,40.68497086,GOLD,"Network ID: 50:06:04:1B:F3:0D
+Encryption: WPA2
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -85.0
+Accuracy: 4.45604
+Type: WIFI"
+-74.04389954,40.68501282,SILVER,"Network ID: 50:06:04:1B:F3:0E
+Encryption: WPA2
+Time: 2023-07-25T16:05:52.000-07:00
+Signal: -88.0
+Accuracy: 3.921
+Type: WIFI"
+-74.04433441,40.68495178,PLATINUM,"Network ID: 50:06:04:1B:F3:0F
+Encryption: WPA2
+Time: 2023-07-25T16:05:43.000-07:00
+Signal: -85.0
+Accuracy: 5.27245
+Type: WIFI"
+-74.04533386,40.68625259,PWF0674183,"Network ID: 50:21:00:67:41:83
+Encryption: WPA2
+Time: 2023-07-25T16:04:41.000-07:00
+Signal: -86.0
+Accuracy: 4.59844
+Type: WIFI"
+-74.04562378,40.68594742,GOLD,"Network ID: 50:2F:A8:12:E6:9D
+Encryption: WPA2
+Time: 2023-07-25T16:04:55.000-07:00
+Signal: -90.0
+Accuracy: 6.21549
+Type: WIFI"
+-74.04314423,40.68530655,SILVER,"Network ID: 50:2F:A8:12:E6:9E
+Encryption: WPA2
+Time: 2023-07-25T16:06:10.000-07:00
+Signal: -89.0
+Accuracy: 5.74673
+Type: WIFI"
+-74.04562378,40.68594742,PLATINUM,"Network ID: 50:2F:A8:12:E6:9F
+Encryption: WPA2
+Time: 2023-07-25T16:04:55.000-07:00
+Signal: -90.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.04151154,40.68623352,GOLD,"Network ID: 50:2F:A8:12:E7:9D
+Encryption: WPA2
+Time: 2023-07-25T16:06:52.000-07:00
+Signal: -89.0
+Accuracy: 6.21549
+Type: WIFI"
+-74.03735352,40.68993378,PLATINUM,"Network ID: 50:2F:A8:12:E7:9F
+Encryption: WPA2
+Time: 2023-07-25T16:08:39.000-07:00
+Signal: -92.0
+Accuracy: 6.25523
+Type: WIFI"
+-74.04132843,40.68637848,GOLD,"Network ID: 50:2F:A8:12:E8:12
+Encryption: WPA2
+Time: 2023-07-25T16:06:57.000-07:00
+Signal: -89.0
+Accuracy: 5.56213
+Type: WIFI"
+-74.04354858,40.68515015,GOLD,"Network ID: 50:2F:A8:12:E8:1D
+Encryption: WPA2
+Time: 2023-07-25T16:06:01.000-07:00
+Signal: -89.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.04398346,40.68498993,SILVER,"Network ID: 50:2F:A8:12:E8:1E
+Encryption: WPA2
+Time: 2023-07-25T16:05:50.000-07:00
+Signal: -88.0
+Accuracy: 5.933
+Type: WIFI"
+-74.04389954,40.68501282,PLATINUM,"Network ID: 50:2F:A8:12:E8:1F
+Encryption: WPA2
+Time: 2023-07-25T16:05:52.000-07:00
+Signal: -88.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.04328918,40.68525314,GOLD,"Network ID: 50:2F:A8:12:ED:7D
+Encryption: WPA2
+Time: 2023-07-25T16:06:07.000-07:00
+Signal: -92.0
+Accuracy: 3.9933
+Type: WIFI"
+-74.04547882,40.68541718,SILVER,"Network ID: 50:2F:A8:12:ED:7E
+Encryption: WPA2
+Time: 2023-07-25T16:05:12.000-07:00
+Signal: -93.0
+Accuracy: 5.5725
+Type: WIFI"
+-74.04373932,40.68506622,PLATINUM,"Network ID: 50:2F:A8:12:ED:7F
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -93.0
+Accuracy: 5.5725
+Type: WIFI"
+-74.03735352,40.68993378,GOLD,"Network ID: 50:2F:A8:12:ED:FD
+Encryption: WPA2
+Time: 2023-07-25T16:08:39.000-07:00
+Signal: -90.0
+Accuracy: 6.25523
+Type: WIFI"
+-74.04354858,40.68515015,SILVER,"Network ID: 50:2F:A8:12:ED:FE
+Encryption: WPA2
+Time: 2023-07-25T16:06:01.000-07:00
+Signal: -91.0
+Accuracy: 5.65316
+Type: WIFI"
+-74.04543304,40.68536758,PLATINUM,"Network ID: 50:2F:A8:12:ED:FF
+Encryption: WPA2
+Time: 2023-07-25T16:05:14.000-07:00
+Signal: -89.0
+Accuracy: 6.68508
+Type: WIFI"
+-74.02630615,40.71502686,(no SSID),"Network ID: 52:E1:E4:75:ED:82
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -86.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.02790833,40.71092224,#DwntwnAllianceFreeWiFi,"Network ID: 54:EC:2F:32:63:7C
+Encryption: Unknown
+Time: 2023-07-25T16:13:53.000-07:00
+Signal: -91.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02790833,40.71092224,#Battery Park City Free WiFi,"Network ID: 54:EC:2F:72:63:7C
+Encryption: Unknown
+Time: 2023-07-25T16:13:53.000-07:00
+Signal: -91.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02760315,40.71153641,(no SSID),"Network ID: 54:EC:2F:B2:63:77
+Encryption: WPA2
+Time: 2023-07-25T16:14:02.000-07:00
+Signal: -78.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.02827454,40.70996857,(no SSID),"Network ID: 54:EC:2F:B2:63:7C
+Encryption: WPA2
+Time: 2023-07-25T16:13:39.000-07:00
+Signal: -92.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.02777863,40.71120071,Orion,"Network ID: 54:EC:2F:F2:63:7C
+Encryption: WPA2
+Time: 2023-07-25T16:13:57.000-07:00
+Signal: -83.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.01066589,40.76070023,Estuary Leasing,"Network ID: 56:D9:E7:7B:9A:53
+Encryption: WPA2
+Time: 2023-07-25T16:35:19.000-07:00
+Signal: -87.0
+Accuracy: 26.5153
+Type: WIFI"
+-74.00157928,40.76299667,Verizon-2936,"Network ID: 58:60:D8:01:29:36
+Encryption: WPA2
+Time: 2023-07-25T16:48:33.000-07:00
+Signal: -90.0
+Accuracy: 13.1308
+Type: WIFI"
+-74.00930023,40.76234055,601 W Guest,"Network ID: 58:FB:96:79:9F:4C
+Encryption: WPA2
+Time: 2023-07-25T16:36:43.000-07:00
+Signal: -87.0
+Accuracy: 4.01719
+Type: WIFI"
+-74.03735352,40.68993378,Verizon-SM-G986U-7517,"Network ID: 5A:D5:0A:31:75:17
+Encryption: WPA2
+Time: 2023-07-25T16:08:39.000-07:00
+Signal: -95.0
+Accuracy: 6.20727
+Type: WIFI"
+-74.00997162,40.76147461,MyOptimum f5a5cb,"Network ID: 5C:53:C3:F5:A5:CE
+Encryption: WPA2
+Time: 2023-07-25T16:36:13.000-07:00
+Signal: -83.0
+Accuracy: 5.59534
+Type: WIFI"
+-74.00949097,40.76214981,(no SSID),"Network ID: 5C:A5:BC:F2:82:48
+Encryption: Unknown
+Time: 2023-07-25T16:36:36.000-07:00
+Signal: -89.0
+Accuracy: 4.82291
+Type: WIFI"
+-74.02622986,40.7154007,OWS_AMENETIES 38,"Network ID: 5C:DF:89:0C:A3:5C
+Encryption: WPA2
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -88.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.02622986,40.7154007,OWS_Guest,"Network ID: 5C:DF:89:4C:A3:5C
+Encryption: Unknown
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -88.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.02655792,40.71401215,SpectrumSetup-62,"Network ID: 5C:FA:25:C2:CB:69
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -90.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.04533386,40.68625259,Lina's Galaxy S23 Ultra,"Network ID: 5E:7E:F6:25:98:C9
+Encryption: WPA2
+Time: 2023-07-25T16:04:41.000-07:00
+Signal: -85.0
+Accuracy: 4.59844
+Type: WIFI"
+-74.03993225,40.68769073,Marcy Staff,"Network ID: 60:22:32:AD:CE:06
+Encryption: WPA2
+Time: 2023-07-25T16:07:53.000-07:00
+Signal: -91.0
+Accuracy: 5.27245
+Type: WIFI"
+-74.02379608,40.72304916,#DwntwnAllianceFreeWiFi,"Network ID: 60:D0:2C:18:C3:0C
+Encryption: Unknown
+Time: 2023-07-25T16:16:44.000-07:00
+Signal: -91.0
+Accuracy: 10.5077
+Type: WIFI"
+-74.02655792,40.71401215,#DwntwnAllianceFreeWiFi,"Network ID: 60:D0:2C:18:D0:8C
+Encryption: Unknown
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -85.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.02848053,40.7090683,#DwntwnAllianceFreeWiFi,"Network ID: 60:D0:2C:23:64:BC
+Encryption: Unknown
+Time: 2023-07-25T16:13:27.000-07:00
+Signal: -87.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02387238,40.72273636,#Battery Park City Free WiFi,"Network ID: 60:D0:2C:58:C3:0C
+Encryption: Unknown
+Time: 2023-07-25T16:16:42.000-07:00
+Signal: -87.0
+Accuracy: 13.3738
+Type: WIFI"
+-74.02655792,40.71401215,#Battery Park City Free WiFi,"Network ID: 60:D0:2C:58:D0:8C
+Encryption: Unknown
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -85.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.02848053,40.7090683,#Battery Park City Free WiFi,"Network ID: 60:D0:2C:63:64:BC
+Encryption: Unknown
+Time: 2023-07-25T16:13:27.000-07:00
+Signal: -88.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02387238,40.72273636,(no SSID),"Network ID: 60:D0:2C:98:C3:0C
+Encryption: WPA2
+Time: 2023-07-25T16:16:42.000-07:00
+Signal: -88.0
+Accuracy: 13.3738
+Type: WIFI"
+-74.02630615,40.71502686,(no SSID),"Network ID: 60:D0:2C:98:D1:7C
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -90.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.02848053,40.7090683,(no SSID),"Network ID: 60:D0:2C:A3:64:BC
+Encryption: WPA2
+Time: 2023-07-25T16:13:27.000-07:00
+Signal: -87.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02387238,40.72273636,Orion,"Network ID: 60:D0:2C:D8:C3:0C
+Encryption: WPA2
+Time: 2023-07-25T16:16:42.000-07:00
+Signal: -88.0
+Accuracy: 13.3738
+Type: WIFI"
+-74.02655792,40.71401215,Orion,"Network ID: 60:D0:2C:D8:D0:8C
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -84.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.02630615,40.71502686,Orion,"Network ID: 60:D0:2C:D8:D1:7C
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -88.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.02848053,40.7090683,Orion,"Network ID: 60:D0:2C:E3:64:BC
+Encryption: WPA2
+Time: 2023-07-25T16:13:27.000-07:00
+Signal: -87.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.00197601,40.76340485,(no SSID),"Network ID: 62:5A:25:6E:6D:07
+Encryption: WPA2
+Time: 2023-07-25T16:41:23.000-07:00
+Signal: -92.0
+Accuracy: 22.051
+Type: WIFI"
+-74.04055786,40.68706512,GunhildsiPhone (2),"Network ID: 62:60:4B:00:B2:E1
+Encryption: WPA2
+Time: 2023-07-25T16:07:28.000-07:00
+Signal: -91.0
+Accuracy: 3.83129
+Type: WIFI"
+-74.00157928,40.76301956,(no SSID),"Network ID: 62:60:D8:01:29:37
+Encryption: WPA2
+Time: 2023-07-25T16:48:22.000-07:00
+Signal: -91.0
+Accuracy: 10.6134
+Type: WIFI"
+-74.02702332,40.71277618,(no SSID),"Network ID: 62:A2:22:F9:44:82
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -91.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.00979614,40.76175308,(no SSID),"Network ID: 62:BD:C5:27:74:30
+Encryption: WPA2
+Time: 2023-07-25T16:36:23.000-07:00
+Signal: -91.0
+Accuracy: 4.80678
+Type: WIFI"
+-74.02675629,40.71347046,46 5G,"Network ID: 62:CD:D6:25:74:94
+Encryption: WPA2
+Time: 2023-07-25T16:14:30.000-07:00
+Signal: -86.0
+Accuracy: 3.94433
+Type: WIFI"
+-74.00839233,40.76336288,(no SSID),"Network ID: 62:F8:53:5E:37:E6
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -90.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00157166,40.76298904,(no SSID),"Network ID: 62:F8:53:8C:52:C0
+Encryption: WPA2
+Time: 2023-07-25T16:48:35.000-07:00
+Signal: -90.0
+Accuracy: 13.3882
+Type: WIFI"
+-74.00173187,40.7629509,(no SSID),"Network ID: 64:00:F1:B2:22:6F
+Encryption: WPA2
+Time: 2023-07-25T16:43:51.000-07:00
+Signal: -82.0
+Accuracy: 17.4047
+Type: WIFI"
+-74.0451355,40.68633652,nw,"Network ID: 68:72:51:06:B1:A7
+Encryption: Unknown
+Time: 2023-07-25T16:04:35.000-07:00
+Signal: -89.0
+Accuracy: 3.9933
+Type: WIFI"
+-74.04228973,40.68571091,TKSExtender,"Network ID: 68:72:51:46:F0:18
+Encryption: WPA2
+Time: 2023-07-25T16:06:29.000-07:00
+Signal: -93.0
+Accuracy: 6.26269
+Type: WIFI"
+-74.00975037,40.76181793,PIER_66_MARITITIME_SECURE,"Network ID: 68:D7:9A:C1:F9:D0
+Encryption: WPA2
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -73.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.00991821,40.76154709,PIER_66_MARITITIME_SECURE,"Network ID: 68:D7:9A:C2:F9:D0
+Encryption: WPA2
+Time: 2023-07-25T16:36:16.000-07:00
+Signal: -86.0
+Accuracy: 5.16616
+Type: WIFI"
+-74.00997162,40.76147461,PIER_66_MARITITIME_SECURE,"Network ID: 68:D7:9A:C2:FA:F4
+Encryption: WPA2
+Time: 2023-07-25T16:36:13.000-07:00
+Signal: -91.0
+Accuracy: 5.59534
+Type: WIFI"
+-74.00255585,40.76373672,STP-Capture,"Network ID: 68:D7:9A:C4:06:DA
+Encryption: WPA2
+Time: 2023-07-25T16:40:43.000-07:00
+Signal: -79.0
+Accuracy: 10.4227
+Type: WIFI"
+-74.02593231,40.71674347,Netgear31,"Network ID: 68:FF:7B:DB:2A:E3
+Encryption: WPA2
+Time: 2023-07-25T16:15:16.000-07:00
+Signal: -84.0
+Accuracy: 5.68026
+Type: WIFI"
+-74.0252533,40.71887207,(no SSID),"Network ID: 6A:27:F5:70:5E:EA
+Encryption: WPA2
+Time: 2023-07-25T16:15:45.000-07:00
+Signal: -83.0
+Accuracy: 4.94416
+Type: WIFI"
+-74.00935364,40.76228333,(no SSID),"Network ID: 6A:BD:C5:30:DC:1E
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -85.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.00939941,40.76223373,(no SSID),"Network ID: 6A:BD:C5:74:00:D0
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -82.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.04151154,40.68623352,RYdanceGuest,"Network ID: 6A:BD:C5:86:14:A7
+Encryption: WPA2
+Time: 2023-07-25T16:06:52.000-07:00
+Signal: -91.0
+Accuracy: 6.21549
+Type: WIFI"
+-74.02655792,40.71401215,(no SSID),"Network ID: 6A:BD:C5:8E:B8:1C
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -87.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.02428436,40.72103882,newportwifi,"Network ID: 6A:D7:9A:74:9D:92
+Encryption: Unknown
+Time: 2023-07-25T16:16:19.000-07:00
+Signal: -89.0
+Accuracy: 30.3868
+Type: WIFI"
+-74.00970459,40.76187897,HBEncore,"Network ID: 6A:D7:9A:75:13:D3
+Encryption: WPA2
+Time: 2023-07-25T16:36:27.000-07:00
+Signal: -90.0
+Accuracy: 4.70491
+Type: WIFI"
+-74.02622986,40.7154007,Spectrum Mobile,"Network ID: 6A:DE:7C:34:32:DA
+Encryption: WPA2
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -89.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.04502869,40.68636703,NETGEAR13-5G-1,"Network ID: 6C:CD:D6:18:18:6D
+Encryption: WPA2
+Time: 2023-07-25T16:04:32.000-07:00
+Signal: -88.0
+Accuracy: 4.78991
+Type: WIFI"
+-74.04521179,40.68630981,NETGEAR13,"Network ID: 6C:CD:D6:18:18:6E
+Encryption: WPA2
+Time: 2023-07-25T16:04:37.000-07:00
+Signal: -86.0
+Accuracy: 4.51743
+Type: WIFI"
+-74.02675629,40.71347046,45,"Network ID: 6C:CD:D6:25:74:93
+Encryption: WPA2
+Time: 2023-07-25T16:14:30.000-07:00
+Signal: -86.0
+Accuracy: 3.94433
+Type: WIFI"
+-74.02667236,40.71365738,45,"Network ID: 6C:CD:D6:25:74:94
+Encryption: WPA2
+Time: 2023-07-25T16:14:33.000-07:00
+Signal: -79.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.00935364,40.76228333,Hammy,"Network ID: 6C:CD:D6:7E:14:2F
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -77.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.02693939,40.71298981,(no SSID),"Network ID: 6C:CD:D6:F7:94:68
+Encryption: WPA2
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -89.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02590942,40.71687317,(no SSID),"Network ID: 6C:CD:D6:F9:A9:D4
+Encryption: WPA2
+Time: 2023-07-25T16:15:18.000-07:00
+Signal: -83.0
+Accuracy: 6.24672
+Type: WIFI"
+-74.02586365,40.71709442,(no SSID),"Network ID: 6C:CD:D6:F9:A9:D6
+Encryption: WPA2
+Time: 2023-07-25T16:15:21.000-07:00
+Signal: -90.0
+Accuracy: 6.40248
+Type: WIFI"
+-74.00975037,40.76181793,PIER_66_MARITITIME_TOAST,"Network ID: 6E:D7:9A:C1:F9:D0
+Encryption: WPA2
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -75.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.00983429,40.76168442,PIER_66_MARITITIME_TOAST,"Network ID: 6E:D7:9A:C1:FA:F4
+Encryption: WPA2
+Time: 2023-07-25T16:36:21.000-07:00
+Signal: -78.0
+Accuracy: 5.12394
+Type: WIFI"
+-74.00979614,40.76175308,PIER_66_MARITITIME_TOAST,"Network ID: 6E:D7:9A:C2:F9:D0
+Encryption: WPA2
+Time: 2023-07-25T16:36:23.000-07:00
+Signal: -86.0
+Accuracy: 4.80678
+Type: WIFI"
+-74.00991821,40.76154709,PIER_66_MARITITIME_TOAST,"Network ID: 6E:D7:9A:C2:FA:F4
+Encryption: WPA2
+Time: 2023-07-25T16:36:16.000-07:00
+Signal: -90.0
+Accuracy: 5.16616
+Type: WIFI"
+-74.00255585,40.76373672,(no SSID),"Network ID: 6E:D7:9A:C4:06:DA
+Encryption: WPA2
+Time: 2023-07-25T16:40:43.000-07:00
+Signal: -78.0
+Accuracy: 12.7365
+Type: WIFI"
+-74.00912476,40.76254654,STP-Capture,"Network ID: 6E:D7:9A:C5:11:2A
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -86.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.04008484,40.68755722,KIM_BOAT,"Network ID: 70:4F:57:34:4F:B7
+Encryption: WPA2
+Time: 2023-07-25T16:07:48.000-07:00
+Signal: -87.0
+Accuracy: 4.45604
+Type: WIFI"
+-74.00935364,40.76228333,sportsdochbk,"Network ID: 70:62:B8:4B:D2:5A
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -79.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.02630615,40.71502686,(no SSID),"Network ID: 72:2F:74:9D:D0:9E
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -91.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.00975037,40.76181793,Macy?s WorldWideWeb,"Network ID: 72:BD:C5:30:DC:1B
+Encryption: WPA2
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -77.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.02648926,40.71423721,(no SSID),"Network ID: 72:BD:C5:8E:B8:22
+Encryption: WPA2
+Time: 2023-07-25T16:14:41.000-07:00
+Signal: -89.0
+Accuracy: 4.91546
+Type: WIFI"
+-74.00839233,40.76336288,(no SSID),"Network ID: 72:D7:9A:C5:11:2A
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -85.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.01013184,40.76118851,Fios-ZqB5w-backup,"Network ID: 72:F8:53:7B:8F:03
+Encryption: WPA2
+Time: 2023-07-25T16:36:01.000-07:00
+Signal: -86.0
+Accuracy: 7.11836
+Type: WIFI"
+-74.02777863,40.71120071,JDZW4B-BAND,"Network ID: 72:F8:53:A3:70:27
+Encryption: WPA2
+Time: 2023-07-25T16:13:57.000-07:00
+Signal: -71.0
+Accuracy: 4.21373
+Type: WIFI"
+-74.02607727,40.71620178,MY Don't Tell Mom,"Network ID: 74:83:C2:28:DA:AB
+Encryption: WPA2
+Time: 2023-07-25T16:15:08.000-07:00
+Signal: -89.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.02619934,40.7156105,LeDistrict_Internal,"Network ID: 74:83:C2:70:05:49
+Encryption: WPA2
+Time: 2023-07-25T16:15:00.000-07:00
+Signal: -90.0
+Accuracy: 5.09479
+Type: WIFI"
+-74.00153351,40.76301575,island-0EB480,"Network ID: 74:91:1A:4E:B4:83
+Encryption: WPA2
+Time: 2023-07-25T16:47:02.000-07:00
+Signal: -79.0
+Accuracy: 38.8592
+Type: WIFI"
+-74.00162506,40.76300812,island-0EB480,"Network ID: 74:91:1A:4E:B4:87
+Encryption: WPA2
+Time: 2023-07-25T16:46:53.000-07:00
+Signal: -92.0
+Accuracy: 11.5054
+Type: WIFI"
+-74.02693939,40.71298981,911-Events,"Network ID: 74:9E:75:32:43:A0
+Encryption: WPA2
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -90.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02693939,40.71298981,911-MEMORIAL.ORG,"Network ID: 74:9E:75:32:43:A1
+Encryption: Unknown
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -90.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02693939,40.71298981,NS11MM-AUDIO-GUIDE,"Network ID: 74:9E:75:32:43:A3
+Encryption: WPA2
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -91.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.0451355,40.68633652,(no SSID),"Network ID: 74:9E:75:4E:DD:10
+Encryption: WPA2
+Time: 2023-07-25T16:04:35.000-07:00
+Signal: -93.0
+Accuracy: 4.76058
+Type: WIFI"
+-74.04480743,40.68639374,41 River Terrace Guest,"Network ID: 74:9E:75:4E:DD:12
+Encryption: WPA3
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -93.0
+Accuracy: 5.30288
+Type: WIFI"
+-74.02661896,40.71380997,River Terrace Guest,"Network ID: 74:9E:75:4E:DD:13
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -91.0
+Accuracy: 5.30288
+Type: WIFI"
+-74.04398346,40.68498993,GOLD,"Network ID: 78:0C:F0:21:6D:FD
+Encryption: WPA2
+Time: 2023-07-25T16:05:50.000-07:00
+Signal: -92.0
+Accuracy: 4.45604
+Type: WIFI"
+-74.04442596,40.68495178,SILVER,"Network ID: 78:0C:F0:21:6D:FE
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -90.0
+Accuracy: 5.90391
+Type: WIFI"
+-74.04173279,40.68606949,PLATINUM,"Network ID: 78:0C:F0:21:6D:FF
+Encryption: WPA2
+Time: 2023-07-25T16:06:46.000-07:00
+Signal: -91.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.00839233,40.76336288,RR-Lyra-Guest,"Network ID: 78:45:58:3E:12:81
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -82.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.02702332,40.71277618,Verizon_JMMN6G,"Network ID: 78:67:0E:0B:CA:B8
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -86.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.02622986,40.7154007,Verizon_JMMN6G,"Network ID: 78:67:0E:0B:CA:B9
+Encryption: WPA2
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -87.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.00949097,40.76214981,Verizon_64QKQZ,"Network ID: 78:67:0E:39:AB:23
+Encryption: WPA2
+Time: 2023-07-25T16:36:36.000-07:00
+Signal: -93.0
+Accuracy: 4.82291
+Type: WIFI"
+-74.02661896,40.71380997,Barufkanet,"Network ID: 78:67:0E:4C:9A:E8
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -86.0
+Accuracy: 5.2682
+Type: WIFI"
+-74.01003265,40.76138306,It Hurts When IP,"Network ID: 78:67:0E:4D:13:7E
+Encryption: WPA2
+Time: 2023-07-25T16:36:09.000-07:00
+Signal: -88.0
+Accuracy: 5.77451
+Type: WIFI"
+-74.02710724,40.71255875,Dog House,"Network ID: 78:67:0E:51:F2:3B
+Encryption: WPA2
+Time: 2023-07-25T16:14:17.000-07:00
+Signal: -86.0
+Accuracy: 3.62262
+Type: WIFI"
+-74.02802277,40.7106514,Verizon_6SVZFR,"Network ID: 78:67:0E:57:2E:AE
+Encryption: WPA2
+Time: 2023-07-25T16:13:49.000-07:00
+Signal: -85.0
+Accuracy: 4.16906
+Type: WIFI"
+-74.02784729,40.71106339,Verizon_PLDB7Z,"Network ID: 78:67:0E:71:DF:7A
+Encryption: WPA2
+Time: 2023-07-25T16:13:55.000-07:00
+Signal: -86.0
+Accuracy: 4.43513
+Type: WIFI"
+-74.02687836,40.71313858,Verizon_F46GBS,"Network ID: 78:67:0E:87:39:31
+Encryption: WPA2
+Time: 2023-07-25T16:14:25.000-07:00
+Signal: -86.0
+Accuracy: 3.86551
+Type: WIFI"
+-74.02702332,40.71277618,Verizon_M3NSQ9,"Network ID: 78:67:0E:B7:8F:FB
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -85.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.02693939,40.71298981,Verizon_M3NSQ9,"Network ID: 78:67:0E:B7:8F:FC
+Encryption: WPA2
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -90.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02850342,40.70893478,ARRIS-68A5-5G,"Network ID: 78:6A:1F:75:87:6D
+Encryption: WPA2
+Time: 2023-07-25T16:13:25.000-07:00
+Signal: -90.0
+Accuracy: 4.78334
+Type: WIFI"
+-74.00839233,40.76336288,nw,"Network ID: 78:8A:20:22:3A:02
+Encryption: Unknown
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -88.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00793457,40.76383972,Gregory,"Network ID: 78:8A:20:24:BC:99
+Encryption: WPA2
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -82.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.01013184,40.76118851,(no SSID),"Network ID: 7A:9A:4A:32:5B:B9
+Encryption: WPA2
+Time: 2023-07-25T16:36:01.000-07:00
+Signal: -84.0
+Accuracy: 7.11836
+Type: WIFI"
+-74.02645111,40.71437454,Fios-HKC3h,"Network ID: 7A:BD:C5:D6:4D:19
+Encryption: WPA2
+Time: 2023-07-25T16:14:43.000-07:00
+Signal: -91.0
+Accuracy: 5.26052
+Type: WIFI"
+-74.02570343,40.71759415,(no SSID),"Network ID: 7A:FF:7B:DB:2A:E3
+Encryption: WPA2
+Time: 2023-07-25T16:15:28.000-07:00
+Signal: -82.0
+Accuracy: 6.70256
+Type: WIFI"
+-74.00953674,40.76209641,Kingklave2G,"Network ID: 7C:DB:98:84:3B:D7
+Encryption: WPA2
+Time: 2023-07-25T16:36:34.000-07:00
+Signal: -77.0
+Accuracy: 4.16399
+Type: WIFI"
+-74.00164032,40.76316071,(no SSID),"Network ID: 7E:45:58:27:4C:23
+Encryption: WPA2
+Time: 2023-07-25T16:42:58.000-07:00
+Signal: -89.0
+Accuracy: 28.7624
+Type: WIFI"
+-74.00165558,40.76292419,STP-Capture,"Network ID: 7E:45:58:28:4C:23
+Encryption: WPA2
+Time: 2023-07-25T16:44:54.000-07:00
+Signal: -92.0
+Accuracy: 26.8896
+Type: WIFI"
+-74.00793457,40.76383972,RR-AP01,"Network ID: 7E:45:58:3E:12:81
+Encryption: WPA2
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -87.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.02622986,40.7154007,(no SSID),"Network ID: 7E:67:0E:0B:CA:B9
+Encryption: WPA2
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -88.0
+Accuracy: 4.68533
+Type: WIFI"
+-74.0258255,40.71722412,(no SSID),"Network ID: 7E:67:0E:4C:9A:E9
+Encryption: WPA2
+Time: 2023-07-25T16:15:23.000-07:00
+Signal: -92.0
+Accuracy: 7.05544
+Type: WIFI"
+-74.02687836,40.71313858,(no SSID),"Network ID: 7E:67:0E:87:39:31
+Encryption: WPA2
+Time: 2023-07-25T16:14:25.000-07:00
+Signal: -87.0
+Accuracy: 3.86551
+Type: WIFI"
+-74.02693939,40.71298981,(no SSID),"Network ID: 7E:67:0E:B7:8F:FC
+Encryption: WPA2
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -90.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02598572,40.71656036,(no SSID),"Network ID: 7E:7A:8A:17:E6:60
+Encryption: WPA2
+Time: 2023-07-25T16:15:13.000-07:00
+Signal: -79.0
+Accuracy: 4.82606
+Type: WIFI"
+-74.00839233,40.76336288,(no SSID),"Network ID: 7E:8A:20:22:3A:02
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -89.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00793457,40.76383972,John,"Network ID: 7E:8A:20:24:BC:99
+Encryption: WPA2
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -82.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.02675629,40.71347046,(no SSID),"Network ID: 80:02:9C:CA:81:BB
+Encryption: WPA2
+Time: 2023-07-25T16:14:30.000-07:00
+Signal: -91.0
+Accuracy: 3.94433
+Type: WIFI"
+-74.02675629,40.71347046,GryphonHome81b3,"Network ID: 80:02:9C:CA:81:BC
+Encryption: WPA2
+Time: 2023-07-25T16:14:30.000-07:00
+Signal: -91.0
+Accuracy: 3.94433
+Type: WIFI"
+-74.02639771,40.71459579,GryphonGuest81b3,"Network ID: 80:02:9C:CA:81:BD
+Encryption: WPA2
+Time: 2023-07-25T16:14:46.000-07:00
+Signal: -93.0
+Accuracy: 5.14825
+Type: WIFI"
+-74.00839233,40.76336288,Intrepid_Edu_EXT5G,"Network ID: 80:3F:5D:E7:41:16
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -87.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.02622986,40.7154007,SpectrumSetup-A7,"Network ID: 80:78:71:B3:41:A6
+Encryption: WPA2
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -86.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.00961304,40.76199722,HANM01,"Network ID: 80:B9:7A:63:76:A7
+Encryption: WPA2
+Time: 2023-07-25T16:36:31.000-07:00
+Signal: -90.0
+Accuracy: 4.72112
+Type: WIFI"
+-74.00793457,40.76383972,HANM01,"Network ID: 80:B9:7A:63:76:A8
+Encryption: WPA2
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -84.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.00793457,40.76383972,(no SSID),"Network ID: 80:B9:7A:63:76:AA
+Encryption: Unknown
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -90.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.00949097,40.76214981,(no SSID),"Network ID: 80:B9:7A:63:76:AB
+Encryption: Unknown
+Time: 2023-07-25T16:36:36.000-07:00
+Signal: -88.0
+Accuracy: 4.82291
+Type: WIFI"
+-74.04502869,40.68636703,NATRALF,"Network ID: 80:B9:7A:C2:12:C8
+Encryption: WPA2
+Time: 2023-07-25T16:04:32.000-07:00
+Signal: -90.0
+Accuracy: 4.78991
+Type: WIFI"
+-74.04528046,40.68628311,(no SSID),"Network ID: 80:B9:7A:C2:12:CB
+Encryption: Unknown
+Time: 2023-07-25T16:04:39.000-07:00
+Signal: -93.0
+Accuracy: 4.56767
+Type: WIFI"
+-74.02702332,40.71277618,Maisie,"Network ID: 80:C5:48:4A:E5:67
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -86.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.02648926,40.71423721,Maisie2.4G,"Network ID: 80:C5:48:4A:E5:69
+Encryption: WPA2
+Time: 2023-07-25T16:14:41.000-07:00
+Signal: -82.0
+Accuracy: 4.91546
+Type: WIFI"
+-74.02598572,40.71656036,CanadozNYC,"Network ID: 80:CC:9C:1E:F8:2E
+Encryption: WPA2
+Time: 2023-07-25T16:15:13.000-07:00
+Signal: -78.0
+Accuracy: 4.82606
+Type: WIFI"
+-74.04132843,40.68637848,markcardillo,"Network ID: 80:D0:4A:6C:DE:2D
+Encryption: WPA2
+Time: 2023-07-25T16:06:57.000-07:00
+Signal: -89.0
+Accuracy: 5.56213
+Type: WIFI"
+-74.04139709,40.68632126,xfinitywifi,"Network ID: 80:D0:4A:6C:DE:37
+Encryption: Unknown
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -90.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.04044342,40.68717957,XFINITY,"Network ID: 80:D0:4A:6C:DE:39
+Encryption: WPA2
+Time: 2023-07-25T16:07:33.000-07:00
+Signal: -91.0
+Accuracy: 3.7556
+Type: WIFI"
+-74.04044342,40.68717957,(no SSID),"Network ID: 80:D0:4A:6C:DE:3A
+Encryption: WPA2
+Time: 2023-07-25T16:07:33.000-07:00
+Signal: -91.0
+Accuracy: 3.7556
+Type: WIFI"
+-74.02507782,40.71935654,(no SSID),"Network ID: 80:D0:4A:8C:01:C5
+Encryption: WPA2
+Time: 2023-07-25T16:15:52.000-07:00
+Signal: -83.0
+Accuracy: 5.99817
+Type: WIFI"
+-74.02639771,40.71459579,Hudson-3702,"Network ID: 80:D0:4A:8C:01:CA
+Encryption: WPA2
+Time: 2023-07-25T16:14:46.000-07:00
+Signal: -90.0
+Accuracy: 5.14825
+Type: WIFI"
+-74.02639771,40.71459579,XFINITY,"Network ID: 80:D0:4A:8C:01:CE
+Encryption: WPA2
+Time: 2023-07-25T16:14:46.000-07:00
+Signal: -89.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.00975037,40.76181793,(no SSID),"Network ID: 80:DA:13:DE:80:08
+Encryption: Unknown
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -90.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.00979614,40.76175308,HRCS Guest,"Network ID: 80:DA:13:DE:80:0C
+Encryption: WPA2
+Time: 2023-07-25T16:36:23.000-07:00
+Signal: -91.0
+Accuracy: 4.80678
+Type: WIFI"
+-74.04055786,40.68706512,GLK,"Network ID: 80:DA:13:F9:9E:46
+Encryption: WPA2
+Time: 2023-07-25T16:07:28.000-07:00
+Signal: -92.0
+Accuracy: 3.83129
+Type: WIFI"
+-74.00165558,40.76292419,(no SSID),"Network ID: 82:45:58:28:4C:23
+Encryption: WPA2
+Time: 2023-07-25T16:44:54.000-07:00
+Signal: -93.0
+Accuracy: 26.8896
+Type: WIFI"
+-74.00793457,40.76383972,(no SSID),"Network ID: 82:45:58:3E:12:81
+Encryption: WPA2
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -88.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.02722931,40.71226501,Verizon_9WX7NG-IoT,"Network ID: 82:67:0E:37:3B:DC
+Encryption: WPA2
+Time: 2023-07-25T16:14:13.000-07:00
+Signal: -82.0
+Accuracy: 4.68393
+Type: WIFI"
+-74.00793457,40.76383972,(no SSID),"Network ID: 82:8A:20:24:BC:99
+Encryption: WPA2
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -81.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.03986359,40.68774414,Pal's Galaxy S20 FE,"Network ID: 82:B8:23:5F:A2:0E
+Encryption: WPA2
+Time: 2023-07-25T16:07:55.000-07:00
+Signal: -79.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.0452652,40.68522644,AndroidAP0826,"Network ID: 82:F4:BF:D4:67:5B
+Encryption: WPA2
+Time: 2023-07-25T16:05:20.000-07:00
+Signal: -91.0
+Accuracy: 4.56767
+Type: WIFI"
+-74.03579712,40.692276,Spectrum Mobile,"Network ID: 84:18:3A:3B:56:48
+Encryption: WPA2
+Time: 2023-07-25T16:09:16.000-07:00
+Signal: -90.0
+Accuracy: 5.80807
+Type: WIFI"
+-74.04480743,40.68639374,SIFERRYWIFI,"Network ID: 84:18:3A:42:74:28
+Encryption: Unknown
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -81.0
+Accuracy: 5.90951
+Type: WIFI"
+-74.04480743,40.68639374,attwifi - Passpoint,"Network ID: 84:18:3A:42:74:29
+Encryption: WPA2
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -81.0
+Accuracy: 5.90951
+Type: WIFI"
+-74.04492188,40.68638229,SIFERRYWIFI,"Network ID: 84:18:3A:43:F5:C8
+Encryption: Unknown
+Time: 2023-07-25T16:04:29.000-07:00
+Signal: -85.0
+Accuracy: 5.19769
+Type: WIFI"
+-74.04480743,40.68639374,SIF-Secured,"Network ID: 84:18:3A:82:74:28
+Encryption: WPA2
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -81.0
+Accuracy: 5.90951
+Type: WIFI"
+-74.04480743,40.68639374,Orion,"Network ID: 84:18:3A:82:74:29
+Encryption: WPA2
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -81.0
+Accuracy: 5.90951
+Type: WIFI"
+-74.03656769,40.69104004,SIF-Secured,"Network ID: 84:18:3A:BB:66:B8
+Encryption: WPA2
+Time: 2023-07-25T16:08:57.000-07:00
+Signal: -95.0
+Accuracy: 5.93803
+Type: WIFI"
+-74.01008606,40.76128769,RNET-NYC 5.0,"Network ID: 84:23:88:07:9F:4C
+Encryption: WPA2
+Time: 2023-07-25T16:36:05.000-07:00
+Signal: -91.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.01005554,40.76133347,RNET-NYC,"Network ID: 84:23:88:47:9F:4C
+Encryption: WPA2
+Time: 2023-07-25T16:36:07.000-07:00
+Signal: -90.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.00939941,40.76223373,Riverbank West Resident,"Network ID: 84:23:88:61:35:4C
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -86.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.00939941,40.76223373,Riverbank 5G,"Network ID: 84:23:88:A1:35:4C
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -86.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.02848053,40.7090683,Verizon_9JBJS4,"Network ID: 84:90:0A:71:CA:1D
+Encryption: WPA2
+Time: 2023-07-25T16:13:27.000-07:00
+Signal: -87.0
+Accuracy: 5.52734
+Type: WIFI"
+-74.02702332,40.71277618,Verizon_9JBJS4,"Network ID: 84:90:0A:71:CA:1E
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -92.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.04512024,40.68514633,EH-KIOSK,"Network ID: 88:DC:96:1D:90:D6
+Encryption: WPA2
+Time: 2023-07-25T16:05:24.000-07:00
+Signal: -91.0
+Accuracy: 4.59844
+Type: WIFI"
+-74.04505157,40.685112,EH,"Network ID: 88:DC:96:1D:91:D5
+Encryption: WPA2
+Time: 2023-07-25T16:05:26.000-07:00
+Signal: -84.0
+Accuracy: 4.78991
+Type: WIFI"
+-74.04480743,40.68639374,EH,"Network ID: 88:DC:96:1D:91:D6
+Encryption: WPA2
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -87.0
+Accuracy: 5.90951
+Type: WIFI"
+-74.02682495,40.71326828,Rector Place,"Network ID: 88:DC:96:23:DD:E4
+Encryption: Unknown
+Time: 2023-07-25T16:14:27.000-07:00
+Signal: -78.0
+Accuracy: 4.05021
+Type: WIFI"
+-74.04460144,40.68640137,p17-se-access,"Network ID: 88:DC:96:4E:DB:17
+Encryption: WPA2
+Time: 2023-07-25T16:04:21.000-07:00
+Signal: -88.0
+Accuracy: 6.58814
+Type: WIFI"
+-74.02675629,40.71347046,H.Khitt,"Network ID: 88:DE:7C:8D:41:F2
+Encryption: WPA2
+Time: 2023-07-25T16:14:30.000-07:00
+Signal: -91.0
+Accuracy: 3.94433
+Type: WIFI"
+-74.02627563,40.71517181,MAMBA,"Network ID: 88:DE:7C:D9:A2:C4
+Encryption: WPA2
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -91.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.00158691,40.76298523,ShowTime,"Network ID: 8A:15:04:2C:74:E0
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -73.0
+Accuracy: 10.6091
+Type: WIFI"
+-74.00158691,40.76298523,(no SSID),"Network ID: 8A:15:04:2C:74:EF
+Encryption: WEP
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -74.0
+Accuracy: 13.0337
+Type: WIFI"
+-74.00156403,40.76297379,ShowTime,"Network ID: 8A:15:14:2C:74:E0
+Encryption: WPA2
+Time: 2023-07-25T16:48:38.000-07:00
+Signal: -85.0
+Accuracy: 12.5939
+Type: WIFI"
+-74.00157166,40.76301575,(no SSID),"Network ID: 8A:15:14:2C:74:EF
+Encryption: WEP
+Time: 2023-07-25T16:47:15.000-07:00
+Signal: -92.0
+Accuracy: 10.3643
+Type: WIFI"
+-74.02655792,40.71401215,(no SSID),"Network ID: 8A:90:0A:71:CA:1E
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -84.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.02627563,40.71517181,(no SSID),"Network ID: 8A:A2:22:C9:1D:76
+Encryption: WPA2
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -92.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.02627563,40.71517181,Traumamd,"Network ID: 8A:A2:22:C9:1D:77
+Encryption: WPA2
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -91.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.02742004,40.7118721,(no SSID),"Network ID: 8A:C9:E3:C7:38:51
+Encryption: WPA2
+Time: 2023-07-25T16:14:07.000-07:00
+Signal: -84.0
+Accuracy: 3.78449
+Type: WIFI"
+-74.02850342,40.70893478,(no SSID),"Network ID: 8A:DC:96:23:DD:E4
+Encryption: WPA2
+Time: 2023-07-25T16:13:25.000-07:00
+Signal: -85.0
+Accuracy: 4.78334
+Type: WIFI"
+-74.04492188,40.68638229,Verizon-6CA6,"Network ID: 8C:5A:25:6E:6C:A2
+Encryption: WPA2
+Time: 2023-07-25T16:04:29.000-07:00
+Signal: -65.0
+Accuracy: 5.19769
+Type: WIFI"
+-74.04533386,40.68625259,Verizon-6CA6,"Network ID: 8C:5A:25:6E:6C:A6
+Encryption: WPA2
+Time: 2023-07-25T16:04:41.000-07:00
+Signal: -92.0
+Accuracy: 4.59844
+Type: WIFI"
+-74.00165558,40.76329041,STP-B4,"Network ID: 8C:5A:25:6E:6D:02
+Encryption: WPA2
+Time: 2023-07-25T16:42:04.000-07:00
+Signal: -78.0
+Accuracy: 10.6023
+Type: WIFI"
+-74.00197601,40.76340485,STP-B4,"Network ID: 8C:5A:25:6E:6D:06
+Encryption: WPA2
+Time: 2023-07-25T16:41:23.000-07:00
+Signal: -91.0
+Accuracy: 22.051
+Type: WIFI"
+-74.00839233,40.76336288,Verizon-9836,"Network ID: 8C:5A:25:6E:98:36
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -87.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00224304,40.76359558,STP-B1,"Network ID: 8C:5A:25:70:9B:F2
+Encryption: WPA2
+Time: 2023-07-25T16:41:02.000-07:00
+Signal: -86.0
+Accuracy: 11.2715
+Type: WIFI"
+-74.00255585,40.76373672,STP-B1,"Network ID: 8C:5A:25:70:9B:F6
+Encryption: WPA2
+Time: 2023-07-25T16:40:43.000-07:00
+Signal: -94.0
+Accuracy: 12.7365
+Type: WIFI"
+-74.02570343,40.71759415,ToughBoat,"Network ID: 8C:A2:FD:01:69:62
+Encryption: WPA2
+Time: 2023-07-25T16:15:28.000-07:00
+Signal: -84.0
+Accuracy: 6.70256
+Type: WIFI"
+-74.04460144,40.68640137,(no SSID),"Network ID: 8C:FE:74:9A:6B:2C
+Encryption: WPA2
+Time: 2023-07-25T16:04:21.000-07:00
+Signal: -94.0
+Accuracy: 4.93386
+Type: WIFI"
+-74.02767181,40.71140671,(no SSID),"Network ID: 8C:FE:74:9A:6B:2D
+Encryption: Unknown
+Time: 2023-07-25T16:14:00.000-07:00
+Signal: -94.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.04460144,40.68640137,Wagner_GUEST,"Network ID: 8C:FE:74:DA:6B:2C
+Encryption: Unknown
+Time: 2023-07-25T16:04:21.000-07:00
+Signal: -92.0
+Accuracy: 6.58814
+Type: WIFI"
+-74.02675629,40.71347046,(no SSID),"Network ID: 8E:5A:B0:27:B5:66
+Encryption: WPA2
+Time: 2023-07-25T16:14:30.000-07:00
+Signal: -89.0
+Accuracy: 3.94433
+Type: WIFI"
+-74.00912476,40.76254654,@Guestnet,"Network ID: 90:77:EE:F5:05:A7
+Encryption: Unknown
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -89.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.00912476,40.76254654,GIIIEXEC,"Network ID: 90:77:EE:F5:05:A8
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -88.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.00912476,40.76254654,MA34112,"Network ID: 90:77:EE:F5:05:A9
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -88.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.00912476,40.76254654,@VDInet,"Network ID: 90:77:EE:F5:05:AA
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -89.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.00912476,40.76254654,GIII-VC-INT,"Network ID: 90:77:EE:F5:05:AB
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -88.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.00917816,40.7624855,GIIIMAIL,"Network ID: 90:77:EE:F5:05:AD
+Encryption: WPA2
+Time: 2023-07-25T16:36:48.000-07:00
+Signal: -92.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.01008606,40.76128769,huiming,"Network ID: 90:9A:4A:32:5B:B7
+Encryption: WPA2
+Time: 2023-07-25T16:36:05.000-07:00
+Signal: -80.0
+Accuracy: 5.73716
+Type: WIFI"
+-74.02854156,40.7087059,SKARZYNSKI BLACK,"Network ID: 92:2A:A8:09:72:46
+Encryption: WPA2
+Time: 2023-07-25T16:13:22.000-07:00
+Signal: -87.0
+Accuracy: 5.69867
+Type: WIFI"
+-74.02610779,40.71605682,Partha22,"Network ID: 94:18:65:2C:63:3E
+Encryption: WPA2
+Time: 2023-07-25T16:15:06.000-07:00
+Signal: -75.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.02630615,40.71502686,EnGenius6506C,"Network ID: 94:53:30:F7:E5:FC
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -82.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.00157928,40.76299667,MySpectrumWiFi86-2G,"Network ID: 94:91:7F:B4:DE:84
+Encryption: WPA2
+Time: 2023-07-25T16:48:33.000-07:00
+Signal: -88.0
+Accuracy: 13.1308
+Type: WIFI"
+-74.02570343,40.71759415,NETGEAR52,"Network ID: 94:A6:7E:FC:36:CF
+Encryption: WPA2
+Time: 2023-07-25T16:15:28.000-07:00
+Signal: -83.0
+Accuracy: 6.70256
+Type: WIFI"
+-74.01003265,40.76138306,(no SSID),"Network ID: 94:B3:4F:57:9F:12
+Encryption: WPA2
+Time: 2023-07-25T16:36:09.000-07:00
+Signal: -83.0
+Accuracy: 5.77451
+Type: WIFI"
+-74.01020813,40.76110458,3Eleven Staff,"Network ID: 94:B3:4F:57:9F:80
+Encryption: WPA2
+Time: 2023-07-25T16:35:58.000-07:00
+Signal: -81.0
+Accuracy: 11.6808
+Type: WIFI"
+-74.01020813,40.76110458,3Eleven Residents,"Network ID: 94:B3:4F:57:9F:81
+Encryption: Unknown
+Time: 2023-07-25T16:35:58.000-07:00
+Signal: -81.0
+Accuracy: 11.6808
+Type: WIFI"
+-74.01020813,40.76110458,(no SSID),"Network ID: 94:B3:4F:57:9F:82
+Encryption: WPA2
+Time: 2023-07-25T16:35:58.000-07:00
+Signal: -81.0
+Accuracy: 11.6808
+Type: WIFI"
+-74.01000214,40.76142883,3Eleven Staff,"Network ID: 94:B3:4F:97:4E:B0
+Encryption: WPA2
+Time: 2023-07-25T16:36:11.000-07:00
+Signal: -84.0
+Accuracy: 6.00074
+Type: WIFI"
+-74.01066589,40.76070023,3Eleven Residents,"Network ID: 94:B3:4F:97:4E:B1
+Encryption: Unknown
+Time: 2023-07-25T16:35:19.000-07:00
+Signal: -89.0
+Accuracy: 6.00074
+Type: WIFI"
+-74.00979614,40.76175308,3Eleven Staff,"Network ID: 94:B3:4F:97:9F:10
+Encryption: WPA2
+Time: 2023-07-25T16:36:23.000-07:00
+Signal: -86.0
+Accuracy: 4.80678
+Type: WIFI"
+-74.01013184,40.76118851,3Eleven Residents,"Network ID: 94:B3:4F:97:9F:11
+Encryption: Unknown
+Time: 2023-07-25T16:36:01.000-07:00
+Signal: -92.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.00917816,40.7624855,(no SSID),"Network ID: 94:B3:4F:97:9F:12
+Encryption: WPA2
+Time: 2023-07-25T16:36:48.000-07:00
+Signal: -85.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.00991821,40.76154709,3Eleven Residents,"Network ID: 94:B3:4F:97:9F:81
+Encryption: Unknown
+Time: 2023-07-25T16:36:16.000-07:00
+Signal: -88.0
+Accuracy: 5.16616
+Type: WIFI"
+-74.00912476,40.76254654,3Eleven Residents,"Network ID: 94:B3:4F:97:BF:51
+Encryption: Unknown
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -91.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.02610779,40.71605682,mesh-BrookField-M3sh,"Network ID: 94:B3:4F:9E:F4:1E
+Encryption: WPA2
+Time: 2023-07-25T16:15:06.000-07:00
+Signal: -89.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.00979614,40.76175308,(no SSID),"Network ID: 96:46:8D:1C:63:D2
+Encryption: WPA2
+Time: 2023-07-25T16:36:23.000-07:00
+Signal: -86.0
+Accuracy: 4.80678
+Type: WIFI"
+-74.00898743,40.76269913,(no SSID),"Network ID: 9A:15:44:AB:1D:E0
+Encryption: WPA2
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -68.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.00801086,40.76375198,(no SSID),"Network ID: 9A:15:44:AB:1E:39
+Encryption: WPA2
+Time: 2023-07-25T16:37:28.000-07:00
+Signal: -74.0
+Accuracy: 5.09173
+Type: WIFI"
+-74.00839233,40.76336288,(no SSID),"Network ID: 9A:15:54:AB:1D:E0
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -78.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00801086,40.76375198,(no SSID),"Network ID: 9A:15:54:AB:1E:39
+Encryption: WPA2
+Time: 2023-07-25T16:37:28.000-07:00
+Signal: -80.0
+Accuracy: 5.09173
+Type: WIFI"
+-74.02655792,40.71401215,ARRIS-1E85-5G,"Network ID: 9C:C8:FC:17:78:A8
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -86.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.0404892,40.68712997,NETGEAR32,"Network ID: 9C:C9:EB:42:85:B3
+Encryption: WPA2
+Time: 2023-07-25T16:07:31.000-07:00
+Signal: -86.0
+Accuracy: 3.87506
+Type: WIFI"
+-74.04063416,40.68698883,NETGEAR32-5G,"Network ID: 9C:C9:EB:42:85:B4
+Encryption: WPA2
+Time: 2023-07-25T16:07:24.000-07:00
+Signal: -91.0
+Accuracy: 3.92982
+Type: WIFI"
+-74.02729797,40.71212387,GFN9L,"Network ID: 9C:C9:EB:EE:98:50
+Encryption: WPA2
+Time: 2023-07-25T16:14:11.000-07:00
+Signal: -87.0
+Accuracy: 4.76885
+Type: WIFI"
+-74.03678131,40.69071579,(no SSID),"Network ID: 9E:95:61:3B:22:F9
+Encryption: WPA2
+Time: 2023-07-25T16:08:52.000-07:00
+Signal: -90.0
+Accuracy: 6.05436
+Type: WIFI"
+-74.02610779,40.71605682,(no SSID),"Network ID: 9E:A3:A9:D3:13:C0
+Encryption: WPA2
+Time: 2023-07-25T16:15:06.000-07:00
+Signal: -82.0
+Accuracy: 3.6206
+Type: WIFI"
+-74.02702332,40.71277618,igb,"Network ID: A0:04:60:3A:5E:3A
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -85.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.04560852,40.68564224,GOLD,"Network ID: A0:93:51:A3:0D:ED
+Encryption: WPA2
+Time: 2023-07-25T16:05:05.000-07:00
+Signal: -92.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.0451355,40.68633652,SILVER,"Network ID: A0:93:51:A3:0D:EE
+Encryption: WPA2
+Time: 2023-07-25T16:04:35.000-07:00
+Signal: -92.0
+Accuracy: 4.76058
+Type: WIFI"
+-74.04139709,40.68632126,PLATINUM,"Network ID: A0:93:51:A3:0D:EF
+Encryption: WPA2
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -86.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.04418182,40.6849556,GOLD,"Network ID: A0:93:51:A3:29:DD
+Encryption: WPA2
+Time: 2023-07-25T16:05:46.000-07:00
+Signal: -92.0
+Accuracy: 5.27245
+Type: WIFI"
+-74.04478455,40.68501282,SILVER,"Network ID: A0:93:51:A3:29:DE
+Encryption: WPA2
+Time: 2023-07-25T16:05:33.000-07:00
+Signal: -86.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.04246521,40.68561554,PLATINUM,"Network ID: A0:93:51:A3:29:DF
+Encryption: WPA2
+Time: 2023-07-25T16:06:25.000-07:00
+Signal: -86.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.02702332,40.71277618,(no SSID),"Network ID: A2:2A:A8:09:72:46
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -84.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.02630615,40.71502686,ORBI24,"Network ID: A2:C9:EB:12:81:B3
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -81.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.00991821,40.76154709,MyAltice 0c6127,"Network ID: A4:CF:D2:0C:61:2A
+Encryption: WPA2
+Time: 2023-07-25T16:36:16.000-07:00
+Signal: -77.0
+Accuracy: 5.16616
+Type: WIFI"
+-74.0402832,40.6873703,RoyalKing,"Network ID: A6:04:60:2C:32:0F
+Encryption: WPA2
+Time: 2023-07-25T16:07:41.000-07:00
+Signal: -86.0
+Accuracy: 3.96799
+Type: WIFI"
+-74.02854156,40.7087059,(no SSID),"Network ID: A6:C9:EB:12:66:1A
+Encryption: WPA2
+Time: 2023-07-25T16:13:22.000-07:00
+Signal: -89.0
+Accuracy: 4.16906
+Type: WIFI"
+-74.02661896,40.71380997,(no SSID),"Network ID: A6:C9:EB:12:81:B3
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -84.0
+Accuracy: 5.30288
+Type: WIFI"
+-74.00167847,40.76289749,PurpleAir-16c7,"Network ID: A6:E5:7C:26:16:C7
+Encryption: Unknown
+Time: 2023-07-25T16:44:44.000-07:00
+Signal: -86.0
+Accuracy: 14.3287
+Type: WIFI"
+-74.01003265,40.76138306,Troy1204,"Network ID: A8:5E:45:88:28:40
+Encryption: WPA2
+Time: 2023-07-25T16:36:09.000-07:00
+Signal: -84.0
+Accuracy: 5.77451
+Type: WIFI"
+-74.03811646,40.68922424,Jerry's Galaxy S22 Ultra,"Network ID: AA:D1:C1:36:74:F0
+Encryption: WPA2
+Time: 2023-07-25T16:08:26.000-07:00
+Signal: -92.0
+Accuracy: 5.80139
+Type: WIFI"
+-74.01066589,40.76070023,TMOBILE-4AAA,"Network ID: AC:8F:A9:77:4A:B3
+Encryption: WPA2
+Time: 2023-07-25T16:35:19.000-07:00
+Signal: -83.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00975037,40.76181793,Teema,"Network ID: AC:DF:9F:40:15:70
+Encryption: WPA3
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -73.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.00987244,40.76160431,Teema,"Network ID: AC:DF:9F:40:15:71
+Encryption: WPA3
+Time: 2023-07-25T16:36:18.000-07:00
+Signal: -89.0
+Accuracy: 5.03974
+Type: WIFI"
+-74.00907135,40.76260757,Circle Line Bronx Wi-Fi,"Network ID: AE:15:44:AB:1D:E0
+Encryption: Unknown
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -71.0
+Accuracy: 4.01601
+Type: WIFI"
+-74.00801086,40.76375198,Circle Line Bronx Wi-Fi,"Network ID: AE:15:44:AB:1E:39
+Encryption: Unknown
+Time: 2023-07-25T16:37:28.000-07:00
+Signal: -74.0
+Accuracy: 5.09173
+Type: WIFI"
+-74.00154877,40.7630043,Lobster Co Guest Wi-Fi,"Network ID: AE:15:44:AB:1E:C1
+Encryption: Unknown
+Time: 2023-07-25T16:47:54.000-07:00
+Signal: -91.0
+Accuracy: 12.0286
+Type: WIFI"
+-74.00839233,40.76336288,Circle Line Bronx Wi-Fi,"Network ID: AE:15:54:AB:1D:E0
+Encryption: Unknown
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -82.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00898743,40.76269913,Circle Line Bronx Wi-Fi,"Network ID: AE:15:54:AB:1E:39
+Encryption: Unknown
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -83.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00839233,40.76336288,Circle Line Bronx Wi-Fi,"Network ID: AE:15:54:AB:1E:9B
+Encryption: Unknown
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -85.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.04546356,40.6861496,Nav,"Network ID: AE:63:66:8D:16:76
+Encryption: WPA2
+Time: 2023-07-25T16:04:46.000-07:00
+Signal: -90.0
+Accuracy: 5.36275
+Type: WIFI"
+-74.02616119,40.71582031,(no SSID),"Network ID: AE:70:5D:5B:4C:59
+Encryption: WPA2
+Time: 2023-07-25T16:15:03.000-07:00
+Signal: -90.0
+Accuracy: 5.2682
+Type: WIFI"
+-74.00997162,40.76147461,(no SSID),"Network ID: AE:DF:9F:70:15:70
+Encryption: WPA3
+Time: 2023-07-25T16:36:13.000-07:00
+Signal: -86.0
+Accuracy: 5.59534
+Type: WIFI"
+-74.02607727,40.71620178,(no SSID),"Network ID: AE:DF:9F:7B:0D:CE
+Encryption: WPA3
+Time: 2023-07-25T16:15:08.000-07:00
+Signal: -76.0
+Accuracy: 4.59738
+Type: WIFI"
+-74.04088593,40.68676758,(no SSID),"Network ID: AE:DF:9F:7B:8F:00
+Encryption: WPA3
+Time: 2023-07-25T16:07:13.000-07:00
+Signal: -86.0
+Accuracy: 3.9933
+Type: WIFI"
+-74.04008484,40.68755722,KOM_BOAT,"Network ID: B0:4E:26:AF:6E:B1
+Encryption: WPA2
+Time: 2023-07-25T16:07:48.000-07:00
+Signal: -90.0
+Accuracy: 4.45604
+Type: WIFI"
+-74.04055786,40.68706512,KOM_BOAT,"Network ID: B0:4E:26:AF:74:00
+Encryption: WPA2
+Time: 2023-07-25T16:07:28.000-07:00
+Signal: -89.0
+Accuracy: 3.83129
+Type: WIFI"
+-74.04151154,40.68623352,KOM_BOAT,"Network ID: B0:4E:26:AF:74:01
+Encryption: WPA2
+Time: 2023-07-25T16:06:52.000-07:00
+Signal: -90.0
+Accuracy: 5.9794
+Type: WIFI"
+-74.02831268,40.70981216,XFINITY,"Network ID: B2:70:5D:0D:69:66
+Encryption: WPA2
+Time: 2023-07-25T16:13:37.000-07:00
+Signal: -92.0
+Accuracy: 3.93372
+Type: WIFI"
+-74.04246521,40.68561554,XFINITY,"Network ID: B2:70:5D:C7:7B:E0
+Encryption: WPA2
+Time: 2023-07-25T16:06:25.000-07:00
+Signal: -92.0
+Accuracy: 6.4793
+Type: WIFI"
+-74.00935364,40.76228333,Hudson 36 Mgmt,"Network ID: B4:FB:E4:15:DC:99
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -88.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.00907135,40.76260757,Hudson 36 Mgmt,"Network ID: B4:FB:E4:15:DF:6F
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -85.0
+Accuracy: 4.01636
+Type: WIFI"
+-74.01013184,40.76118851,harbor1500-Guest,"Network ID: B4:FB:E4:75:01:0B
+Encryption: WPA2
+Time: 2023-07-25T16:36:01.000-07:00
+Signal: -84.0
+Accuracy: 7.11836
+Type: WIFI"
+-74.02570343,40.71759415,Grand_Banks_Secured,"Network ID: B4:FB:E4:91:68:7A
+Encryption: WPA2
+Time: 2023-07-25T16:15:28.000-07:00
+Signal: -84.0
+Accuracy: 6.70256
+Type: WIFI"
+-74.02627563,40.71517181,Grand_Banks_Secured,"Network ID: B4:FB:E4:92:68:7A
+Encryption: WPA2
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -90.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.00907135,40.76260757,(no SSID),"Network ID: B6:15:44:AB:1D:E0
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -70.0
+Accuracy: 4.01636
+Type: WIFI"
+-74.00801086,40.76375198,(no SSID),"Network ID: B6:15:44:AB:1E:39
+Encryption: WPA2
+Time: 2023-07-25T16:37:28.000-07:00
+Signal: -74.0
+Accuracy: 5.09173
+Type: WIFI"
+-74.00793457,40.76383972,(no SSID),"Network ID: B6:15:54:AB:1D:E0
+Encryption: WPA2
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -87.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.02831268,40.70981216,(no SSID),"Network ID: B6:70:5D:0D:69:66
+Encryption: WPA2
+Time: 2023-07-25T16:13:37.000-07:00
+Signal: -92.0
+Accuracy: 3.93372
+Type: WIFI"
+-74.02777863,40.71120071,(no SSID),"Network ID: B6:70:5D:5B:4C:59
+Encryption: WPA2
+Time: 2023-07-25T16:13:57.000-07:00
+Signal: -90.0
+Accuracy: 4.21373
+Type: WIFI"
+-74.0263443,40.71481705,(no SSID),"Network ID: B6:70:5D:97:D0:F8
+Encryption: WPA2
+Time: 2023-07-25T16:14:49.000-07:00
+Signal: -83.0
+Accuracy: 4.93386
+Type: WIFI"
+-74.0404892,40.68712997,(no SSID),"Network ID: B6:DB:48:C7:DC:12
+Encryption: WPA2
+Time: 2023-07-25T16:07:31.000-07:00
+Signal: -90.0
+Accuracy: 3.87506
+Type: WIFI"
+-74.04478455,40.68501282,Fios-4WvZ2,"Network ID: B8:F8:53:3D:F4:47
+Encryption: WPA2
+Time: 2023-07-25T16:05:33.000-07:00
+Signal: -92.0
+Accuracy: 3.82751
+Type: WIFI"
+-74.00839233,40.76336288,Farouk's Wifi,"Network ID: B8:F8:53:5E:37:E4
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -89.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.02627563,40.71517181,Fios-b6ZW5,"Network ID: B8:F8:53:90:72:82
+Encryption: WPA2
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -78.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.04471588,40.68640137,Fios-6GcH3,"Network ID: B8:F8:53:C0:BE:8E
+Encryption: WPA2
+Time: 2023-07-25T16:04:24.000-07:00
+Signal: -88.0
+Accuracy: 6.54699
+Type: WIFI"
+-74.02661896,40.71380997,(no SSID),"Network ID: BA:A4:B7:55:C3:0D
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -85.0
+Accuracy: 5.30288
+Type: WIFI"
+-74.00939941,40.76223373,Hudson 36 Guest,"Network ID: BA:FB:E4:15:DC:99
+Encryption: Unknown
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -86.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.01013184,40.76118851,Harbor Admin,"Network ID: BA:FB:E4:75:01:0B
+Encryption: WPA2
+Time: 2023-07-25T16:36:01.000-07:00
+Signal: -85.0
+Accuracy: 4.82291
+Type: WIFI"
+-74.02570343,40.71759415,Grand_Banks_Toast,"Network ID: BA:FB:E4:91:68:7A
+Encryption: WPA2
+Time: 2023-07-25T16:15:28.000-07:00
+Signal: -82.0
+Accuracy: 6.70256
+Type: WIFI"
+-74.02575684,40.71743774,Spring,"Network ID: BC:A9:93:35:10:D0
+Encryption: WPA2
+Time: 2023-07-25T16:15:26.000-07:00
+Signal: -90.0
+Accuracy: 7.30438
+Type: WIFI"
+-74.02575684,40.71743774,videri,"Network ID: BC:A9:93:35:10:D1
+Encryption: WPA2
+Time: 2023-07-25T16:15:26.000-07:00
+Signal: -91.0
+Accuracy: 6.70256
+Type: WIFI"
+-74.02575684,40.71743774,Spring Guest,"Network ID: BC:A9:93:35:10:D2
+Encryption: WPA2
+Time: 2023-07-25T16:15:26.000-07:00
+Signal: -91.0
+Accuracy: 6.70256
+Type: WIFI"
+-74.02575684,40.71743774,(no SSID),"Network ID: BC:A9:93:35:10:D3
+Encryption: WPA2
+Time: 2023-07-25T16:15:26.000-07:00
+Signal: -90.0
+Accuracy: 7.30438
+Type: WIFI"
+-74.02627563,40.71517181,NYMB,"Network ID: BE:5A:51:34:4D:A4
+Encryption: WPA2
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -88.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.00925446,40.76239395,(no SSID),"Network ID: BE:FB:E4:15:DC:99
+Encryption: WPA2
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -87.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.01013184,40.76118851,1500Guest,"Network ID: BE:FB:E4:75:01:0B
+Encryption: WPA2
+Time: 2023-07-25T16:36:01.000-07:00
+Signal: -85.0
+Accuracy: 4.82291
+Type: WIFI"
+-74.02627563,40.71517181,ARRIS-38E2-5G,"Network ID: C0:C5:22:4E:38:E5
+Encryption: WPA2
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -86.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.02742004,40.7118721,1_West_2416_2G,"Network ID: C0:C9:E3:C7:38:5F
+Encryption: WPA2
+Time: 2023-07-25T16:14:07.000-07:00
+Signal: -84.0
+Accuracy: 3.78449
+Type: WIFI"
+-74.01003265,40.76138306,TMOBILE-E6EB,"Network ID: C0:D7:AA:E8:E6:ED
+Encryption: WPA2
+Time: 2023-07-25T16:36:09.000-07:00
+Signal: -84.0
+Accuracy: 5.77451
+Type: WIFI"
+-74.01111603,40.76003265,Circle Line Bronx Wi-Fi,"Network ID: C2:55:A8:24:BB:7E
+Encryption: Unknown
+Time: 2023-07-25T16:32:57.000-07:00
+Signal: -91.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00793457,40.76383972,Circle Line Bronx Wi-Fi,"Network ID: C2:55:A8:24:BB:85
+Encryption: Unknown
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -74.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.00234985,40.76364517,Circle Line Staten Island Wi-Fi,"Network ID: C2:55:A8:24:BB:E9
+Encryption: Unknown
+Time: 2023-07-25T16:40:54.000-07:00
+Signal: -75.0
+Accuracy: 11.2631
+Type: WIFI"
+-74.04398346,40.68498993,Circle Line Liberty Wi-Fi,"Network ID: C2:55:A8:24:C3:FF
+Encryption: Unknown
+Time: 2023-07-25T16:05:50.000-07:00
+Signal: -82.0
+Accuracy: 3.62262
+Type: WIFI"
+-74.04469299,40.68498993,Circle Line Liberty Wi-Fi,"Network ID: C2:55:A8:24:C4:08
+Encryption: Unknown
+Time: 2023-07-25T16:05:35.000-07:00
+Signal: -73.0
+Accuracy: 3.62262
+Type: WIFI"
+-74.00243378,40.76366806,Circle Line Staten Island Wi-Fi,"Network ID: C2:55:A8:24:C4:40
+Encryption: Unknown
+Time: 2023-07-25T16:40:49.000-07:00
+Signal: -73.0
+Accuracy: 10.5166
+Type: WIFI"
+-74.00158691,40.76298523,Lobster Co Guest Wi-Fi,"Network ID: C2:55:A8:24:C4:6D
+Encryption: Unknown
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -91.0
+Accuracy: 10.9788
+Type: WIFI"
+-74.00917816,40.7624855,Circle Line Manhattan Wi-Fi,"Network ID: C2:55:A8:24:C4:DC
+Encryption: Unknown
+Time: 2023-07-25T16:36:48.000-07:00
+Signal: -74.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.00166321,40.76329803,Circle Line Queens Wi-Fi,"Network ID: C2:55:A8:24:C4:DE
+Encryption: Unknown
+Time: 2023-07-25T16:42:02.000-07:00
+Signal: -78.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.04502869,40.68636703,Circle Line Brooklyn Wi-Fi,"Network ID: C2:55:A8:24:C4:F9
+Encryption: Unknown
+Time: 2023-07-25T16:04:32.000-07:00
+Signal: -83.0
+Accuracy: 4.78991
+Type: WIFI"
+-74.00892639,40.76276398,Internal 1,"Network ID: C2:55:B8:11:DF:CF
+Encryption: WPA3
+Time: 2023-07-25T16:36:57.000-07:00
+Signal: -84.0
+Accuracy: 4.01601
+Type: WIFI"
+-74.00935364,40.76228333,La Barca?s Guest Wi-Fi,"Network ID: C2:55:B8:15:DE:B4
+Encryption: Unknown
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -86.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00892639,40.76276398,Circle Line Bronx Wi-Fi,"Network ID: C2:55:B8:24:BB:7E
+Encryption: Unknown
+Time: 2023-07-25T16:36:57.000-07:00
+Signal: -83.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00839233,40.76336288,Circle Line Bronx Wi-Fi,"Network ID: C2:55:B8:24:BB:85
+Encryption: Unknown
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -82.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00939941,40.76223373,Circle Line Staten Island Wi-Fi,"Network ID: C2:55:B8:24:BB:E9
+Encryption: Unknown
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -83.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.04460144,40.68497086,Circle Line Liberty Wi-Fi,"Network ID: C2:55:B8:24:C3:FF
+Encryption: Unknown
+Time: 2023-07-25T16:05:37.000-07:00
+Signal: -83.0
+Accuracy: 3.6206
+Type: WIFI"
+-74.04407501,40.68497086,Circle Line Liberty Wi-Fi,"Network ID: C2:55:B8:24:C4:08
+Encryption: Unknown
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -87.0
+Accuracy: 3.98894
+Type: WIFI"
+-74.00213623,40.76350784,Circle Line Staten Island Wi-Fi,"Network ID: C2:55:B8:24:C4:40
+Encryption: Unknown
+Time: 2023-07-25T16:41:10.000-07:00
+Signal: -71.0
+Accuracy: 10.4274
+Type: WIFI"
+-74.00939941,40.76223373,Lobster Co Guest Wi-Fi,"Network ID: C2:55:B8:24:C4:6D
+Encryption: Unknown
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -82.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00939941,40.76223373,Circle Line Manhattan Wi-Fi,"Network ID: C2:55:B8:24:C4:DC
+Encryption: Unknown
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -79.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.00239563,40.76365662,Circle Line Queens Wi-Fi,"Network ID: C2:55:B8:24:C4:DE
+Encryption: Unknown
+Time: 2023-07-25T16:40:51.000-07:00
+Signal: -82.0
+Accuracy: 10.4023
+Type: WIFI"
+-74.04562378,40.68594742,Circle Line Brooklyn Wi-Fi,"Network ID: C2:55:B8:24:C4:F9
+Encryption: Unknown
+Time: 2023-07-25T16:04:55.000-07:00
+Signal: -85.0
+Accuracy: 5.63544
+Type: WIFI"
+-74.00935364,40.76228333,revlbc,"Network ID: C2:CB:AC:88:8A:DD
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -82.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.01083374,40.76041794,(no SSID),"Network ID: C2:D7:AA:F9:11:4D
+Encryption: WPA3
+Time: 2023-07-25T16:34:49.000-07:00
+Signal: -91.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.01013184,40.76118851,(no SSID),"Network ID: C2:FB:E4:75:01:0B
+Encryption: WPA2
+Time: 2023-07-25T16:36:01.000-07:00
+Signal: -84.0
+Accuracy: 7.11836
+Type: WIFI"
+-74.00154877,40.76302338,island-1DA350,"Network ID: C4:10:8A:5D:A3:53
+Encryption: WPA2
+Time: 2023-07-25T16:47:06.000-07:00
+Signal: -86.0
+Accuracy: 41.7949
+Type: WIFI"
+-74.00939941,40.76223373,island-1DA350,"Network ID: C4:10:8A:5D:A3:57
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -91.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.01013184,40.76118851,(no SSID),"Network ID: C4:10:8A:61:18:F8
+Encryption: WPA2
+Time: 2023-07-25T16:36:01.000-07:00
+Signal: -91.0
+Accuracy: 4.01601
+Type: WIFI"
+-74.00979614,40.76175308,8A087E 5G,"Network ID: C4:12:F5:8A:08:87
+Encryption: WPA2
+Time: 2023-07-25T16:36:23.000-07:00
+Signal: -88.0
+Accuracy: 4.80678
+Type: WIFI"
+-74.00987244,40.76160431,_LinksysSetup33A,"Network ID: C4:41:1E:A9:B3:3B
+Encryption: WPA2
+Time: 2023-07-25T16:36:18.000-07:00
+Signal: -77.0
+Accuracy: 5.03974
+Type: WIFI"
+-74.00949097,40.76214981,_LinksysSetup33A,"Network ID: C4:41:1E:A9:B3:3D
+Encryption: WPA2
+Time: 2023-07-25T16:36:36.000-07:00
+Signal: -90.0
+Accuracy: 4.82291
+Type: WIFI"
+-74.04003143,40.68761063,nycmesh-6363-omni,"Network ID: C4:AD:34:C9:5A:DE
+Encryption: WPA2
+Time: 2023-07-25T16:07:50.000-07:00
+Signal: -92.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.01124573,40.75977707,(no SSID),"Network ID: C4:AD:34:F8:A7:13
+Encryption: WPA2
+Time: 2023-07-25T16:33:49.000-07:00
+Signal: -89.0
+Accuracy: 5.77451
+Type: WIFI"
+-74.00939941,40.76223373,revlbc,"Network ID: C6:55:B8:15:D9:10
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -84.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.0111084,40.7600441,(no SSID),"Network ID: C6:9E:28:81:8F:77
+Encryption: WPA2
+Time: 2023-07-25T16:32:55.000-07:00
+Signal: -86.0
+Accuracy: 13.2238
+Type: WIFI"
+-74.00182343,40.76333618,(no SSID),"Network ID: C6:9E:28:81:8F:96
+Encryption: WPA2
+Time: 2023-07-25T16:41:33.000-07:00
+Signal: -83.0
+Accuracy: 10.4023
+Type: WIFI"
+-74.00163269,40.76316833,(no SSID),"Network ID: C6:9E:28:81:8F:9A
+Encryption: WPA2
+Time: 2023-07-25T16:42:44.000-07:00
+Signal: -69.0
+Accuracy: 15.7294
+Type: WIFI"
+-74.00935364,40.76228333,(no SSID),"Network ID: C6:9E:38:81:8F:77
+Encryption: None
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -88.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.00188446,40.7633667,(no SSID),"Network ID: C6:9E:38:81:8F:96
+Encryption: WPA2
+Time: 2023-07-25T16:41:29.000-07:00
+Signal: -82.0
+Accuracy: 10.6756
+Type: WIFI"
+-74.00939941,40.76223373,(no SSID),"Network ID: C6:9E:38:81:8F:9A
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -85.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.00907135,40.76260757,(no SSID),"Network ID: C6:9E:38:81:91:49
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -85.0
+Accuracy: 4.01636
+Type: WIFI"
+-74.00935364,40.76228333,(no SSID),"Network ID: C6:9E:38:81:91:4F
+Encryption: None
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -85.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.04003143,40.68761063,-NYC Mesh Community WiFi-,"Network ID: C6:AD:34:C9:5A:DE
+Encryption: Unknown
+Time: 2023-07-25T16:07:50.000-07:00
+Signal: -92.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.04238129,40.68566132,nycmesh-wds,"Network ID: C6:AD:34:C9:5A:DF
+Encryption: WPA2
+Time: 2023-07-25T16:06:27.000-07:00
+Signal: -92.0
+Accuracy: 6.51287
+Type: WIFI"
+-74.00197601,40.76340485,Circle Line Staten Island Wi-Fi,"Network ID: C6:CB:AC:88:8A:D7
+Encryption: Unknown
+Time: 2023-07-25T16:41:23.000-07:00
+Signal: -74.0
+Accuracy: 12.3301
+Type: WIFI"
+-74.00202942,40.76343536,Circle Line Staten Island Wi-Fi,"Network ID: C6:CB:AC:88:8D:0C
+Encryption: Unknown
+Time: 2023-07-25T16:41:19.000-07:00
+Signal: -78.0
+Accuracy: 11.2631
+Type: WIFI"
+-74.00234985,40.76364517,Circle Line Staten Island Wi-Fi,"Network ID: C6:CB:BC:88:8A:D7
+Encryption: Unknown
+Time: 2023-07-25T16:40:54.000-07:00
+Signal: -72.0
+Accuracy: 12.3301
+Type: WIFI"
+-74.00221252,40.76357651,Circle Line Staten Island Wi-Fi,"Network ID: C6:CB:BC:88:8A:ED
+Encryption: Unknown
+Time: 2023-07-25T16:41:04.000-07:00
+Signal: -81.0
+Accuracy: 14.571
+Type: WIFI"
+-74.00234985,40.76364517,Circle Line Staten Island Wi-Fi,"Network ID: C6:CB:BC:88:8D:0C
+Encryption: Unknown
+Time: 2023-07-25T16:40:54.000-07:00
+Signal: -76.0
+Accuracy: 12.3301
+Type: WIFI"
+-74.01144409,40.75977325,(no SSID),"Network ID: C6:E5:32:FF:AF:7E
+Encryption: WPA3
+Time: 2023-07-25T16:30:28.000-07:00
+Signal: -90.0
+Accuracy: 18.7563
+Type: WIFI"
+-74.02602386,40.71642303,ARRIS-DB5D-5G,"Network ID: C8:63:FC:FE:80:0B
+Encryption: WPA2
+Time: 2023-07-25T16:15:11.000-07:00
+Signal: -91.0
+Accuracy: 4.68533
+Type: WIFI"
+-74.02610779,40.71605682,(no SSID),"Network ID: C8:84:8C:8B:9C:3E
+Encryption: WPA2
+Time: 2023-07-25T16:15:06.000-07:00
+Signal: -87.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.02610779,40.71605682,(no SSID),"Network ID: C8:84:8C:8B:BB:EE
+Encryption: WPA2
+Time: 2023-07-25T16:15:06.000-07:00
+Signal: -88.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.02616119,40.71582031,Configure.Me-0BA2C0,"Network ID: C8:84:8C:CB:A2:C3
+Encryption: WPA2
+Time: 2023-07-25T16:15:03.000-07:00
+Signal: -86.0
+Accuracy: 5.2682
+Type: WIFI"
+-74.02630615,40.71502686,Configure.Me-0BD850,"Network ID: C8:84:8C:CB:D8:53
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -81.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.02627563,40.71517181,Configure.Me-0C10F0,"Network ID: C8:84:8C:CC:10:F3
+Encryption: WPA2
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -79.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.02547455,40.71829605,TMOBILE-CACF,"Network ID: C8:99:B2:EA:CA:D1
+Encryption: WPA3
+Time: 2023-07-25T16:15:37.000-07:00
+Signal: -81.0
+Accuracy: 4.32768
+Type: WIFI"
+-74.02667236,40.71365738,TMOBILE-6F23,"Network ID: C8:99:B2:EF:6F:25
+Encryption: WPA3
+Time: 2023-07-25T16:14:33.000-07:00
+Signal: -86.0
+Accuracy: 5.01983
+Type: WIFI"
+-74.02837372,40.70960999,PEGGY HQ,"Network ID: C8:9E:43:A1:E6:70
+Encryption: WPA2
+Time: 2023-07-25T16:13:34.000-07:00
+Signal: -83.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.04166412,40.68612289,TigerKing,"Network ID: C8:C7:50:FF:54:40
+Encryption: WPA2
+Time: 2023-07-25T16:06:48.000-07:00
+Signal: -93.0
+Accuracy: 6.33524
+Type: WIFI"
+-74.02682495,40.71326828,SpectrumSetup-E5,"Network ID: CA:4E:FC:6F:BA:E7
+Encryption: WPA2
+Time: 2023-07-25T16:14:27.000-07:00
+Signal: -90.0
+Accuracy: 4.05021
+Type: WIFI"
+-74.03596497,40.69202805,Governors Island,"Network ID: CA:55:2D:10:93:AE
+Encryption: Unknown
+Time: 2023-07-25T16:09:12.000-07:00
+Signal: -86.0
+Accuracy: 5.90691
+Type: WIFI"
+-74.02840424,40.70944595,Governors Island,"Network ID: CA:55:2D:10:9F:42
+Encryption: Unknown
+Time: 2023-07-25T16:13:32.000-07:00
+Signal: -87.0
+Accuracy: 3.78449
+Type: WIFI"
+-74.04238129,40.68566132,Governors Island,"Network ID: CA:55:2D:10:9F:5A
+Encryption: Unknown
+Time: 2023-07-25T16:06:27.000-07:00
+Signal: -89.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.02848053,40.7090683,Governors Island,"Network ID: CA:55:2D:10:A3:BC
+Encryption: Unknown
+Time: 2023-07-25T16:13:27.000-07:00
+Signal: -84.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.0376358,40.68965912,Governors Island,"Network ID: CA:55:3D:10:9F:5A
+Encryption: Unknown
+Time: 2023-07-25T16:08:34.000-07:00
+Signal: -88.0
+Accuracy: 5.87058
+Type: WIFI"
+-74.02355957,40.72428894,(no SSID),"Network ID: CA:99:B2:FA:C8:0F
+Encryption: WPA3
+Time: 2023-07-25T16:17:01.000-07:00
+Signal: -91.0
+Accuracy: 14.7511
+Type: WIFI"
+-74.02462006,40.72037888,(no SSID),"Network ID: CA:AF:97:06:90:D1
+Encryption: WPA2
+Time: 2023-07-25T16:16:08.000-07:00
+Signal: -87.0
+Accuracy: 11.2822
+Type: WIFI"
+-74.02667236,40.71365738,46 2.4g,"Network ID: CA:CD:D6:25:74:95
+Encryption: WPA2
+Time: 2023-07-25T16:14:33.000-07:00
+Signal: -80.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.04099274,40.6866684,PLATINUM,"Network ID: CC:D5:39:7D:60:00
+Encryption: WPA2
+Time: 2023-07-25T16:07:09.000-07:00
+Signal: -84.0
+Accuracy: 4.27727
+Type: WIFI"
+-74.04139709,40.68632126,SILVER,"Network ID: CC:D5:39:7D:60:01
+Encryption: WPA2
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -88.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.04075623,40.68687057,GOLD,"Network ID: CC:D5:39:7D:60:02
+Encryption: WPA2
+Time: 2023-07-25T16:07:18.000-07:00
+Signal: -83.0
+Accuracy: 4.3068
+Type: WIFI"
+-74.04512024,40.68514633,GOLD,"Network ID: CC:D5:39:7D:60:0D
+Encryption: WPA2
+Time: 2023-07-25T16:05:24.000-07:00
+Signal: -92.0
+Accuracy: 5.55641
+Type: WIFI"
+-74.04532623,40.68527222,SILVER,"Network ID: CC:D5:39:7D:60:0E
+Encryption: WPA2
+Time: 2023-07-25T16:05:18.000-07:00
+Signal: -93.0
+Accuracy: 5.6488
+Type: WIFI"
+-74.04562378,40.68594742,PLATINUM,"Network ID: CC:D5:39:7D:60:0F
+Encryption: WPA2
+Time: 2023-07-25T16:04:55.000-07:00
+Signal: -90.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.01008606,40.76128769,RichRoMesh,"Network ID: CC:F4:11:12:E2:24
+Encryption: WPA2
+Time: 2023-07-25T16:36:05.000-07:00
+Signal: -85.0
+Accuracy: 5.73716
+Type: WIFI"
+-74.00898743,40.76269913,RichRoMeshGuest,"Network ID: CE:F4:11:12:E2:24
+Encryption: WPA2
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -76.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.0451355,40.68633652,Collective Retreats (OPs),"Network ID: D0:21:F9:FC:B8:1E
+Encryption: WPA2
+Time: 2023-07-25T16:04:35.000-07:00
+Signal: -88.0
+Accuracy: 4.76058
+Type: WIFI"
+-74.04471588,40.68640137,meisam?s iPhone,"Network ID: D2:33:EA:E6:67:67
+Encryption: WPA3
+Time: 2023-07-25T16:04:24.000-07:00
+Signal: -91.0
+Accuracy: 6.54699
+Type: WIFI"
+-74.00158691,40.76302338,(no SSID),"Network ID: D4:20:B0:5E:DB:81
+Encryption: WPA2
+Time: 2023-07-25T16:48:24.000-07:00
+Signal: -87.0
+Accuracy: 10.9788
+Type: WIFI"
+-74.02827454,40.70996857,Piplup,"Network ID: D4:5D:64:8B:8F:D1
+Encryption: WPA2
+Time: 2023-07-25T16:13:39.000-07:00
+Signal: -84.0
+Accuracy: 3.98894
+Type: WIFI"
+-74.04502869,40.68636703,att-wifi,"Network ID: D4:68:4D:27:45:9C
+Encryption: Unknown
+Time: 2023-07-25T16:04:32.000-07:00
+Signal: -91.0
+Accuracy: 4.78991
+Type: WIFI"
+-74.04480743,40.68639374,att-wifi,"Network ID: D4:68:4D:27:4A:8C
+Encryption: Unknown
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -89.0
+Accuracy: 5.90951
+Type: WIFI"
+-74.00907135,40.76260757,ARO_Guest,"Network ID: D4:6A:91:D3:53:0E
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -91.0
+Accuracy: 4.01636
+Type: WIFI"
+-74.02610779,40.71605682,Zwifi,"Network ID: D4:6C:6D:0F:81:42
+Encryption: WPA2
+Time: 2023-07-25T16:15:06.000-07:00
+Signal: -76.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.04071045,40.68690872,Moose's Place,"Network ID: D4:B9:2F:ED:16:C5
+Encryption: WPA2
+Time: 2023-07-25T16:07:20.000-07:00
+Signal: -90.0
+Accuracy: 4.66135
+Type: WIFI"
+-74.04063416,40.68698883,xfinitywifi,"Network ID: D4:B9:2F:ED:16:C7
+Encryption: Unknown
+Time: 2023-07-25T16:07:24.000-07:00
+Signal: -93.0
+Accuracy: 3.92982
+Type: WIFI"
+-74.0406723,40.68694687,(no SSID),"Network ID: D4:B9:2F:ED:16:C8
+Encryption: WPA2
+Time: 2023-07-25T16:07:22.000-07:00
+Signal: -92.0
+Accuracy: 4.40187
+Type: WIFI"
+-74.04071045,40.68690872,XFINITY,"Network ID: D4:B9:2F:ED:16:C9
+Encryption: WPA2
+Time: 2023-07-25T16:07:20.000-07:00
+Signal: -90.0
+Accuracy: 4.66135
+Type: WIFI"
+-74.02693939,40.71298981,(no SSID),"Network ID: D4:BD:4F:9A:E4:8E
+Encryption: WPA2
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -86.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02693939,40.71298981,Brookfield Place,"Network ID: D4:BD:4F:9B:1A:C0
+Encryption: Unknown
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -83.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02702332,40.71277618,(no SSID),"Network ID: D4:BD:4F:9B:1A:CE
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -91.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02622986,40.7154007,Brookfield Place,"Network ID: D4:BD:4F:9B:4E:E0
+Encryption: Unknown
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -83.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.02639771,40.71459579,(no SSID),"Network ID: D4:BD:4F:9B:4E:EE
+Encryption: WPA2
+Time: 2023-07-25T16:14:46.000-07:00
+Signal: -90.0
+Accuracy: 4.32768
+Type: WIFI"
+-74.02630615,40.71502686,Brookfield Place,"Network ID: D4:BD:4F:9B:59:60
+Encryption: Unknown
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -88.0
+Accuracy: 4.68533
+Type: WIFI"
+-74.02702332,40.71277618,(no SSID),"Network ID: D4:BD:4F:9B:59:6E
+Encryption: WPA2
+Time: 2023-07-25T16:14:20.000-07:00
+Signal: -92.0
+Accuracy: 4.32691
+Type: WIFI"
+-74.02630615,40.71502686,3202E,"Network ID: D4:E2:CB:E8:A3:BB
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -80.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.00839233,40.76336288,Sale's Office,"Network ID: D6:21:F9:C2:A3:A9
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -89.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.0451355,40.68633652,Billfold Connect,"Network ID: D6:21:F9:FC:B8:1E
+Encryption: WPA2
+Time: 2023-07-25T16:04:35.000-07:00
+Signal: -87.0
+Accuracy: 4.76058
+Type: WIFI"
+-74.02630615,40.71502686,(no SSID),"Network ID: D6:E2:CB:E9:A3:B8
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -79.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.0263443,40.71481705,XFINITY,"Network ID: D6:E2:CB:F0:A3:B8
+Encryption: WPA2
+Time: 2023-07-25T16:14:49.000-07:00
+Signal: -90.0
+Accuracy: 4.93386
+Type: WIFI"
+-74.0263443,40.71481705,(no SSID),"Network ID: D6:E2:CB:F0:A3:B9
+Encryption: WPA2
+Time: 2023-07-25T16:14:49.000-07:00
+Signal: -90.0
+Accuracy: 4.93386
+Type: WIFI"
+-74.02822876,40.71010208,munchkin,"Network ID: D8:07:B6:DB:68:5E
+Encryption: WPA2
+Time: 2023-07-25T16:13:41.000-07:00
+Signal: -87.0
+Accuracy: 3.9337
+Type: WIFI"
+-74.02752686,40.71167755,munchkin,"Network ID: D8:07:B6:DB:68:9A
+Encryption: WPA2
+Time: 2023-07-25T16:14:04.000-07:00
+Signal: -88.0
+Accuracy: 3.79472
+Type: WIFI"
+-74.00154877,40.7630043,island-354B00,"Network ID: D8:38:FC:75:4B:03
+Encryption: WPA2
+Time: 2023-07-25T16:47:54.000-07:00
+Signal: -89.0
+Accuracy: 10.9788
+Type: WIFI"
+-74.00935364,40.76228333,Riverbank West Resident,"Network ID: D8:38:FC:75:4F:8C
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -85.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.00930023,40.76234055,Riverbank West Resident,"Network ID: D8:38:FC:75:56:EC
+Encryption: WPA2
+Time: 2023-07-25T16:36:43.000-07:00
+Signal: -85.0
+Accuracy: 4.01719
+Type: WIFI"
+-74.00839233,40.76336288,Riverbank West Resident,"Network ID: D8:38:FC:76:E2:1C
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -85.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00930023,40.76234055,Riverbank West Resident,"Network ID: D8:38:FC:76:E2:7C
+Encryption: WPA2
+Time: 2023-07-25T16:36:43.000-07:00
+Signal: -82.0
+Accuracy: 4.01719
+Type: WIFI"
+-74.00935364,40.76228333,Riverbank 5G,"Network ID: D8:38:FC:B5:4F:8C
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -83.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.00930023,40.76234055,Riverbank 5G,"Network ID: D8:38:FC:B6:E2:7C
+Encryption: WPA2
+Time: 2023-07-25T16:36:43.000-07:00
+Signal: -82.0
+Accuracy: 4.01719
+Type: WIFI"
+-74.02675629,40.71347046,River View,"Network ID: D8:9C:67:EC:B1:F7
+Encryption: WPA2
+Time: 2023-07-25T16:14:30.000-07:00
+Signal: -83.0
+Accuracy: 3.94433
+Type: WIFI"
+-74.01000214,40.76142883,TroyTowersIOT,"Network ID: DA:21:F9:37:B8:8D
+Encryption: WPA3
+Time: 2023-07-25T16:36:11.000-07:00
+Signal: -85.0
+Accuracy: 6.00074
+Type: WIFI"
+-74.01066589,40.76070023,TroyTowersIOT,"Network ID: DA:21:F9:38:B8:8D
+Encryption: WPA3
+Time: 2023-07-25T16:35:19.000-07:00
+Signal: -91.0
+Accuracy: 26.5153
+Type: WIFI"
+-74.00793457,40.76383972,(no SSID),"Network ID: DA:55:A8:24:BB:85
+Encryption: WPA2
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -76.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.00209045,40.76347733,(no SSID),"Network ID: DA:55:A8:24:BB:E9
+Encryption: None
+Time: 2023-07-25T16:41:14.000-07:00
+Signal: -75.0
+Accuracy: 18.3796
+Type: WIFI"
+-74.04389954,40.68501282,(no SSID),"Network ID: DA:55:A8:24:C3:FF
+Encryption: WPA2
+Time: 2023-07-25T16:05:52.000-07:00
+Signal: -80.0
+Accuracy: 4.16906
+Type: WIFI"
+-74.04505157,40.685112,(no SSID),"Network ID: DA:55:A8:24:C4:08
+Encryption: WPA2
+Time: 2023-07-25T16:05:26.000-07:00
+Signal: -80.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.00274658,40.76382065,(no SSID),"Network ID: DA:55:A8:24:C4:40
+Encryption: WPA2
+Time: 2023-07-25T16:40:33.000-07:00
+Signal: -84.0
+Accuracy: 10.6091
+Type: WIFI"
+-74.00169373,40.76332092,(no SSID),"Network ID: DA:55:A8:24:C4:DE
+Encryption: WPA2
+Time: 2023-07-25T16:41:52.000-07:00
+Signal: -86.0
+Accuracy: 11.5533
+Type: WIFI"
+-74.04560852,40.68564224,(no SSID),"Network ID: DA:55:A8:24:C4:F9
+Encryption: WPA2
+Time: 2023-07-25T16:05:05.000-07:00
+Signal: -89.0
+Accuracy: 7.20641
+Type: WIFI"
+-74.02840424,40.70944595,(no SSID),"Network ID: DA:55:B8:0F:7B:E8
+Encryption: WPA2
+Time: 2023-07-25T16:13:32.000-07:00
+Signal: -91.0
+Accuracy: 4.05123
+Type: WIFI"
+-74.00898743,40.76269913,(no SSID),"Network ID: DA:55:B8:11:DF:CF
+Encryption: WPA2
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -82.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.00158691,40.76298523,(no SSID),"Network ID: DA:55:B8:15:D8:63
+Encryption: WPA2
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -91.0
+Accuracy: 27.3306
+Type: WIFI"
+-74.00935364,40.76228333,(no SSID),"Network ID: DA:55:B8:15:D9:10
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -82.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00939941,40.76223373,(no SSID),"Network ID: DA:55:B8:15:DE:B4
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -89.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.00839233,40.76336288,(no SSID),"Network ID: DA:55:B8:24:BB:7E
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -70.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00197601,40.76340485,(no SSID),"Network ID: DA:55:B8:24:BB:E9
+Encryption: None
+Time: 2023-07-25T16:41:23.000-07:00
+Signal: -80.0
+Accuracy: 12.049
+Type: WIFI"
+-74.04433441,40.68495178,(no SSID),"Network ID: DA:55:B8:24:C3:FF
+Encryption: WPA2
+Time: 2023-07-25T16:05:43.000-07:00
+Signal: -84.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.04460144,40.68497086,(no SSID),"Network ID: DA:55:B8:24:C4:08
+Encryption: WPA2
+Time: 2023-07-25T16:05:37.000-07:00
+Signal: -86.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.00211334,40.76348877,(no SSID),"Network ID: DA:55:B8:24:C4:40
+Encryption: WPA2
+Time: 2023-07-25T16:41:12.000-07:00
+Signal: -78.0
+Accuracy: 12.434
+Type: WIFI"
+-74.00939941,40.76223373,(no SSID),"Network ID: DA:55:B8:24:C4:6D
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -82.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.00935364,40.76228333,(no SSID),"Network ID: DA:55:B8:24:C4:DC
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -83.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.00321198,40.76406097,(no SSID),"Network ID: DA:55:B8:24:C4:DE
+Encryption: WPA2
+Time: 2023-07-25T16:40:13.000-07:00
+Signal: -86.0
+Accuracy: 10.4023
+Type: WIFI"
+-74.04533386,40.68625259,(no SSID),"Network ID: DA:55:B8:24:C4:F9
+Encryption: WPA2
+Time: 2023-07-25T16:04:41.000-07:00
+Signal: -89.0
+Accuracy: 4.59844
+Type: WIFI"
+-74.02850342,40.70893478,(no SSID),"Network ID: DA:55:B8:24:C6:9B
+Encryption: WPA2
+Time: 2023-07-25T16:13:25.000-07:00
+Signal: -85.0
+Accuracy: 3.9337
+Type: WIFI"
+-74.02616119,40.71582031,(no SSID),"Network ID: DA:55:B8:29:1E:A2
+Encryption: WPA2
+Time: 2023-07-25T16:15:03.000-07:00
+Signal: -92.0
+Accuracy: 5.2682
+Type: WIFI"
+-74.02563477,40.71780396,(no SSID),"Network ID: DA:55:B8:54:27:E4
+Encryption: WPA2
+Time: 2023-07-25T16:15:31.000-07:00
+Signal: -92.0
+Accuracy: 6.37082
+Type: WIFI"
+-74.00839233,40.76336288,(no SSID),"Network ID: DC:9F:DB:46:9B:F6
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -87.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.04093933,40.68671417,ubnt-riv-se,"Network ID: DC:9F:DB:5C:54:2D
+Encryption: Unknown
+Time: 2023-07-25T16:07:11.000-07:00
+Signal: -89.0
+Accuracy: 4.21526
+Type: WIFI"
+-74.04480743,40.68639374,ubnt-nyd-s,"Network ID: DC:9F:DB:6A:28:5C
+Encryption: Unknown
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -85.0
+Accuracy: 5.90951
+Type: WIFI"
+-74.02661896,40.71380997,MOTO6630,"Network ID: DC:BF:E9:FB:7C:58
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -82.0
+Accuracy: 5.30288
+Type: WIFI"
+-74.02536011,40.71860123,(no SSID),"Network ID: DC:EB:69:3B:EC:75
+Encryption: WPA2
+Time: 2023-07-25T16:15:41.000-07:00
+Signal: -74.0
+Accuracy: 3.85326
+Type: WIFI"
+-74.02547455,40.71829605,(no SSID),"Network ID: DC:EB:69:3B:EC:77
+Encryption: WPA2
+Time: 2023-07-25T16:15:37.000-07:00
+Signal: -81.0
+Accuracy: 4.32768
+Type: WIFI"
+-74.02837372,40.70960999,(no SSID),"Network ID: DE:07:B6:DB:68:9A
+Encryption: WPA2
+Time: 2023-07-25T16:13:34.000-07:00
+Signal: -84.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.01000214,40.76142883,(no SSID),"Network ID: DE:21:F9:37:B8:8D
+Encryption: WPA2
+Time: 2023-07-25T16:36:11.000-07:00
+Signal: -86.0
+Accuracy: 6.00074
+Type: WIFI"
+-74.00912476,40.76254654,(no SSID),"Network ID: DE:55:2D:10:FA:EA
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -90.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.01003265,40.76138306,(no SSID),"Network ID: DE:CB:AC:35:F9:EE
+Encryption: WPA2
+Time: 2023-07-25T16:36:09.000-07:00
+Signal: -89.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.00205231,40.76345444,(no SSID),"Network ID: DE:CB:AC:88:8A:D7
+Encryption: WPA2
+Time: 2023-07-25T16:41:17.000-07:00
+Signal: -77.0
+Accuracy: 10.902
+Type: WIFI"
+-74.00912476,40.76254654,(no SSID),"Network ID: DE:CB:AC:88:8A:DD
+Encryption: WPA2
+Time: 2023-07-25T16:36:50.000-07:00
+Signal: -85.0
+Accuracy: 4.01649
+Type: WIFI"
+-74.00202942,40.76343536,(no SSID),"Network ID: DE:CB:AC:88:8D:0C
+Encryption: WPA2
+Time: 2023-07-25T16:41:19.000-07:00
+Signal: -78.0
+Accuracy: 12.434
+Type: WIFI"
+-74.00907135,40.76260757,(no SSID),"Network ID: DE:CB:AC:B9:66:46
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -85.0
+Accuracy: 4.01636
+Type: WIFI"
+-74.00234985,40.76364517,(no SSID),"Network ID: DE:CB:BC:88:8A:D7
+Encryption: WPA2
+Time: 2023-07-25T16:40:54.000-07:00
+Signal: -72.0
+Accuracy: 12.3301
+Type: WIFI"
+-74.00265503,40.7637825,(no SSID),"Network ID: DE:CB:BC:88:8A:ED
+Encryption: WPA2
+Time: 2023-07-25T16:40:37.000-07:00
+Signal: -86.0
+Accuracy: 10.902
+Type: WIFI"
+-74.00239563,40.76365662,(no SSID),"Network ID: DE:CB:BC:88:8D:0C
+Encryption: WPA2
+Time: 2023-07-25T16:40:51.000-07:00
+Signal: -75.0
+Accuracy: 12.3137
+Type: WIFI"
+-74.00961304,40.76199722,Marina15,"Network ID: E0:10:7F:15:CB:88
+Encryption: Unknown
+Time: 2023-07-25T16:36:31.000-07:00
+Signal: -76.0
+Accuracy: 4.72112
+Type: WIFI"
+-74.00975037,40.76181793,Marina15,"Network ID: E0:10:7F:15:CF:AC
+Encryption: Unknown
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -90.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.00975037,40.76181793,(no SSID),"Network ID: E0:10:7F:55:CF:AC
+Encryption: WPA2
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -90.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.02661896,40.71380997,Everest,"Network ID: E0:1F:2B:7D:06:4D
+Encryption: WPA2
+Time: 2023-07-25T16:14:35.000-07:00
+Signal: -83.0
+Accuracy: 5.30288
+Type: WIFI"
+-74.02845001,40.70921707,HONEST.NET WIFI,"Network ID: E0:63:DA:65:63:1F
+Encryption: Unknown
+Time: 2023-07-25T16:13:29.000-07:00
+Signal: -82.0
+Accuracy: 5.03154
+Type: WIFI"
+-74.00930023,40.76234055,P66Employee,"Network ID: E0:63:DA:B5:AC:6E
+Encryption: WPA2
+Time: 2023-07-25T16:36:43.000-07:00
+Signal: -87.0
+Accuracy: 4.01719
+Type: WIFI"
+-74.00961304,40.76199722,505 West WiFi,"Network ID: E0:CB:BC:35:F9:EE
+Encryption: Unknown
+Time: 2023-07-25T16:36:31.000-07:00
+Signal: -80.0
+Accuracy: 4.72112
+Type: WIFI"
+-74.00158691,40.76298523,Circle Line Guest Wi-Fi,"Network ID: E2:55:B8:15:D8:63
+Encryption: Unknown
+Time: 2023-07-25T16:45:06.000-07:00
+Signal: -89.0
+Accuracy: 5.09173
+Type: WIFI"
+-74.02777863,40.71120071,(no SSID),"Network ID: E2:55:B8:15:F9:6E
+Encryption: WPA2
+Time: 2023-07-25T16:13:57.000-07:00
+Signal: -92.0
+Accuracy: 4.21373
+Type: WIFI"
+-74.02850342,40.70893478,Circle Line Guest Wi-Fi,"Network ID: E2:55:B8:24:C6:9B
+Encryption: Unknown
+Time: 2023-07-25T16:13:25.000-07:00
+Signal: -85.0
+Accuracy: 4.76885
+Type: WIFI"
+-74.02619934,40.7156105,Staff,"Network ID: E2:55:B8:29:1D:1C
+Encryption: WPA2
+Time: 2023-07-25T16:15:00.000-07:00
+Signal: -86.0
+Accuracy: 5.09479
+Type: WIFI"
+-74.02655792,40.71401215,Staff,"Network ID: E2:55:B8:29:21:D2
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -80.0
+Accuracy: 4.68533
+Type: WIFI"
+-74.00935364,40.76228333,Revelmesh,"Network ID: E2:9E:38:81:91:51
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -88.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.01003265,40.76138306,505 West WiFi,"Network ID: E2:CB:AC:35:F9:EE
+Encryption: Unknown
+Time: 2023-07-25T16:36:09.000-07:00
+Signal: -89.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.00907135,40.76260757,LTT Resident Wi-Fi,"Network ID: E2:CB:AC:B9:66:46
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -85.0
+Accuracy: 4.01636
+Type: WIFI"
+-74.03775787,40.68954468,Brian's Galaxy S21 Ultra 5G,"Network ID: E2:D9:54:CD:3C:52
+Encryption: WPA2
+Time: 2023-07-25T16:08:32.000-07:00
+Signal: -87.0
+Accuracy: 5.77293
+Type: WIFI"
+-74.00839233,40.76336288,(no SSID),"Network ID: E2:EC:5E:D3:77:AC
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -78.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.02547455,40.71829605,NETGEAR98,"Network ID: E4:F4:C6:08:A9:37
+Encryption: WPA2
+Time: 2023-07-25T16:15:37.000-07:00
+Signal: -84.0
+Accuracy: 4.32768
+Type: WIFI"
+-74.03596497,40.69202805,GI_Private,"Network ID: E6:55:2D:10:93:AE
+Encryption: WPA2
+Time: 2023-07-25T16:09:12.000-07:00
+Signal: -86.0
+Accuracy: 5.90691
+Type: WIFI"
+-74.02840424,40.70944595,GI_Private,"Network ID: E6:55:2D:10:9F:42
+Encryption: WPA2
+Time: 2023-07-25T16:13:32.000-07:00
+Signal: -86.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.04471588,40.68640137,GI_Private,"Network ID: E6:55:2D:10:9F:5A
+Encryption: WPA2
+Time: 2023-07-25T16:04:24.000-07:00
+Signal: -89.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.02848053,40.7090683,GI_Private,"Network ID: E6:55:2D:10:A3:BC
+Encryption: WPA2
+Time: 2023-07-25T16:13:27.000-07:00
+Signal: -84.0
+Accuracy: 4.47636
+Type: WIFI"
+-74.02619934,40.7156105,#Mezze Guest WiFi,"Network ID: E6:55:B8:29:1D:1C
+Encryption: Unknown
+Time: 2023-07-25T16:15:00.000-07:00
+Signal: -85.0
+Accuracy: 5.09479
+Type: WIFI"
+-74.02655792,40.71401215,#Mezze Guest WiFi,"Network ID: E6:55:B8:29:21:D2
+Encryption: Unknown
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -84.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.00987244,40.76160431,P66OfficeWifi,"Network ID: E6:63:DA:B4:92:9A
+Encryption: WPA2
+Time: 2023-07-25T16:36:18.000-07:00
+Signal: -78.0
+Accuracy: 5.03974
+Type: WIFI"
+-74.00975037,40.76181793,P66OfficeWifi,"Network ID: E6:63:DA:B5:AC:6E
+Encryption: WPA2
+Time: 2023-07-25T16:36:25.000-07:00
+Signal: -88.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.00939941,40.76223373,revlbc4,"Network ID: E6:CB:AC:88:8A:DD
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -83.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.00907135,40.76260757,LTT Management,"Network ID: E6:CB:AC:B9:66:46
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -85.0
+Accuracy: 4.01636
+Type: WIFI"
+-74.0253067,40.71873093,TP-Link_E2CC,"Network ID: E8:48:B8:1E:E2:CB
+Encryption: WPA2
+Time: 2023-07-25T16:15:43.000-07:00
+Signal: -80.0
+Accuracy: 4.63984
+Type: WIFI"
+-74.0263443,40.71481705,Starry02018,"Network ID: E8:9F:80:8F:B9:5E
+Encryption: WPA2
+Time: 2023-07-25T16:14:49.000-07:00
+Signal: -79.0
+Accuracy: 4.93386
+Type: WIFI"
+-74.02827454,40.70996857,Nanikore,"Network ID: E8:9F:80:90:CE:42
+Encryption: WPA2
+Time: 2023-07-25T16:13:39.000-07:00
+Signal: -79.0
+Accuracy: 3.98894
+Type: WIFI"
+-74.04442596,40.68495178,LGPOS,"Network ID: E8:ED:D6:A3:FD:B8
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -90.0
+Accuracy: 6.21549
+Type: WIFI"
+-74.04433441,40.68495178,Lantern-POS,"Network ID: E8:ED:D6:A3:FD:B9
+Encryption: WPA2
+Time: 2023-07-25T16:05:43.000-07:00
+Signal: -91.0
+Accuracy: 6.21549
+Type: WIFI"
+-74.00211334,40.76348877,(no SSID),"Network ID: EA:55:A8:24:BB:E9
+Encryption: WPA2
+Time: 2023-07-25T16:41:12.000-07:00
+Signal: -75.0
+Accuracy: 10.902
+Type: WIFI"
+-74.00211334,40.76348877,(no SSID),"Network ID: EA:55:A8:24:C4:40
+Encryption: WPA2
+Time: 2023-07-25T16:41:12.000-07:00
+Signal: -72.0
+Accuracy: 10.6091
+Type: WIFI"
+-74.00197601,40.76340485,(no SSID),"Network ID: EA:55:B8:24:BB:E9
+Encryption: WPA2
+Time: 2023-07-25T16:41:23.000-07:00
+Signal: -80.0
+Accuracy: 17.5411
+Type: WIFI"
+-74.00211334,40.76348877,(no SSID),"Network ID: EA:55:B8:24:C4:40
+Encryption: WPA2
+Time: 2023-07-25T16:41:12.000-07:00
+Signal: -78.0
+Accuracy: 14.518
+Type: WIFI"
+-74.00930023,40.76234055,P66Guest,"Network ID: EA:63:DA:B5:AC:6E
+Encryption: Unknown
+Time: 2023-07-25T16:36:43.000-07:00
+Signal: -87.0
+Accuracy: 4.01719
+Type: WIFI"
+-74.02777863,40.71120071,Liberty Landing Marina,"Network ID: EE:55:B8:15:F9:6E
+Encryption: WPA2
+Time: 2023-07-25T16:13:57.000-07:00
+Signal: -91.0
+Accuracy: 4.21373
+Type: WIFI"
+-74.02619934,40.7156105,Management,"Network ID: EE:55:B8:29:1D:1C
+Encryption: WPA2
+Time: 2023-07-25T16:15:00.000-07:00
+Signal: -86.0
+Accuracy: 5.09479
+Type: WIFI"
+-74.02655792,40.71401215,Management,"Network ID: EE:55:B8:29:21:D2
+Encryption: WPA2
+Time: 2023-07-25T16:14:38.000-07:00
+Signal: -83.0
+Accuracy: 4.97867
+Type: WIFI"
+-74.02630615,40.71502686,(no SSID),"Network ID: EE:9F:80:8F:B9:5E
+Encryption: WPA2
+Time: 2023-07-25T16:14:52.000-07:00
+Signal: -81.0
+Accuracy: 5.44857
+Type: WIFI"
+-74.02827454,40.70996857,(no SSID),"Network ID: EE:9F:80:90:CE:42
+Encryption: WPA2
+Time: 2023-07-25T16:13:39.000-07:00
+Signal: -81.0
+Accuracy: 3.98894
+Type: WIFI"
+-74.00205231,40.76345444,(no SSID),"Network ID: EE:CB:AC:88:8A:D7
+Encryption: WPA2
+Time: 2023-07-25T16:41:17.000-07:00
+Signal: -77.0
+Accuracy: 10.902
+Type: WIFI"
+-74.00202942,40.76343536,(no SSID),"Network ID: EE:CB:AC:88:8D:0C
+Encryption: WPA2
+Time: 2023-07-25T16:41:19.000-07:00
+Signal: -78.0
+Accuracy: 10.4241
+Type: WIFI"
+-74.00234985,40.76364517,(no SSID),"Network ID: EE:CB:BC:88:8A:D7
+Encryption: WPA2
+Time: 2023-07-25T16:40:54.000-07:00
+Signal: -71.0
+Accuracy: 12.3301
+Type: WIFI"
+-74.00213623,40.76350784,(no SSID),"Network ID: EE:CB:BC:88:8A:ED
+Encryption: WPA2
+Time: 2023-07-25T16:41:10.000-07:00
+Signal: -84.0
+Accuracy: 16.7008
+Type: WIFI"
+-74.00162506,40.76296234,(no SSID),"Network ID: EE:CB:BC:88:8D:0C
+Encryption: WPA2
+Time: 2023-07-25T16:44:59.000-07:00
+Signal: -82.0
+Accuracy: 23.9507
+Type: WIFI"
+-74.04367065,40.68509674,PLATINUM,"Network ID: F0:29:29:C2:83:A0
+Encryption: WPA2
+Time: 2023-07-25T16:05:58.000-07:00
+Signal: -89.0
+Accuracy: 3.98229
+Type: WIFI"
+-74.04071045,40.68690872,GOLD,"Network ID: F0:29:29:C2:83:A2
+Encryption: WPA2
+Time: 2023-07-25T16:07:20.000-07:00
+Signal: -89.0
+Accuracy: 4.66135
+Type: WIFI"
+-74.04478455,40.68501282,GOLD,"Network ID: F0:29:29:C2:83:AD
+Encryption: WPA2
+Time: 2023-07-25T16:05:33.000-07:00
+Signal: -89.0
+Accuracy: 3.87506
+Type: WIFI"
+-74.04478455,40.68501282,SILVER,"Network ID: F0:29:29:C2:83:AE
+Encryption: WPA2
+Time: 2023-07-25T16:05:33.000-07:00
+Signal: -89.0
+Accuracy: 3.7556
+Type: WIFI"
+-74.04373932,40.68506622,PLATINUM,"Network ID: F0:29:29:C2:83:AF
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -88.0
+Accuracy: 4.79198
+Type: WIFI"
+-74.00961304,40.76199722,TT Net,"Network ID: F0:2F:74:6E:3D:68
+Encryption: WPA2
+Time: 2023-07-25T16:36:31.000-07:00
+Signal: -79.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.00961304,40.76199722,TT Net_5G,"Network ID: F0:2F:74:6E:3D:6C
+Encryption: WPA2
+Time: 2023-07-25T16:36:31.000-07:00
+Signal: -87.0
+Accuracy: 4.72112
+Type: WIFI"
+-74.02722931,40.71226501,Riverside,"Network ID: F0:2F:74:9D:D0:94
+Encryption: WPA2
+Time: 2023-07-25T16:14:13.000-07:00
+Signal: -90.0
+Accuracy: 4.58632
+Type: WIFI"
+-74.04139709,40.68632126,MAXIE,"Network ID: F0:9F:C2:38:7C:2A
+Encryption: WPA2
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -90.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.02845001,40.70921707,SC - Guest,"Network ID: F0:9F:C2:3E:BA:DB
+Encryption: WPA2
+Time: 2023-07-25T16:13:29.000-07:00
+Signal: -91.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.00898743,40.76269913,(no SSID),"Network ID: F2:55:A8:24:C4:DC
+Encryption: WPA2
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -72.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.00917816,40.7624855,(no SSID),"Network ID: F2:55:B8:24:C4:DC
+Encryption: WPA2
+Time: 2023-07-25T16:36:48.000-07:00
+Signal: -82.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.00935364,40.76228333,revdestiny,"Network ID: F2:55:B8:2A:B6:43
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -88.0
+Accuracy: 4.01733
+Type: WIFI"
+-74.02616119,40.71582031,ReOps_GuestNet,"Network ID: F2:9E:38:75:DF:14
+Encryption: WPA2
+Time: 2023-07-25T16:15:03.000-07:00
+Signal: -93.0
+Accuracy: 5.2682
+Type: WIFI"
+-74.04139709,40.68632126,(no SSID),"Network ID: F2:9F:C2:38:7C:2A
+Encryption: WPA2
+Time: 2023-07-25T16:06:55.000-07:00
+Signal: -89.0
+Accuracy: 5.8186
+Type: WIFI"
+-74.01003265,40.76138306,(no SSID),"Network ID: F2:9F:C2:D1:C2:38
+Encryption: WPA2
+Time: 2023-07-25T16:36:09.000-07:00
+Signal: -81.0
+Accuracy: 4.58274
+Type: WIFI"
+-74.01003265,40.76138306,(no SSID),"Network ID: F2:9F:C2:D1:C3:AE
+Encryption: WPA2
+Time: 2023-07-25T16:36:09.000-07:00
+Signal: -82.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.02622986,40.7154007,ConnectHere,"Network ID: F4:05:95:83:54:53
+Encryption: WPA2
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -86.0
+Accuracy: 4.68533
+Type: WIFI"
+-74.02767181,40.71140671,SpectrumSetup-70,"Network ID: F4:05:95:D2:0B:76
+Encryption: WPA2
+Time: 2023-07-25T16:14:00.000-07:00
+Signal: -84.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.04541779,40.68619537,GOLD,"Network ID: F4:1F:C2:A6:C4:AD
+Encryption: WPA2
+Time: 2023-07-25T16:04:44.000-07:00
+Signal: -92.0
+Accuracy: 4.73498
+Type: WIFI"
+-74.04541779,40.68619537,SILVER,"Network ID: F4:1F:C2:A6:C4:AE
+Encryption: WPA2
+Time: 2023-07-25T16:04:44.000-07:00
+Signal: -93.0
+Accuracy: 3.921
+Type: WIFI"
+-74.04546356,40.6861496,PLATINUM,"Network ID: F4:1F:C2:A6:C4:AF
+Encryption: WPA2
+Time: 2023-07-25T16:04:46.000-07:00
+Signal: -91.0
+Accuracy: 5.36275
+Type: WIFI"
+-74.04373932,40.68506622,GOLD,"Network ID: F4:1F:C2:A6:E3:AD
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -86.0
+Accuracy: 4.79198
+Type: WIFI"
+-74.04398346,40.68498993,SILVER,"Network ID: F4:1F:C2:A6:E3:AE
+Encryption: WPA2
+Time: 2023-07-25T16:05:50.000-07:00
+Signal: -89.0
+Accuracy: 4.3068
+Type: WIFI"
+-74.04345703,40.68518448,PLATINUM,"Network ID: F4:1F:C2:A6:E3:AF
+Encryption: WPA2
+Time: 2023-07-25T16:06:03.000-07:00
+Signal: -89.0
+Accuracy: 3.98229
+Type: WIFI"
+-74.04132843,40.68637848,PLATINUM,"Network ID: F4:1F:C2:A6:EB:80
+Encryption: WPA2
+Time: 2023-07-25T16:06:57.000-07:00
+Signal: -85.0
+Accuracy: 5.56213
+Type: WIFI"
+-74.04505157,40.685112,GOLD,"Network ID: F4:1F:C2:A6:EB:82
+Encryption: WPA2
+Time: 2023-07-25T16:05:26.000-07:00
+Signal: -90.0
+Accuracy: 6.0761
+Type: WIFI"
+-74.04268646,40.6855011,GOLD,"Network ID: F4:1F:C2:A6:EB:8D
+Encryption: WPA2
+Time: 2023-07-25T16:06:20.000-07:00
+Signal: -88.0
+Accuracy: 3.82751
+Type: WIFI"
+-74.04442596,40.68495178,SILVER,"Network ID: F4:1F:C2:A6:EB:8E
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -90.0
+Accuracy: 3.98229
+Type: WIFI"
+-74.04373932,40.68506622,PLATINUM,"Network ID: F4:1F:C2:A6:EB:8F
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -92.0
+Accuracy: 4.79198
+Type: WIFI"
+-74.04532623,40.68527222,GOLD,"Network ID: F4:1F:C2:A6:EB:CD
+Encryption: WPA2
+Time: 2023-07-25T16:05:18.000-07:00
+Signal: -86.0
+Accuracy: 4.40187
+Type: WIFI"
+-74.0452652,40.68522644,SILVER,"Network ID: F4:1F:C2:A6:EB:CE
+Encryption: WPA2
+Time: 2023-07-25T16:05:20.000-07:00
+Signal: -92.0
+Accuracy: 4.40187
+Type: WIFI"
+-74.03735352,40.68993378,PLATINUM,"Network ID: F4:1F:C2:A6:EB:CF
+Encryption: WPA2
+Time: 2023-07-25T16:08:39.000-07:00
+Signal: -88.0
+Accuracy: 6.25523
+Type: WIFI"
+-74.04373932,40.68506622,PLATINUM,"Network ID: F4:1F:C2:A7:46:60
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -89.0
+Accuracy: 4.07646
+Type: WIFI"
+-74.04407501,40.68497086,SILVER,"Network ID: F4:1F:C2:A7:46:61
+Encryption: WPA2
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -88.0
+Accuracy: 5.74579
+Type: WIFI"
+-74.04407501,40.68497086,GOLD,"Network ID: F4:1F:C2:A7:46:62
+Encryption: WPA2
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -88.0
+Accuracy: 4.07646
+Type: WIFI"
+-74.04398346,40.68498993,GOLD,"Network ID: F4:1F:C2:A7:46:6D
+Encryption: WPA2
+Time: 2023-07-25T16:05:50.000-07:00
+Signal: -89.0
+Accuracy: 3.9933
+Type: WIFI"
+-74.04433441,40.68495178,SILVER,"Network ID: F4:1F:C2:A7:46:6E
+Encryption: WPA2
+Time: 2023-07-25T16:05:43.000-07:00
+Signal: -92.0
+Accuracy: 4.3068
+Type: WIFI"
+-74.04389954,40.68501282,PLATINUM,"Network ID: F4:1F:C2:A7:46:6F
+Encryption: WPA2
+Time: 2023-07-25T16:05:52.000-07:00
+Signal: -87.0
+Accuracy: 3.92982
+Type: WIFI"
+-74.03726196,40.69004822,PLATINUM,"Network ID: F4:1F:C2:A7:4A:80
+Encryption: WPA2
+Time: 2023-07-25T16:08:41.000-07:00
+Signal: -87.0
+Accuracy: 5.945
+Type: WIFI"
+-74.04560852,40.68564224,GOLD,"Network ID: F4:1F:C2:A7:4A:8D
+Encryption: WPA2
+Time: 2023-07-25T16:05:05.000-07:00
+Signal: -92.0
+Accuracy: 4.3068
+Type: WIFI"
+-74.04304504,40.68534851,SILVER,"Network ID: F4:1F:C2:A7:4A:8E
+Encryption: WPA2
+Time: 2023-07-25T16:06:12.000-07:00
+Signal: -89.0
+Accuracy: 3.7556
+Type: WIFI"
+-74.04286194,40.6854248,PLATINUM,"Network ID: F4:1F:C2:A7:4A:8F
+Encryption: WPA2
+Time: 2023-07-25T16:06:16.000-07:00
+Signal: -92.0
+Accuracy: 3.99485
+Type: WIFI"
+-74.04442596,40.68495178,GOLD,"Network ID: F4:1F:C2:A7:4B:AD
+Encryption: WPA2
+Time: 2023-07-25T16:05:41.000-07:00
+Signal: -86.0
+Accuracy: 3.98229
+Type: WIFI"
+-74.04407501,40.68497086,SILVER,"Network ID: F4:1F:C2:A7:4B:AE
+Encryption: WPA2
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -89.0
+Accuracy: 3.92982
+Type: WIFI"
+-74.04407501,40.68497086,PLATINUM,"Network ID: F4:1F:C2:A7:4B:AF
+Encryption: WPA2
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -90.0
+Accuracy: 4.21526
+Type: WIFI"
+-74.03596497,40.69202805,Spectrum Free Trial,"Network ID: F4:1F:C2:A7:F3:E0
+Encryption: Unknown
+Time: 2023-07-25T16:09:12.000-07:00
+Signal: -93.0
+Accuracy: 5.90691
+Type: WIFI"
+-74.0376358,40.68965912,optimumwifi,"Network ID: F4:1F:C2:A7:F3:E4
+Encryption: Unknown
+Time: 2023-07-25T16:08:34.000-07:00
+Signal: -87.0
+Accuracy: 5.87058
+Type: WIFI"
+-74.00171661,40.76292038,STP-Capture,"Network ID: F4:92:BF:5A:B0:66
+Encryption: WPA2
+Time: 2023-07-25T16:44:26.000-07:00
+Signal: -69.0
+Accuracy: 19.9519
+Type: WIFI"
+-74.00997162,40.76147461,P66Employee,"Network ID: F4:92:BF:5A:B9:61
+Encryption: WPA2
+Time: 2023-07-25T16:36:13.000-07:00
+Signal: -83.0
+Accuracy: 5.59534
+Type: WIFI"
+-74.04492188,40.68638229,7Hanover28thFlr,"Network ID: F4:E2:C6:15:B3:B1
+Encryption: WPA2
+Time: 2023-07-25T16:04:29.000-07:00
+Signal: -90.0
+Accuracy: 5.19769
+Type: WIFI"
+-74.00793457,40.76383972,(no SSID),"Network ID: F6:55:A8:24:BB:85
+Encryption: WPA2
+Time: 2023-07-25T16:37:31.000-07:00
+Signal: -75.0
+Accuracy: 5.61279
+Type: WIFI"
+-74.04373932,40.68506622,(no SSID),"Network ID: F6:55:A8:24:C3:FF
+Encryption: WPA2
+Time: 2023-07-25T16:05:56.000-07:00
+Signal: -79.0
+Accuracy: 4.16906
+Type: WIFI"
+-74.04418182,40.6849556,(no SSID),"Network ID: F6:55:A8:24:C4:08
+Encryption: WPA2
+Time: 2023-07-25T16:05:46.000-07:00
+Signal: -82.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.00898743,40.76269913,(no SSID),"Network ID: F6:55:A8:24:C4:DC
+Encryption: WPA2
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -73.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.00333405,40.76412964,(no SSID),"Network ID: F6:55:A8:24:C4:DE
+Encryption: WPA2
+Time: 2023-07-25T16:40:07.000-07:00
+Signal: -80.0
+Accuracy: 11.2715
+Type: WIFI"
+-74.04541779,40.68619537,(no SSID),"Network ID: F6:55:A8:24:C4:F9
+Encryption: WPA2
+Time: 2023-07-25T16:04:44.000-07:00
+Signal: -74.0
+Accuracy: 5.00297
+Type: WIFI"
+-74.00839233,40.76336288,(no SSID),"Network ID: F6:55:B8:24:BB:7E
+Encryption: WPA2
+Time: 2023-07-25T16:37:15.000-07:00
+Signal: -70.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00801086,40.76375198,(no SSID),"Network ID: F6:55:B8:24:BB:85
+Encryption: WPA2
+Time: 2023-07-25T16:37:28.000-07:00
+Signal: -79.0
+Accuracy: 5.09173
+Type: WIFI"
+-74.04460144,40.68497086,(no SSID),"Network ID: F6:55:B8:24:C3:FF
+Encryption: WPA2
+Time: 2023-07-25T16:05:37.000-07:00
+Signal: -85.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.04407501,40.68497086,(no SSID),"Network ID: F6:55:B8:24:C4:08
+Encryption: WPA2
+Time: 2023-07-25T16:05:48.000-07:00
+Signal: -88.0
+Accuracy: 3.6206
+Type: WIFI"
+-74.00917816,40.7624855,(no SSID),"Network ID: F6:55:B8:24:C4:DC
+Encryption: WPA2
+Time: 2023-07-25T16:36:48.000-07:00
+Signal: -82.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.0025177,40.76371002,(no SSID),"Network ID: F6:55:B8:24:C4:DE
+Encryption: WPA2
+Time: 2023-07-25T16:40:45.000-07:00
+Signal: -76.0
+Accuracy: 10.4023
+Type: WIFI"
+-74.04452515,40.68639755,(no SSID),"Network ID: F6:55:B8:24:C4:F9
+Encryption: WPA2
+Time: 2023-07-25T16:04:19.000-07:00
+Signal: -80.0
+Accuracy: 6.40886
+Type: WIFI"
+-74.02845001,40.70921707,SC - Guest,"Network ID: F6:9F:C2:3E:4F:FD
+Encryption: WPA2
+Time: 2023-07-25T16:13:29.000-07:00
+Signal: -86.0
+Accuracy: 5.03154
+Type: WIFI"
+-74.02845001,40.70921707,SC - Scanners,"Network ID: F6:9F:C2:3E:BA:DB
+Encryption: WPA2
+Time: 2023-07-25T16:13:29.000-07:00
+Signal: -91.0
+Accuracy: 5.03154
+Type: WIFI"
+-74.0111084,40.7600441,ShowTime,"Network ID: F8:9E:28:81:8F:77
+Encryption: WPA2
+Time: 2023-07-25T16:32:55.000-07:00
+Signal: -86.0
+Accuracy: 4.01663
+Type: WIFI"
+-74.00182343,40.76333618,ShowTime,"Network ID: F8:9E:28:81:8F:96
+Encryption: WPA2
+Time: 2023-07-25T16:41:33.000-07:00
+Signal: -83.0
+Accuracy: 10.4023
+Type: WIFI"
+-74.00161743,40.76319885,ShowTime,"Network ID: F8:9E:28:81:8F:9A
+Encryption: WPA2
+Time: 2023-07-25T16:42:33.000-07:00
+Signal: -65.0
+Accuracy: 12.434
+Type: WIFI"
+-74.02840424,40.70944595,QC-NY-Corp,"Network ID: F8:D9:B8:3A:8C:90
+Encryption: WPA2
+Time: 2023-07-25T16:13:32.000-07:00
+Signal: -89.0
+Accuracy: 4.05123
+Type: WIFI"
+-74.02822876,40.71010208,QC-NY-Guest,"Network ID: F8:D9:B8:3A:8C:92
+Encryption: Unknown
+Time: 2023-07-25T16:13:41.000-07:00
+Signal: -93.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02752686,40.71167755,QC-NY-Guest,"Network ID: F8:D9:B8:3A:8C:9A
+Encryption: Unknown
+Time: 2023-07-25T16:14:04.000-07:00
+Signal: -91.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02837372,40.70960999,QC-NY-Corp,"Network ID: F8:D9:B8:3A:8D:30
+Encryption: WPA2
+Time: 2023-07-25T16:13:34.000-07:00
+Signal: -91.0
+Accuracy: 3.70152
+Type: WIFI"
+-74.02693939,40.71298981,QC-NY-Guest,"Network ID: F8:D9:B8:3A:8D:32
+Encryption: Unknown
+Time: 2023-07-25T16:14:23.000-07:00
+Signal: -90.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02845001,40.70921707,QC-NY-Corp,"Network ID: F8:D9:B8:3A:8D:38
+Encryption: WPA2
+Time: 2023-07-25T16:13:29.000-07:00
+Signal: -91.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02863312,40.70798111,QC-NY-Guest,"Network ID: F8:D9:B8:3A:8D:3A
+Encryption: Unknown
+Time: 2023-07-25T16:13:12.000-07:00
+Signal: -92.0
+Accuracy: 4.20293
+Type: WIFI"
+-74.02831268,40.70981216,QC-NY-Corp,"Network ID: F8:D9:B8:3A:ED:70
+Encryption: WPA2
+Time: 2023-07-25T16:13:37.000-07:00
+Signal: -92.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02827454,40.70996857,QC-NY-Corp,"Network ID: F8:D9:B8:3A:ED:78
+Encryption: WPA2
+Time: 2023-07-25T16:13:39.000-07:00
+Signal: -90.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.02863312,40.70798111,QC-NY-Guest,"Network ID: F8:D9:B8:3A:ED:7A
+Encryption: Unknown
+Time: 2023-07-25T16:13:12.000-07:00
+Signal: -89.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.03596497,40.69202805,IslandNet Admin,"Network ID: FA:55:2D:10:93:AE
+Encryption: WPA2
+Time: 2023-07-25T16:09:12.000-07:00
+Signal: -86.0
+Accuracy: 5.90691
+Type: WIFI"
+-74.02840424,40.70944595,IslandNet Admin,"Network ID: FA:55:2D:10:9F:42
+Encryption: WPA2
+Time: 2023-07-25T16:13:32.000-07:00
+Signal: -87.0
+Accuracy: 3.8557
+Type: WIFI"
+-74.02827454,40.70996857,IslandNet Admin,"Network ID: FA:55:2D:10:9F:5A
+Encryption: WPA2
+Time: 2023-07-25T16:13:39.000-07:00
+Signal: -87.0
+Accuracy: 3.98894
+Type: WIFI"
+-74.02848053,40.7090683,IslandNet Admin,"Network ID: FA:55:2D:10:A3:BC
+Encryption: WPA2
+Time: 2023-07-25T16:13:27.000-07:00
+Signal: -84.0
+Accuracy: 3.70076
+Type: WIFI"
+-74.02622986,40.7154007,IslandNet Admin,"Network ID: FA:55:2D:10:A6:BA
+Encryption: WPA2
+Time: 2023-07-25T16:14:57.000-07:00
+Signal: -90.0
+Accuracy: 4.92336
+Type: WIFI"
+-74.0376358,40.68965912,IslandNet Admin,"Network ID: FA:55:3D:10:9F:5A
+Encryption: WPA2
+Time: 2023-07-25T16:08:34.000-07:00
+Signal: -87.0
+Accuracy: 5.87058
+Type: WIFI"
+-74.0016861,40.7629509,(no SSID),"Network ID: FA:92:BF:5A:B0:66
+Encryption: WPA2
+Time: 2023-07-25T16:43:43.000-07:00
+Signal: -70.0
+Accuracy: 11.0106
+Type: WIFI"
+-74.00997162,40.76147461,P66OfficeWifi,"Network ID: FA:92:BF:5A:B9:61
+Encryption: WPA2
+Time: 2023-07-25T16:36:13.000-07:00
+Signal: -83.0
+Accuracy: 5.59534
+Type: WIFI"
+-74.00167847,40.76289749,STP-Capture,"Network ID: FA:92:BF:5B:B0:66
+Encryption: WPA2
+Time: 2023-07-25T16:44:44.000-07:00
+Signal: -75.0
+Accuracy: 18.4136
+Type: WIFI"
+-74.00925446,40.76239395,ShowTime,"Network ID: FA:9E:38:81:8F:77
+Encryption: WPA2
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -86.0
+Accuracy: 4.01474
+Type: WIFI"
+-74.00939941,40.76223373,ShowTime,"Network ID: FA:9E:38:81:8F:96
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -86.0
+Accuracy: 4.03639
+Type: WIFI"
+-74.00939941,40.76223373,ShowTime,"Network ID: FA:9E:38:81:8F:9A
+Encryption: WPA2
+Time: 2023-07-25T16:36:39.000-07:00
+Signal: -85.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.00935364,40.76228333,ShowTime,"Network ID: FA:9E:38:81:91:4F
+Encryption: WPA2
+Time: 2023-07-25T16:36:41.000-07:00
+Signal: -86.0
+Accuracy: 4.01482
+Type: WIFI"
+-74.02850342,40.70893478,SC - Scanners,"Network ID: FA:9F:C2:3E:4F:FD
+Encryption: WPA2
+Time: 2023-07-25T16:13:25.000-07:00
+Signal: -89.0
+Accuracy: 4.78334
+Type: WIFI"
+-74.04492188,40.68638229,(no SSID),"Network ID: FA:E2:C6:15:B3:B1
+Encryption: WPA2
+Time: 2023-07-25T16:04:29.000-07:00
+Signal: -91.0
+Accuracy: 5.19769
+Type: WIFI"
+-74.0406723,40.68694687,Police Surveillance Van,"Network ID: FC:12:63:49:13:7C
+Encryption: WPA2
+Time: 2023-07-25T16:07:22.000-07:00
+Signal: -89.0
+Accuracy: 4.40187
+Type: WIFI"
+-74.02627563,40.71517181,KingTut2,"Network ID: FC:12:63:A6:0F:86
+Encryption: WPA2
+Time: 2023-07-25T16:14:54.000-07:00
+Signal: -92.0
+Accuracy: 5.23971
+Type: WIFI"
+-74.02616119,40.71582031,Riverside,"Network ID: FC:34:97:41:A0:10
+Encryption: WPA2
+Time: 2023-07-25T16:15:03.000-07:00
+Signal: -81.0
+Accuracy: 5.2682
+Type: WIFI"
+-74.00907135,40.76260757,Scott Rosenberg Studio,"Network ID: FC:5C:45:03:74:EC
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -90.0
+Accuracy: 4.01636
+Type: WIFI"
+-74.00907135,40.76260757,Studio Guest,"Network ID: FC:5C:45:43:74:EC
+Encryption: WPA2
+Time: 2023-07-25T16:36:52.000-07:00
+Signal: -90.0
+Accuracy: 4.01636
+Type: WIFI"
+-74.04480743,40.68639374,ubnt-jsy-se,"Network ID: FC:EC:DA:06:6E:21
+Encryption: Unknown
+Time: 2023-07-25T16:04:26.000-07:00
+Signal: -85.0
+Accuracy: 3.70008
+Type: WIFI"
+-74.01008606,40.76128769,CCI_Camera1,"Network ID: FC:EC:DA:9C:B3:DB
+Encryption: WPA2
+Time: 2023-07-25T16:36:05.000-07:00
+Signal: -88.0
+Accuracy: 5.73716
+Type: WIFI"
+-74.04304504,40.68534851,SM-N970W1692,"Network ID: FE:2B:8A:9A:75:9E
+Encryption: WPA2
+Time: 2023-07-25T16:06:12.000-07:00
+Signal: -87.0
+Accuracy: 6.59242
+Type: WIFI"
+-74.0016861,40.76290512,Charlotte?s iPhone,"Network ID: FE:4A:E3:29:F6:F0
+Encryption: WPA3
+Time: 2023-07-25T16:44:37.000-07:00
+Signal: -45.0
+Accuracy: 28.5402
+Type: WIFI"
+-74.00898743,40.76269913,(no SSID),"Network ID: FE:55:B8:11:DF:CF
+Encryption: WPA3
+Time: 2023-07-25T16:36:55.000-07:00
+Signal: -86.0
+Accuracy: 4.01615
+Type: WIFI"
+-74.00997162,40.76147461,P66Guest,"Network ID: FE:92:BF:5A:B9:61
+Encryption: Unknown
+Time: 2023-07-25T16:36:13.000-07:00
+Signal: -83.0
+Accuracy: 5.59534
+Type: WIFI"
+-74.0016861,40.76290131,(no SSID),"Network ID: FE:92:BF:5B:B0:66
+Encryption: WPA2
+Time: 2023-07-25T16:44:39.000-07:00
+Signal: -78.0
+Accuracy: 19.3609
+Type: WIFI"
+-74.00925446,40.76239395,P66Guest,"Network ID: FE:92:BF:5B:B9:61
+Encryption: Unknown
+Time: 2023-07-25T16:36:45.000-07:00
+Signal: -89.0
+Accuracy: 4.01684
+Type: WIFI"
+-74.02850342,40.70893478,SC - Office,"Network ID: FE:9F:C2:3E:4F:FD
+Encryption: WPA2
+Time: 2023-07-25T16:13:25.000-07:00
+Signal: -89.0
+Accuracy: 3.70076
+Type: WIFI"
